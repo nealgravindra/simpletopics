@@ -5,9 +5,13 @@ load_txtdata.py
 
   Instructions:
     - for extracting txt from articles
-      1. python pkg PyPDF2 OR (quicker) manually sourced
+      1. python pkg PyPDF2 OR (quicker) manually via opening pdf in Acrobat,
+         exporting to txt
 
+  Arguments (if __main__):
+    1.
 '''
+
 
 
 if __name__ == '__main__':
