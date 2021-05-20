@@ -1,0 +1,1447 @@
+Extrapulmonary manifestations of COVID-19 
+Aakriti Gupta.
+1,2,3,20, Mahesh V. Madhavan.
+
+1,2,20, Kartik Sehgal.
+4,5,6,20, Nandini Nair7, Shiwani Mahajan.
+3,8, Tejasav S. Sehrawat.
+
+9, Behnood Bikdeli1,2,3, Neha Ahluwalia10, John C. Ausiello7, Elaine Y. Wan1, Daniel E. Freedberg11, Ajay J. Kirtane2, Sahil A. Parikh1,2, Mathew S. Maurer1, Anna S. Nordvig12, Domenico Accili7, Joan M. Bathon13, Sumit Mohan.
+
+14,15, Kenneth A. Bauer4,6, 
+
+12,15 
+
+Martin B. Leon1,2, Harlan M. Krumholz.
+3,8,16, Nir Uriel1, Mandeep R. Mehra17, Mitchell S. V. Elkind.
+
+, Gregg W. Stone2,18, Allan Schwartz1, David D. Ho19, John P. Bilezikian7 and Donald W. Landry14.. 
+Although COVID-19 is most well known for causing substantial respiratory pathology, it can also result in several extrapulmo­nary manifestations. These conditions include thrombotic complications, myocardial dysfunction and arrhythmia, acute coro­nary syndromes, acute kidney injury, gastrointestinal symptoms, hepatocellular injury, hyperglycemia and ketosis, neurologic illnesses, ocular symptoms, and dermatologic complications. Given that ACE2, the entry receptor for the causative corona-virus SARS-CoV-2, is expressed in multiple extrapulmonary tissues, direct viral tissue damage is a plausible mechanism of injury. In addition, endothelial damage and thromboinflammation, dysregulation of immune responses, and maladaptation of ACE2-related pathways might all contribute to these extrapulmonary manifestations of COVID-19. Here we review the extra-pulmonary organ-specific pathophysiology, presentations and management considerations for patients with COVID-19 to aid clinicians and scientists in recognizing and monitoring the spectrum of manifestations, and in developing research priorities and therapeutic strategies for all organ systems involved. 
+T
+he coronavirus SARS-CoV-2 (severe acute respiratory syn-on various organ systems, accompanied by insights from our expe­drome coronavirus 2), which is responsible for the disease rience at the Columbia University Irving Medical Center in New COVID-19 (coronavirus disease 2019), has infected over 9.5 York City at the epicenter of the pandemic. million people and has caused more than 480,000 deaths globally, as of 24 June 2020 (ref. 1). While SARS-CoV-2 is known to cause Pathophysiology substantial pulmonary disease, including pneumonia and acute SARS-CoV-2 seems to employ mechanisms for receptor recogni­respiratory distress syndrome (ARDS), clinicians have observed tion similar to those used by prior virulent coronaviruses such as many extrapulmonary manifestations of COVID-19. Our clini-SARS-CoV, the pathogen responsible for the SARS epidemic of cal experience and the emerging literature suggest that the hema-2003 (refs. 8–11). The coronavirus spike protein facilitates entry of tologic, cardiovascular, renal, gastrointestinal and hepatobiliary, the virus into target cells. The spike subunit of SARS-CoV and that endocrinologic, neurologic, ophthalmologic, and dermatologic sys-of SARS CoV-2 engage ACE2 (angiotensin-converting enzyme 2) tems can all be affected (Supplementary Table)2–6. This pathology as an entry receptor (Fig. 1). In addition, cell entry requires prim-may reflect either extrapulmonary dissemination and replication ing of the spike protein by the cellular serine protease TMPRSS2 of SARS-CoV-2, as has been observed for other zoonotic coronavi-or other proteases12. Co-expression on the cell surface of ACE2 ruses7, or widespread immunopathological sequelae of the disease. and TMPRSS2 is required for the completion of this entry pro-To provide a perspective on these extrapulmonary manifestations, cess. In addition, the efficiency with which the virus binds to we discuss the pathophysiology and clinical impact of COVID-19 ACE2 is a key determinant of transmissibility, as shown in studies 
+1Division of Cardiology, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA. 2Clinical Trials Center, Cardiovascular Research Foundation, New York, NY, USA. 3Center for Outcomes Research and Evaluation, Yale New Haven Hospital, New Haven, CT, USA. 4Division of Hematology and Oncology, Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA, USA. 5Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA. 6Harvard Medical School, Boston, MA, USA. 7Division of Endocrinology, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, New York, NY, USA. 8Division of Cardiology, Department of Internal Medicine, Yale University School of Medicine, New Haven, CT, USA. 9Division of Gastroenterology and Hepatology, Department of Medicine, Mayo Clinic, Rochester, MN, USA. 10Division of Cardiology, Department of Pediatrics, Icahn School of Medicine at Mount Sinai, New York, NY, USA. 11Division of Digestive and Liver Diseases, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA. 12Department of Neurology, Vagelos College of Physicians and Surgeons, Columbia University and the NewYork–Presbyterian Hospital, New York, NY, USA. 13Division of Rheumatology, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA. 14Division of Nephrology, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA. 15Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, NY, USA. 16Department of Health Policy and Management, Yale School of Public Health, New Haven, CT, USA. 17Division of Cardiovascular Medicine, Department of Medicine, Brigham and Women’s Hospital Heart and Vascular Center and Harvard Medical School, Boston, MA, USA. 18Division of Cardiology, Department of Medicine, the Zena and Michael A. Wiener Cardiovascular Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA. 19Aaron Diamond AIDS Research Center, Department of Medicine, NewYork-Presbyterian/Columbia University Irving Medical Center, New York, NY, USA. 20These authors contributed equally: Aakriti Gupta, Mahesh V. Madhavan, Kartik Sehgal. .e-mail: dwl1@cumc.columbia.edu 
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+
+
+
+• Inflammation 
+• Vasoconstriction Host cell 
+• Vascular permeability 
+Fig. 1 | Pathophysiology of COVID-19. SARS-CoV-2 enters host cells through interaction of its spike protein with the entry receptor ACE2 in the presence of TMPRSS2 (far left). Proposed mechanisms for COVID-19 caused by infection with SARS-CoV-2 include (1) direct virus-mediated cell damage; (2) dysregulation of the RAAS as a consequence of downregulation of ACE2 related to viral entry, which leads to decreased cleavage of angiotensin I and angiotensin II; (3) endothelial cell damage and thromboinflammation; and (4) dysregulation of the immune response and hyperinflammation caused by inhibition of interferon signaling by the virus, T cell lymphodepletion, and the production of proinflammatory cytokines, particularly IL-6 and TNFa. 
+of SARS-CoV13. Recent studies have demonstrated higher affin­ity of binding of SARS-CoV-2 to ACE2 than of SARS-CoV to ACE2, which may partially explain the increased transmissibility of SARS-CoV-214–16. 
+Key mechanisms that may have a role in the pathophysiology of multi-organ injury secondary to infection with SARS-CoV-2 include direct viral toxicity, endothelial cell damage and throm­boinflammation, dysregulation of the immune response, and dys­regulation of the renin–angiotensin–aldosterone system (RAAS) (Fig. 1). The relative importance of these mechanisms in the patho­
+physiology of COVID-19 is currently not fully understood. While some of these mechanisms, including ACE2-mediated viral entry and tissue damage, and dysregulation of the RAAS, may be unique to COVID-19, the immune pathogenesis caused by the systemic release of cytokines and the microcirculation dysfunctions may also occur secondary to sepsis17. 
+Direct viral toxicity. SARS-CoV-2 is transmitted mainly through direct or indirect respiratory-tract exposure. It has tropism for the respiratory tract, given the high expression of ACE2, its entry recep­tor, in multiple epithelial cell types of the airway, including alveolar epithelial type II cells in the lung parenchyma18,19. Live SARS-CoV-2 virus and viral subgenomic mRNA isolated from the upper airway can successfully be detected by RT-PCR. Later in the disease course, viral replication may occur in the lower respiratory tract20, which manifests in severe cases as pneumonia and ARDS. 
+Studies evaluating body-site-specific viral replication of SARS-CoV-2 have isolated viral RNA from fecal samples at high titers2,20 and, less commonly, from urine and blood21,22. Histopathological studies have reported organotropism of SARS­CoV-2 beyond the respiratory tract, including tropism to renal21,23, myocardial21,24, neurologic21, pharyngeal21, and gastrointestinal25 tissues. In addition, single-cell RNA-sequencing studies have con­firmed expression of ACE2 and TMPRSS2 in lung alveolar epithelial type II cells, nasal goblet secretory cells, cholangiocytes, colono­cytes, esophageal keratinocytes, gastrointestinal epithelial cells, pancreatic ß-cells, and renal proximal tubules and podocytes21,26–28. These findings suggest that multiple-organ injury may occur at least in part due to direct viral tissue damage. The mechanism of extrapulmonary spread of SARS-CoV-2, whether hematogenous or otherwise, remains elusive. 
+Endothelial cell damage and thromboinflammation. Endothelial cell damage by virtue of ACE2-mediated entry of SARS-CoV-2 and subsequent inflammation and the generation of a prothrom­botic milieu are other proposed pathophysiological mechanisms of COVID-1929–31. ACE2 expression has been demonstrated in arte­rial and venous endothelium of several organs29,32, and histopatho­logical studies have found microscopic evidence of SARS-CoV-2 viral particles in endothelial cells of the kidneys31 and lungs29. Infection-mediated endothelial injury (characterized by elevated levels of von Willebrand factor) and endothelialitis (marked by the presence of activated neutrophils and macrophages), found in mul­tiple vascular beds (including the lungs, kidney, heart, small intes­tine, and liver) in patients with COVID-19, can trigger excessive thrombin production, inhibit fibrinolysis, and activate complement pathways, initiating thromboinflammation and ultimately leading to microthrombi deposition and microvascular dysfunction31,33–36. Platelet–neutrophil cross-communication and activation of mac­rophages in this setting can facilitate a variety of proinflammatory effects, such as cytokine release, the formation of neutrophil extracel­lular traps (NETs), and fibrin and/or microthrombus formation37–40. NETs further damage the endothelium and activate both extrinsic coagulation pathways and intrinsic coagulation pathways. They were detected at higher levels in patients hospitalized with COVID-19 in a study from a large academic center in the USA (50 patients and 30 control participants), with a ‘pro-NETotic state’ positively correlating with severe illness41. Hypoxia-mediated hyperviscosity and upregulation of the HIF-1 (hypoxia-inducible factor 1) signal­ing pathway subsequent to acute lung injury may also contribute to the prothrombotic state42. Finally, direct coronavirus-mediated effects may also lead to an imbalance of pro- and anti-coagulant pathways43,44. Small case reports and case series have demonstrated the presence of fibrinous exudates and microthrombi in histopatho­logical examinations in patients with COVID-1944–48. 
+Dysregulation of the immune response. Dysregulated immune response and cytokine-release syndrome, due to overactivation of 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+innate immunity in the setting of T cell lymphodepletion, char­acterize the presentations of severe COVID-1949. Prior preclinical and human studies with pathogenic human coronaviruses have proposed rapid viral replication, antagonism of interferon signaling, and activation of neutrophils and monocyte-macrophages as medi­ators of hyperinflammation50,51. Elevation of serum inflammatory markers such as C-reactive protein, ferritin, erythrocyte sedimen­tation rate, D-dimer, fibrinogen, and lactate dehydrogenase is pre­dictive of subsequent critical illness and mortality in patients with COVID-194,5,52–54. These patterns of laboratory abnormalities have been compared with secondary hemophagocytic lymphohistiocyto­sis–macrophage-activation syndrome, previously demonstrated in pathological samples from patients who died from infection with SARS-CoV55,56. Higher levels of the cytokine IL-6 in the serum have also been linked to a worse prognosis4,5,52,54,57 and have been found to correlate with fibrinogen levels in patients with COVID-1958–60. Clinical trials for treating COVID-19 by targeting the IL-6 signaling pathway are underway and hope to mitigate the deleterious effects of the activation of this pathway55. Immune system–related mani­festations found in patients with COVID-19, including those of cytokine-release syndrome, are presented in Box 1. 
+Dysregulation of the RAAS. Maladaptive functions of the RAAS constitute another plausible pathophysiological mechanism of SARS-CoV-2 infection–related tissue damage. The RAAS is com­posed of a cascade of regulatory peptides that participate in key physiological processes of the body, including fluid and electrolyte balance, blood-pressure regulation, vascular permeability, and tissue growth61. ACE2, a membrane-bound aminopeptidase, has emerged as a potent counter-regulator of the RAAS pathway. ACE2 cleaves angiotensin I into inactive angiotensin 1-9 and cleaves angiotensin II into angiotensin 1-7, which has vasodilator, anti-proliferative, and antifibrotic properties62–64. While the pathophysiology of SARS-CoV-2 may not be limited exclusively to ACE2-related path­ways, these findings may have implications for the organ-specific clinical manifestations of COVID-19 (Fig. 2). 
+Hematologic manifestations 
+Patients with COVID-19 may present with several laboratory abnormalities and thromboembolic complications. The hemato­logic manifestations and management considerations of COVID-19 are presented in Box 1. 
+Epidemiology and clinical presentation. Lymphopenia, a marker of impaired cellular immunity, is a cardinal laboratory finding reported in 67–90% of patients with COVID-19, with prognostic association in the vast majority of studies published so far2,4,5,57,65–69. Studies examining specific lymphocyte subsets have revealed decreases in both CD4+ T cells70 and CD8+ T cells5 to be associ­ated with severe COVID-1971. In addition, leukocytosis (especially neutrophilia), seen less commonly, is also a negative prognostic marker4,5,66. Thrombocytopenia, although often mild (in 5–36% of admissions), is associated with worse patient outcomes2,4,68,69,72. COVID-19-associated coagulopathy is marked by elevated levels of D-dimer and fibrinogen, with minor abnormalities in prothrombin time, activated partial thromboplastin time, and platelet counts in the initial stage of infection73. Elevated levels of D-dimer at admis­sion (reported in up to 46% of hospitalized patients) and a longitu­dinal increase during hospitalization have been linked with worse mortality in COVID-192,4,5,53,54,74,75. 
+Thrombotic complications were first reported from intensive care units (ICUs) in China76 and the Netherlands77 in up to 30% of patients. There is also emerging evidence of thrombosis in intra­venous catheters and extracorporeal circuits, and arterial vascular occlusive events, including acute myocardial infarction (MI), acute limb ischemia, and stroke, in severely affected people in studies 
+Box 1 | Hematologic and immune system–related manifestations of COVID-19 
+Clinical presentations 
+•	 Laboratory markers: 
+Cell counts: lymphopenia, leukocytosis, neutrophilia, 
+thrombocytopenia 
+Inflammatory markers: elevations in erythrocyte sedimentation 
+rate, C-reactive protein, ferritin, IL-6, lactate dehydrogenase 
+Coagulation indices: elevated D-dimer and fibrinogen; prolonged 
+prothrombin time and partial thromboplastin time 
+•	 
+Arterial thrombotic complications: MI, ischemic stroke, acute limb, and mesenteric ischemia 
+
+•	 
+Venous thrombotic complications: deep vein thrombosis and pulmonary embolism 
+
+•	 
+Catheter-related thrombosis: thrombosis in arterial and venous catheters and extracorporeal circuits 
+
+•	 
+Cytokine-release syndrome: high-grade fevers, hypotension, multi-organ dysfunction 
+
+COVID-19-specific considerations 
+
+•	 
+Perform longitudinal evaluation of cell counts, inflammatory markers, and coagulation indices in hospitalized patients101 
+
+•	 
+Recommend enrollment in clinical trials evaluating the benefit and safety of higher-than-usual prophylactic dose or therapeutic dose in the absence of documented thromboembolism36 
+
+•	 
+If there is evidence of hyperinflammation, consider enroll­ment in clinical trials investigating the efficacy of targeted inhibitors of inflammatory cytokines of the innate immune system (e.g., IL-6 and IL-1) or their signaling pathways55 
+
+•	 
+Global immunosuppression with corticosteroids may have a role in the setting of critical illness associated with cytokine storm55 
+
+General considerations 
+
+•	 
+Perform routine risk assessment for venous thromboembo­lism for all hospitalized patients 
+
+•	 
+Strongly consider pharmacological prophylaxis for venous thromboembolism in the absence of absolute contraindica­tions (active bleeding or severe thrombocytopenia) 
+
+•	 
+Prefer low-molecular-weight heparins or unfractionated heparin over oral anticoagulants in most patients in the inpa­tient setting 
+
+•	 
+Consider hepatic and renal function when determining appropriate dose and type of antithrombotic drugs 
+
+•	 
+Consider post-hospitalization extended thromboprophylaxis on an individual patient basis, particularly for those with a history of critical illness 
+
+
+from the USA, Italy and France78–82. Subsequent studies from France and Italy have also reported high rates of thromboembolic events in critically ill patients with COVID-19 (17–22%) despite their hav­ing received prophylactic anticoagulation80,83–85. Indeed, in a cohort of 107 patients admitted to a single-center ICU with COVID-19, their rates of pulmonary emboli were notably higher than those of patients admitted to the same ICU during the same time interval in 2019 (20.6% versus 6.1%, respectively)86. Furthermore, multiple small studies in which critically ill patients with COVID-19 were routinely screened for thrombotic disease demonstrated high rates of thrombotic complications in these patients ranging from 69% to 85% despite thromboprophylaxis83,87,88. Variability in thrombopro­phylaxis regimens and screening schedules can help explain this variation in event rates across published studies. 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+Neurologic Thromboembolism 
+Headaches Deep vein thrombosis 
+Dizziness Pulmonary embolism 
+Encephalopathy Catheter-related thrombosis 
+Guillain-Barré 
+Ageusia 
+Myalgia 
+Cardiac 
+Anosmia Stroke Takotsubo cardiomyopathy Myocardial injury/myocarditis Cardiac arrhythmias Cardiogenic shock 
+
+Renal 
+Myocardial ischemia Acute kidney injury 
+Acute cor pulmonaleProteinuria 
+Hematuria 
+Endocrine 
+Hyperglycemia Diabetic ketoacidosis 
+
+Hepatic 
+Elevated aminotransferases Elevated bilirubin 
+Dermatological 
+Petechaie 
+
+
+Gastrointestinal 
+Livedo reticularis Diarrhea Erythematous rash Nausea/vomiting Urticaria Abdominal pain 
+Vesicles Anorexia Pernio-like lesions 
+
+Fig. 2 |Extrapulmonary manifestations of COVID-19. The pulmonary manifestation of COVID-19 caused by infection with SARS-CoV-2, including pneumonia and ARDS, are well recognized. In addition, COVID-19 is associated with deleterious effects on many other organ systems. Common extrapulmonary manifestations of COVID-19 are summarized here. 
+Pathophysiology. The potential proposed mechanisms by which lymphopenia occurs include direct cytotoxic action of the virus related to ACE2-dependent or ACE2-independent entry into lym­phocytes29,89,90, apoptosis-mediated lymphocyte depletion50,91,92, and inhibitory effects of lactic acid on lymphocyte proliferation93. In addition, atrophy of the spleen and widespread destruction of lym­phoid tissues have been described for both SARS and COVID-1989,94.  Leukocytosis (especially neutrophilia) is thought to be a con­sequence of a hyperinflammatory response to infection with SARS-CoV-2 and/or secondary bacterial infections67. The abnor­mally high levels of D-dimer and fibrinogen in the blood during the early stages of infection are reflective of excessive inflammation, rather than overt disseminated intravascular coagulation, which is commonly seen only in later stages of COVID-1977,80. 
+The untempered inflammation, along with hypoxia and direct viral mediated effects, probably contributes to the high rates of thrombotic complications in COVID-19. The increased expression of ACE2 in endothelial cells after infection with SARS-CoV-2 may perpetuate a vicious cycle of endothelialitis that promotes throm­boinflammation29. Collectively, hemostatic and inflammatory changes, which reflect endothelial damage and activation as well as critical illness, constitute a prothrombotic milieu, at least similar to and possibly more severe than that of other viral illnesses86,95,96. 
+In addition to the macrothrombotic events, the development of in situ thrombosis in small vessels of the pulmonary vasculature (pulmonary intravascular coagulopathy) is an area that requires fur­ther study97. Autopsy studies of patients who died due to COVID-19 have shown high rates of microvascular and macrovascular throm­boses, especially in the pulmonary circulation29,98–100. A post-mortem series of seven patients from Germany showed that alveolar capillary microthrombi were nine times more common in people who died of COVID-19 than in those who died of influenza29. Microthrombi and microangiopathic pathology, associated with foci of hemorrhage, were also noted on autopsies of ten African-American patients with severe COVID-19 from New Orleans, Louisiana, USA100. 
+Management considerations. Longitudinal evaluation of a com­plete blood count, with white-blood-cell differential, D-dimer, prothrombin time, and fibrinogen, is recommended during the hospitalization of patients with COVID-19, in accordance with interim guidelines from the International Society of Hemostasis and Thrombosis101. Trending inflammatory indices may help in the pre­diction of clinical outcomes and response to therapy in hospitalized patients. In addition, recently published interim consensus-based guidelines for the prevention and management of thrombotic dis­ease in patients with COVID-19102 recommend routine risk assess­ment for venous thromboembolism for all hospitalized patients with COVID-19. Standard-dose pharmacological prophylaxis should be considered in the absence of absolute contraindications in such patients. Empiric use of higher-than-routine prophylactic-dose or therapeutic-dose anticoagulation in patients admitted to the ICU in absence of proven thromboses has also been implemented in some institutions. This is an area of ongoing intense discussions  among experts, particularly for those patients who exhibit marked COVID-19-associated coagulopathy73,103. 
+A retrospective analysis found lower in-hospital mortality rates in patients with COVID-19 who received therapeutic anticoagu­lation104, although this study was carried out in a single center, and there is currently not sufficient evidence to recommend such a strategy. Randomized clinical trials investigating these ques­tions are currently underway and will be crucial to establishing effective and safe strategies. Parenteral anticoagulants (such as low-molecular-weight or unfractionated heparin) are preferred to oral anticoagulants in the inpatient setting, given their short half-life and the ready availability of reversal agents, due to the pos­sibility of drug–drug interactions when they are taken with antivi­ral treatments (such as ritonavir) and antibacterial treatments (such as azithromycin)102. 
+
+
+
+Cardiovascular manifestations 
+Several cardiovascular presentations of COVID-19 have been reported. Clinical manifestations and management considerations pertaining to the cardiovascular system are presented in Box 2. 
+Epidemiology and clinical presentation. SARS-CoV-2 can cause both direct cardiovascular sequelae and indirect cardiovascular sequelae, including myocardial injury, acute coronary syndromes (ACS), cardiomyopathy, acute cor pulmonale, arrhythmias, and cardiogenic shock, as well as the aforementioned thrombotic com­plications105,106. Myocardial injury, with elevation of cardiac bio­markers above the 99th percentile of the upper reference limit, occurred in 20–30% of hospitalized patients with COVID-19, with higher rates (55%) among those with pre-existing cardiovascular disease3,107. A greater frequency and magnitude of troponin eleva­tions in hospitalized patients has been associated with more-severe disease and worse outcomes3,107. Biventricular cardiomyopathy has been reported in 7–33% of critically ill patients with COVID-1952,65.  Isolated right ventricular failure with and without confirmed pul­monary embolism has also been reported108,109. Cardiac arrhyth­mias, including new-onset atrial fibrillation, heart block, and ventricular arrhythmias, are also prevalent, occurring in 17% of hospitalized patients and 44% of patients in the ICU setting in a study of 138 patients from Wuhan, China110. In a multicenter New York City cohort, 6% of 4,250 patients with COVID-19 had pro­longed QTc (corrected QT; >500 ms) at the time of admission111. Among 393 patients with COVID-19 from a separate cohort from New York City, atrial arrhythmias were more common among patients who required mechanical ventilation than among those who did not (17.7% versus 1.9%)68. Reports from Lombardi, Italy, show an increase of nearly 60% in the rate of out-of-hospital car­diac arrest during the 2020 COVID-19 pandemic relative to a sim­ilar time period in 2019, which suggests the etiology to be either COVID-19 or other untreated pathology due to patients’ reluctance to seek care112. 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+Box 2 | Cardiovascular manifestations of COVID-19 
+Clinical presentations 
+•	 
+Myocardial ischemia and MI (type 1 and 2) 
+
+•	 
+Myocarditis 
+
+•	 
+Arrhythmia: new-onset atrial fibrillation and flutter, sinus tachycardia, sinus bradycardia, QTc prolongation (often drug induced), torsades de pointes, sudden cardiac death, pulse-less electrical activity 
+
+•	 
+Cardiomyopathy: biventricular, isolated right or left ventric­ular dysfunction 
+
+•	 
+Cardiogenic shock 
+
+COVID-19-specific considerations 
+
+•	 
+Do not routinely discontinue ACE inhibitors or ARBs in patients already on them at home; assess on a case-by-case basis132,133 
+
+•	 
+Perform an electrocardiogram or telemetry monitoring for patients at medium to high risk for torsades de pointes who are being treated with QTc-prolonging drugs138 
+
+•	 
+Carefully consider the utility of diagnostic modalities, including cardiac imaging, invasive hemodynamic assess­ments, and endomyocardial biopsies, to minimize the risk of viral transmission139,140 
+
+•	 
+Primary percutaneous coronary intervention remains pre­ferred approach for most patients with STEMI; consider fibrinolytic therapy in select patients, especially if personal protective equipment is not available134–136 
+
+General considerations 
+
+•	 
+Utilize non-invasive hemodynamic assessments, and meas­urement of lactate, troponin, and beta-natriuretic peptide concentrations, with sparing use of routine echocardiogra­phy for guidance about fluid resuscitation, vasoactive agents, and mechanical circulatory support 
+
+•	 
+Minimize invasive hemodynamic monitoring, but can con­sider in select patients with mixed vasodilatory and cardio­genic shock 
+
+•	 
+Consider point-of-care ultrasound to assess regional wall-motion abnormalities to help distinguish type 1 MI from myocarditis 
+
+•	 
+Early catheterization and revascularization is recommended for high-risk patients with NSTEACS (e.g., GRACE score >140) 
+
+•	 
+Consider medical therapy for low-risk patients with NSTEACS, particularly if the suspicion for type 1 MI is low 
+
+•	 
+Monitor and correct electrolyte abnormalities to mitigate arrhythmia risk 
+
+
+Abbreviations: NSTEACS, non-ST-segment elevation acute 
+coronary syndrome; STEMI, ST-segment-elevation MI; GRACE, 
+Global Registry of Acute Coronary Events. 
+
+Pathophysiology. The pathophysiology underlying cardiovascular manifestations is probably multifactorial. ACE2 has high expression in cardiovascular tissue, including cardiac myocytes, fibroblasts, endothelial cells, and smooth-muscle cells32,113, in support of a pos­sible mechanism of direct viral injury. Myocarditis is a presumed etiology of cardiac dysfunction, and the development of myocar­ditis may relate to viral load. While isolation of the virus from myocardial tissue has been reported in a few autopsy studies21,24,99, other pathological reports have described inflammatory infiltrates without myocardial evidence of SARS-CoV-2114,115. Additionally, the finding of direct viral infection of the endothelium and accom­panying inflammation, as reported in a patient with circulatory failure and MI, lends credence to the possibility of virus-mediated endothelial-cell damage as an underlying mechanism31. Systemic inflammatory response syndrome (cytokine storm) is another putative mechanism of myocardial injury17. Furthermore, patients with pre-existing cardiovascular disease may have higher levels of ACE2, which would potentially predispose them to more-severe COVID-19116,117. Moreover, isolated right ventricular dysfunction may occur as a result of elevated pulmonary vascular pressures secondary to ARDS118, pulmonary thromboembolism108,109, or potentially virus-mediated injury to vascular endothelial and smooth-muscle tissue31. 
+Other potential etiologies of myocardial damage not specific to COVID-19 include severe ischemia or MI in patients with pre-existing coronary artery disease, stress-mediated myocardial dysfunction, tachycardia-induced cardiomyopathy, and myocardial stunning after resuscitation or prolonged hypotension. 
+While patients with viral infections are at risk for MI in gen­eral119, this risk may be exaggerated in patients with COVID-19, given reports of disproportionately increased hypercoagulability in affected people, which would lead to a possible increase in throm­botically mediated MI. Moreover, distinguishing the presenta­tion of atherosclerotic plaque-rupture MI from myonecrosis due to supply–demand mismatch (type 2 MI) in the setting of severe hypoxia and hemodynamic instability and myocarditis can be chal­lenging120. This was especially evident in a recent case series of 18 patients with COVID-19 who developed ST-segment elevation on electrocardiogram, 10 of whom were diagnosed with noncoronary myocardial injury78. 
+Management considerations. Whether upregulation of ACE2 by ACE inhibitors or angiotensin-receptor blockers (ARBs) is lung protective121,122 or increases susceptibility to infection with SARS-CoV-2123 has been intensely debated within the cardiovascu­lar community61,124. This has implications for patients with hyper­tension, heart failure, and/or diabetes, who are overrepresented among critically ill patients with COVID-19125. There is no evi­dence to support an association between the use of ACE inhibitors and ARBs and more-severe disease; some large studies indicate no relationship between the use of these agents and the severity of COVID-19126–128, whereas other data suggest that they may attenu­ate the severity of disease129–131. Routine discontinuation of these medications is not recommended, as endorsed by the guidelines of several international cardiology societies132,133. 
+As for the management of ACS, there is guidance available from multiple specialty societies134,135. Although primary percutaneous coronary intervention remains the preferred approach for most patients with ST-segment-elevation MI, fibrinolytic therapy may be appropriate in select patients, especially if personal protective equipment is not available136. Additionally, point-of-care echocar­diography may be used to assess regional wall-motion abnormali­ties to guide decisions about cardiac catheterization. Less-urgent or elective procedures should be deferred in an effort to minimize the risk of viral transmission105,134,135,137. The patient’s baseline QTc interval should be obtained before the administration of any drugs that may lead to prolongation of this interval138. Diagnostic workup of myocardial dysfunction in patients with COVID-19 is challeng­ing, given the sparing use of cardiac imaging, invasive angiography and hemodynamic assessments, and endomyocardial biopsies in consideration of the serious risk of viral infection of patients and healthcare workers and contamination of facilities139,140. 
+
+
+
+Renal manifestations 
+A substantial proportion of patients with severe COVID-19 may show signs of kidney damage. Clinical manifestations and management considerations pertaining to the renal system are presented in Box 3. 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+Box 3 | Renal manifestations of COVID-19 
+Clinical presentations 
+•	 
+AKI 
+
+•	 
+Electrolyte abnormalities (hyperkalemia, hyponatremia, and hypernatremia, among others) 
+
+•	 
+Proteinuria 
+
+•	 
+Hematuria 
+
+•	 
+Metabolic acidosis 
+
+•	 
+Clotting of extracorporeal circuits used for RRT 
+
+COVID-19-specific considerations 
+
+•	 
+Evaluate urine analysis and protein-to-creatinine ratio at admission, given the association of proteinuria and hematu­ria with outcomes142,154 
+
+•	 
+Consider empiric low-dose systemic anticoagulation during the initiation and day-to-day management of extracorporeal circuits for RRT157 
+
+•	 
+Consider co-localization of patients who require RRT and use shared RRT protocols156 
+
+•	 
+Consider acute peritoneal dialysis in select patients to mini­mize personnel requirements156 
+
+General considerations 
+
+•	 
+Individualize fluid-balance strategies guided by markers of volume status (serum lactate, urinary electrolytes, and hemodynamic measures), and of pulmonary, myocardial, and renal function 
+
+•	 
+Consider continuous RRT in critically ill patients with severe AKI and/or serious or life-threatening metabolic complica­tions that do not respond to medical therapy 
+
+
+
+Epidemiology and clinical presentation. Acute kidney injury (AKI) is a frequent complication of COVID-19 and is associated with mortality141,142. In China, the reported incidence of AKI in hospitalized patients with COVID-19 ranged from 0.5% to 29% (refs. 2,4,5,142) and occurred within a median of 7–14 days after admis­sion5,142. Studies from the USA have reported much higher rates of AKI. In a study of nearly 5,500 patients admitted with COVID-19 in a New York City hospital system, AKI occurred in 37%, with 14% of the patients requiring dialysis143. About one third were diagnosed with AKI within 24 hours of admission in this study. Of note, these rates are much higher than those reported during the SARS-CoV epidemic144. AKI occurred at much higher rates in critically ill patients admitted to New York City hospitals, ranging from 78% to 90% (refs. 53,54,111,143,145). Of 257 patients admitted to ICUs in a study from New York City, 31% received renal replacement therapy (RRT)54. Furthermore, hematuria has been reported in nearly half of patients with COVID-19143, and proteinuria has been reported in up to 87% of critically ill patients with COVID-1954. Hyperkalemia and acidosis are common electrolyte abnormalities associated with the high cell turnover seen in patients with COVID-19, even among patients without AKI. COVID-19 is also increasingly reported among patients with end-stage renal disease and kidney trans­plant recipients, with higher mortality rates than those seen in the general population146–148. 
+Pathophysiology. Several possible mechanisms specific to SARS-CoV-2 that distinguish this renal abnormality from the more general AKI that accompanies severe illness are noteworthy. First, SARS-CoV-2 may directly infect renal cells, a possibility supported by histopathology findings and the presence of ACE2 receptors23,27,32. Histopathological findings include prominent acute tubular injury and diffuse erythrocyte aggregation and obstruction in peritubular and glomerular capillary loops21,23. Viral inclusion parti­cles with distinctive spikes in the tubular epithelium and podocytes, and endothelial cells of the glomerular capillary loops, have been visualized by electron microscopy21,23,31. Second, the demonstration of lymphocytic endothelialitis in the kidney, in addition to viral inclusion particles in glomerular capillary endothelial cells, suggests that microvascular dysfunction is secondary to endothelial dam­age31. Third, similar to severe infection with influenza virus, cyto­kine storm may have an important role in the immunopathology of AKI149. In fact, it has been speculated that this is an underlying mech­anism of the clinical ‘viral sepsis’ and multiple-organ dysfunction, including AKI, in patients with COVID-1917. Glomerular injury mediated by immunocomplexes of viral antigen or virus-induced specific immunological effector mechanisms is also plausible, and this is reflected in the development of collapsing focal segmental glomerulosclerosis in people infected with SARS-CoV-2 who have two high-risk variants of APOL1 (the gene that encodes apolipopro­tein L1)150–152. Finally, while proteinuria is not a typical manifesta­tion of AKI, transient heavy albuminuria might occur secondary to endothelial dysfunction or direct podocyte injury. It is also possible that the pattern of severe proximal-tubular injury leads to a defect in receptor-mediated endocytosis, which results in the observed instances of proteinuria23. Other potential etiologies of AKI com­mon to critical illness presentations, including ARDS, rhabdomyol­ysis, volume depletion, and interstitial nephritis, all remain relevant in patients with COVID-19153. 
+Management considerations. Urine analysis and protein-to­creatinine ratio may be obtained at admission for patients with COVID-19, as proteinuria and hematuria seem to be associated with a more severe clinical course and higher mortality, and this would provide an opportunity for early risk stratification142,154. In patients with suspected or confirmed COVID-19, an emphasis should be placed on optimization of volume status to prevent prer­enal AKI, particularly given the high prevalence of AKI at presenta­tion, while avoiding hypervolemia, which may worsen the patient’s respiratory status. The Surviving Sepsis guidelines for critical ill­ness in COVID-19 recommend a conservative fluid-resuscitation strategy while acknowledging that the supporting evidence base is weak155. A dramatic increase in the need for RRT in critically ill patients may require judicious resource planning, including the use of shared continuous RRT protocols, co-localization of patients, and the utilization of acute peritoneal dialysis in select patients156. The prothrombotic state poses additional challenges in the initiation and maintenance of the extracorporeal circuits needed for RRT. In a multicenter prospective cohort study from four ICUs in France, 97% (28 of 29) patients receiving RRT experienced circuit clotting80. In the absence of contraindications, patients with COVID-19 may require systemic anticoagulation during RRT157. 
+
+
+
+Gastrointestinal manifestations 
+COVID-19 may cause gastrointestinal symptoms in some patients. Clinical manifestations and management considerations pertaining to the gastrointestinal system are presented in Box 4. 
+Epidemiology and clinical presentation. The incidence of gastro­intestinal manifestations has ranged from 12% to 61% in patients with COVID-195,158–161. Gastrointestinal symptoms may be associ­ated with a longer duration of illness but have not been associated with increased mortality158,160. In a recent meta-analysis of 29 stud­ies (of which the majority are from China), the pooled prevalence of individual symptoms was reported, including that of anorexia (21%), nausea and/or vomiting (7%), diarrhea (9%), and abdominal pain (3%)160. In a study from the USA, a higher prevalence of these symptoms was reported (anorexia, 34.8%; diarrhea, 33.7%; and nau­sea, 26.4%)161. In addition, the presence of gastrointestinal symptoms 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+Box 4 | Gastrointestinal and hepatobiliary manifestations of COVID-19 
+Clinical presentations 
+•	 
+Nausea and/or vomiting, diarrhea, abdominal pain, anorexia 
+
+•	 
+Rare cases of mesenteric ischemia and gastrointestinal bleeding 
+
+•	 
+Laboratory markers: elevated hepatic transaminases, ele­vated bilirubin, low serum albumin 
+
+COVID-19-specific considerations 
+
+•	 
+Consider COVID-19 as a differential diagnosis in patients who present with isolated gastrointestinal symptoms in the absence of respiratory symptoms160 
+
+•	 
+If testing resources are scarce, prioritize testing for SARS-CoV-2 among patients who present with both respira­tory symptoms and gastrointestinal symptoms162 
+
+•	 
+Use diagnostic endoscopy only for urgent therapeutic rea­sons (large-volume gastrointestinal bleeding or biliary obstruction)166,167 
+
+•	 
+Monitor hepatic transaminases longitudinally, particularly in patients who are receiving investigational treatments; low-level elevations should not necessarily be considered a contraindication to treatment with these agents174 
+
+General considerations 
+
+•	 
+Avoid additional diagnostic tests for aminotransferase eleva­tions less than five times the upper limit of normal unless additional features raise the pre-test probability of actionable findings (hyperbilirubinemia, right upper quadrant pain, hepatomegaly) 
+
+•	 
+Evaluate other etiologies of abnormal liver biochemistries, including infection with other viruses (such as hepatitis A, B, or C viruses), myositis, cardiac injury and ischemia 
+
+
+
+at presentation was associated with a 70% increased risk of detec­tion of SARS-CoV-2 in a study from a New York City hospital162. Gastrointestinal bleeding was rarely observed in this study, despite presence of traditional risk factors, including prolonged mechanical ventilation, thrombocytopenia, or systemic anticoagulation162. 
+Pathophysiology. The pathophysiology of gastrointestinal damage in COVID-19 is probably multifactorial. Virus-mediated direct tis­sue damage is plausible, given the presence of ACE2 in intestinal glandular cells20,25,163,164, as well as the visualization of viral nucleo­capsid protein in gastric, duodenal, and rectal epithelial cells, and glandular enterocytes25. Viral RNA has been isolated from stool, with a positivity rate of 54% (ref. 160). Live viral shedding of infec­tious virions in fecal matter has been reported even after the resolu­tion of symptoms, and this needs further evaluation as a potential source of transmission25. In addition, histopathological evidence of diffuse endothelial inflammation in the submucosal vessels of the small intestine from patients with COVID-19 and mesenteric ischemia suggests microvascular small-bowel injury31. Support for inflammation-mediated tissue damage is provided by the pres­ence of infiltrating plasma cells and lymphocytes and of interstitial edema in the lamina propria of the stomach, duodenum, and rec­tum of patients25. It has also been hypothesized that alteration of the intestinal flora by the virus may contribute to gastrointestinal symptoms and severe disease progression165. 
+Management considerations. Current multi-society guidelines emphasize the avoidance of diagnostic endoscopy for non-urgent reasons during the COVID-19 pandemic166,167. Most practitioners reserve procedures for patients with COVID-19 to those for whom therapeutic intervention is necessary due to large-volume upper gastrointestinal bleeding or biliary obstruction. During the COVID-19 pandemic at a New York City hospital, upper endos­copy was performed at lower-than-usual hemoglobin levels and after transfusion of larger volumes of packed red blood cells168. Interestingly, this was seen both in patients testing positive for SARS-CoV-2 and in those testing negative, probably reflective of a reluctance to perform endoscopy for the former group and reluc­tance of the latter group to come to the hospital. Patients who do present with gastrointestinal symptoms and later test positive for SARS-CoV-2 have been reported to experience delays in diagnosis160. When feasible, COVID-19 should be considered as a differential diagnosis in these patients even in absence of respiratory symptoms. In resource-limited settings, patients with symptoms of diarrhea or nausea and/or vomiting in addition to respiratory symptoms should be prioritized for testing162. 
+
+Hepatobiliary manifestations 
+Signs of hepatobiliary damage may be observed in patients with severe presentations of COVID-19. Clinical manifestations and management considerations pertaining to the hepatobiliary system are presented in Box 4. 
+Epidemiology and clinical presentation. In critically ill patients with COVID-19, a hepatocellular injury pattern is seen in 14–53% of hospitalized patients2,4,5,65,66. Aminotransferases are typically elevated but remain less than five times the upper limit of nor­mal. Rarely, severe acute hepatitis has been reported169,170. A recent systematic review incorporating 12 studies reported a pooled prevalence of liver function abnormalities at 19% (95% confi­dence interval, 9–32%) with an association with disease severity160. Elevated bilirubin at hospital admission has also been linked to dis­ease severity and progression to critical illness in a few studies171,172, although the association of longitudinal changes in bilirubin with prolonged ARDS is currently unclear. 
+Pathophysiology. SARS-CoV-2 may directly damage the biliary ducts by binding to ACE2 on cholangiocytes170. Hyperinflammation seen with cytokine storm and hypoxia-associated metabolic derangements are other potential mechanisms of liver damage17. Drug-induced liver injury, particularly secondary to investigational agents such as remdesivir, lopinavir, and tocilizumab, may also occur17,159,173. In a prospective clinicopathologic series of 11 patients from Austria, Kupffer cell proliferation was seen in all patients, and chronic hepatic congestion was seen in 8 patients. Other his­topathologic changes in the liver included hepatic steatosis, portal fibrosis, lymphocytic infiltrates and ductular proliferation, lobular cholestasis, and acute liver-cell necrosis, together with central-vein thrombosis98. 
+Management considerations. In accordance with guidelines issued by an expert panel of the American Association for the Study of Liver Diseases, additional diagnostic tests are not recommended for aminotransferase elevations unless additional features raise the probability of findings that require further measures (such as hyper­bilirubinemia, right-upper-quadrant pain, and hepatomegaly)174. Other COVID-19-related etiologies of elevated liver biochemistries, including myositis, cardiac injury (in conjunction with troponin elevation), ischemia, cytokine-release syndrome, and co-infection with other viruses, should be considered. Longitudinal monitoring of hepatic transaminases is recommended, particularly in patients receiving investigational treatments, including remdesivir, lopi­navir, and tocilizumab, although low-level elevations should not necessarily be considered a contraindication to treatment with these agents174. 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+
+Endocrinologic manifestations 
+While patients with pre-existing endocrinologic disorders may be predisposed to more-severe presentations of COVID-19, observa­tions of a range of endocrinologic manifestations in patients with­out pre-existing disease have also been made. Clinical findings and management considerations relating to the endocrinologic system are presented in Box 5. 
+Epidemiology and clinical manifestations. Patients with diabe­tes mellitus and/or obesity are at risk of developing more-severe COVID-19 illness125. In a report from the US Centers for Disease Control, 24% of hospitalized patients and 32% of patients admit­ted to the ICU had underlying diabetes125. In an initial experience with 257 critically ill patients hospitalized in a tertiary-care hospital in New York City, 36% had diabetes and 46% were obese54. Similar observations were made in studies from China and Italy that dem­onstrated an association of underlying diabetes with severe illness and death2,175,176. Moreover, patients hospitalized with COVID-19 have exhibited a range of abnormalities of glucose metabolism, including worsened hyperglycemia, euglycemic ketosis, and classic diabetic ketoacidosis. In a retrospective study from China, among a group of 658 patients hospitalized with COVID-19, 6.4% presented with ketosis in the absence of fever or diarrhea177. Of these, 64% did not have underlying diabetes (with an average hemoglobin A1c level of 5.6% in this group). 
+Pathophysiology. Several mechanisms may account for the more severe disease course, including worsened hyperglycemia and keto­sis, observed in patients with COVID-19 and diabetes. Factors related to SARS-CoV-2 include substantially elevated cytokine lev­els, which may lead to impairments in pancreatic ß-cell function and apoptosis178 and, consequently, decreased insulin production and ketosis. In addition, ACE2 expression has been reported in the endocrine pancreas179,180, albeit inconsistently181. This raises the possibility that direct binding of SARS-CoV-2 to ACE2 on ß-cells might contribute to insulin deficiency and hyperglycemia, as has been shown previously for infection with SARS-CoV179. Accelerated fat breakdown in patients with COVID-19 has also been proposed as a possible mechanism, but this requires further investigation177. Factors not specific to COVID-19 in patients with diabetes and infections include an altered immune response182–184 and an increase in counter-regulatory hormones that promotes hepatic glucose production, decreased insulin secretion, ketogenesis, and insulin resistance185,186. Key extrapulmonary manifestations of COVID-19 can also be interlinked with diabetic complications, from reduced renal function to pro-thrombotic and coagulopathic states, to cardiac dysfunction and hepatocyte injury187. 
+Obesity is another risk factor for more-severe illness in COVID-19188. This may be related to its effects on pulmonary func­tion, such as reduced lung volumes and compliance, and an increase in airway resistance, as well as an association with diabetes189,190. In addition, increased adiposity has been linked with alterations in multiple cytokines, chemokines, and adipokines, including increased pro-inflammatory cytokines such as TNFa, IL-6, IL-8, leptin, and adiponectin189–191, which all potentially exacerbate the exuberant inflammatory response seen in this disease. 
+Management considerations. Hemoglobin A1C should be assessed in patients with COVID-19 who present with hyperglycemia and/or ketoacidosis, to identify possibly undiagnosed diabetes. Logistically, the management of diabetic ketoacidosis poses an increased risk to medical personnel, due to the need for hourly glucose checks while patients are on an insulin drip. There may be a role for remote glu­cose monitoring via continuous glucose monitors to alleviate this problem and reduce demands on nursing staff. Alternative proto­cols for subcutaneous insulin in selected groups of patients with 
+Box 5 | Endocrine manifestations of COVID-19 
+Clinical presentations 
+•	 
+Hyperglycemia 
+
+•	 
+Ketoacidosis, including that in patients with previously undi­agnosed diabetes or no diabetes 
+
+•	 
+Euglycemic ketosis 
+
+•	 
+Severe illness in patients with pre-existing diabetes and/or obesity 
+
+COVID-19-specific considerations 
+
+•	 
+Consider checking serum ketones in patients with hyper­glycemia who are on sodium–glucose transport protein inhibitors177 
+
+•	 
+Measure hemoglobin A1C in patients without known history of diabetes mellitus who present with hyperglycemia and/or ketoacidosis 
+
+•	 
+Consider alternative protocols for subcutaneous insulin in selected patients with mild to moderate diabetic keotacidosis on an individual-patient-level basis192. 
+
+General considerations 
+
+•	 
+Identify and initiate prompt treatment of diabetic ketoacido­sis with standard protocols in the setting of hyperglycemia 
+
+•	 
+Consider continuous glucose monitors for patients who require an insulin drip (to avoid hourly glucose checks) 
+
+•	 
+Consider increased insulin dosing in patients being treated with steroids 
+
+•	 
+Avoid oral hypoglycemic agents due to potential concerns for concurrent renal damage (metformin, thiazolidinedi­ones), euglycemic diabetic ketoacidosis (sodium–glucose transport protein inhibitors), cardiac and hypoglycemic complications (sulfonylureas), reduced gastric emptying and reduced gastrointestinal motility that may cause aspiration if patients require intubation (glucagon-like peptide-1 receptor agonists) 
+
+
+mild to moderate diabetic ketoacidosis may be considered on an individual patient-level basis192. 
+
+
+Neurologic and ophthalmologic manifestations 
+There is growing evidence of neurologic complications of COVID-19. Neurologic and ophthalmologic manifestations of COVID-19 and management considerations are summarized in Box 6. 
+Epidemiology and clinical presentation. Similar to SARS and Middle East respiratory syndrome193,194, multiple neurological man­ifestations of COVID-19 have been described. An analysis of 214 patients with severe COVID-19 found that neurologic symptoms occurred in 36% of the patients195. A number of non-specific mild neurological symptoms are notable in hospitalized patients with COVID-19, including headache (8–42%), dizziness (12%), myal­gia and/or fatigue (11–44%), anorexia (40%), anosmia (5%), and ageusia (5%)69,75,110, although the epidemiology may be different in milder outpatient presentations2,196,197. More-severe presentations of COVID-19 manifest with acute stroke of varying arterial and venous mechanisms (in up to 6% of those with severe illness)81,198, and confusion or impaired consciousness (8–9%)195,199. Acute inflammatory demyelinating polyneuropathy (Guillain-Barré syn­drome) has also been reported in some patients200,201. In addition, meningoencephalitis79, hemorrhagic posterior reversible encepha­lopathy syndrome202, and acute necrotizing encephalopathy, includ­ing the brainstem and basal ganglia, have been described in case reports203,204. Ocular manifestations, such as conjunctival congestion 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+Box 6 | Neurologic and ophthalmologic manifestations of COVID-19 
+Clinical presentations 
+•	 
+Headache, dizziness 
+
+•	 
+Anosmia, ageusia, anorexia, myalgias, fatigue 
+
+•	 
+Stroke 
+
+•	 
+Encephalopathy, encephalitis, Guillain-Barré syndrome, acute hemorrhagic necrotizing encephalopathy 
+
+•	 
+Conjunctivitis 
+
+COVID-19-specific considerations 
+
+•	 
+Continue adherence to established guidelines for acute ischemic stroke, including thrombolysis and thrombectomy209 
+
+•	 
+Adapt post-acute-care monitoring guidelines for pandemic constraints (most stable patients do not need to be moni­tored in an ICU for 24 hours)210 
+
+•	 
+Use remote video evaluation, whenever possible, for hospi­talized patients with COVID-19 who have symptoms that are of concern for a stroke 
+
+•	 
+Consider extended-interval or delayed dosing of chronic immunomodulatory therapies in conditions such as multiple sclerosis during COVID-19211 
+
+General considerations 
+
+•	 
+Monitor closely for changes in baseline symptoms for vul­nerable populations such as elderly patients with Parkinson’s disease 
+
+•	 
+Promptly evaluate any changes in the neurological exam of a hospitalized patient 
+
+•	 
+Evaluate the risk/benefit balance of off-label uses of tissue plasminogen activator and the empiric use of anticoagula­tion in critically ill patients (risk of intracranial bleeding and hemorrhagic conversion of stroke) 
+
+
+
+alone, conjunctivitis, and retinal changes205, have also been reported in patients with COVID-192,206,207. 
+Pathophysiology. SARS-CoV and the coronavirus that causes Middle East respiratory syndrome have known neuroinvasive and neurotropic abilities193,194. Direct viral invasion of neural paren­chyma is a possibility; SARS-CoV-2 may access the central nervous system via the nasal mucosa, lamina cribrosa, and olfactory bulb or via retrograde axonal transport. Nasal epithelial cells display the highest expression of ACE2 (the receptor for SARS-CoV-2) in the respiratory tree18,28; this may account for the symptoms of altered sense of taste or smell frequently reported retrospectively in the majority of outpatients with COVID-19196,197,208. Other neurological manifestations support, at least, the neurovirulence of COVID-19, perhaps reflecting the proinflammatory and prothrombotic cascade in the wake of cytokine storm30,55 as it affects brain vasculature and the blood–brain barrier, especially in the setting of toxic-metabolic sequelae of multi-organ dysfunction often seen in COVID-19­associated critical illness. 
+Management considerations. Provisional guidelines during the COVID-19 crisis call for continued adherence to established guide­lines for acute ischemic stroke, including providing access to throm­bolysis and thrombectomy, while recognizing the need to minimize the use of personal protective equipment209. Post-acute-care moni­toring guidelines may be adjusted for pandemic constraints210. The liberal use of ‘telestroke’, or remote video evaluation of patients who have had a stroke, which has been a mainstay of stroke care for hospitals without access to specialists for many years, is also recommended and may have a role even within large hospitals. Potent baseline immunomodulatory therapies may be considered for extended-interval or delayed dosing in conditions such as mul­tiple sclerosis during COVID-19211. Long-term considerations, such as post-infectious neurodegenerative and neuroinflammatory involvement, as well as the efficacy of an eventual vaccine in some immunosuppressed populations, are under investigation. 
+
+Dermatologic manifestations 
+Dermatologic manifestations have occasionally been described in patients suffering from COVID-19. 
+Epidemiology and clinical presentation. The dermatologic mani­festations of COVID-19 were first reported in a single-center obser­vational study in Italy, with a frequency of 20% in hospitalized patients with no history of drug exposure in the previous 2 weeks212. Approximately 44% of the patients had cutaneous findings at dis­ease onset, while the remaining patients developed these during the course of their illness. No correlation with disease severity was noted in this small study. The cutaneous manifestations included erythematous rash, urticaria, and chickenpox-like vesicles. A pre­liminary systematic review of 46 studies (including case reports and series) found acro-cutaneous (pernio or chilblain-like) lesions to be the most commonly reported skin manifestation213. Other cutane­ous findings included maculopapular rash, vesicular lesions, and livedoid and/or necrotic lesions. A transverse study included in this systematic review found chilblain-like lesions to be associated with less-severe COVID-19, while livedoid and/or necrotic lesions were seen in more-severe COVID-19214. Case reports have also described exanthematous rashes and petechiae in COVID-19215–217. 
+Pathophysiology. Drug exposure and temporal association with hydroxychloroquine, remdesivir, tocilizumab, and other experi­mental drugs should always be evaluated before any skin lesion is attributed to the viral infection218. Potential mechanisms for COVID-19-related cutaneous manifestations include an immune hypersensitivity response to SARS-CoV-2 RNA, cytokine-release syndrome, deposition of microthrombi, and vasculitis219. Superficial perivascular dermatitis and dyskeratotic keratinocytes have been most commonly described from histopathological examination of skin rashes215,220. Biopsy of acrocutaneous lesions has shown dif­fuse and dense lymphoid infiltrates, along with signs of endothelial inflammation220. Small thrombi in vessels of the dermis have occa­sionally been seen215. 
+Management considerations. Most cutaneous manifestations of COVID-19 have been self-resolving. It is not clearly understood whether patients with dermatologic diseases who receive biologic therapies are at increased risk of complications from COVID-19221. In their interim guidelines, the American Academy of Dermatology recommends discontinuation of biologic therapy in COVID-19­positive patients (similar to recommendation for patients with other active infections) and recommends case-by-case discussion about the continuation of these drugs for at-risk patients222. 
+
+
+Special considerations in COVID-19 
+Here we review the epidemiological and clinical features of pediat­ric and pregnant patients with COVID-19. 
+Children. Epidemiology and clinical presentation. In a review of 72,314 patients with COVID-19 reported by the Chinese Center for Disease Control and Prevention, less than 1% of the patients were younger than 10 years of age176. In two retrospective studies from China, of >1,000 pediatric patients with COVID-19, the majority of the patients had mild or moderate disease, and only 1.8% required ICU admission, with two reported deaths223,224. In a recent study 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+Table 1 | Future directions for research pertaining to various organ systems affected by COVID-19 
+
+• 
+How long does infectious SARS-CoV-2 persist in the upper airway of an infected patient? 
+
+• 
+How does SARS-CoV-2 disseminate in extrapulmonary tissues? Is hematogenous spread of the virus required for the direct cytotoxic effects to occur? 
+
+• 
+Do other organs serve as sites of viral infection and persistence? 
+
+• 
+Is extrapulmonary involvement dependent on viral load? 
+
+• 
+Is extrapulmonary involvement dependent on mutations of SARS-CoV-2 or ACE2 polymorphisms? 
+
+• 
+What role do host factors such as genetics (Toll-like receptors or complement components) or post-transcriptional modifications have in extrapulmonary SARS-CoV-2 infection? Are there biologically relevant factors (in addition to social factors) that explain the observed race disparities in incidence and outcomes? 
+
+• 
+What is the predominant mechanism underlying the multiple organ dysfunction; is it direct virus-induced tissue damage, systemic cytokine-release syndrome, or the synergistic effects of both? What is the role of other proposed mechanisms such as RAAS dysregulation and endothelialitis? 
+
+
+
+• 
+What is the impact of COVID-19 on the capacity to care for competing patients without COVID-19? 
+
+• 
+What is the efficacy, safety, and proper timing for the use of antiviral and anti-inflammatory therapies currently under investigation? 
+
+• 
+How should these therapies be best used in conjunction with each other to maximize efficacy while considering safety profiles? 
+
+•
+ Is there a role for recombinant ACE2 in treatment of patients with COVID-19? 
+
+
+
+Pathophysiological 
+• 
+What are the mechanisms of viral entry into lymphocytes? 
+
+• 
+Does SARS-CoV-2 exert direct effects on coagulation and complement pathways, and if so, which ones? 
+
+• 
+In addition to IL-6, which cytokines and chemokines may act as therapeutic targets for COVID-19? 
+
+• 
+How is interferon signaling modulated by SARS-CoV-2? Are there differences in interferon responses in the early stages versus the late stages of COVID-19? 
+
+
+
+
+Clinical 
+
+• 
+Do novel measurements of hypercoagulability offer improved assessment of thrombotic risk? 
+
+• 
+Is there a role for empiric higher-intensity (prophylactic or therapeutic dose) anticoagulation in patients who do not have documented thromboembolic events? 
+
+•
+ Does post-hospitalization extended thromboprophylaxis improve patient outcomes? 
+
+• 
+Does targeting inflammatory pathways and cytokine storm result in a reduction in the rate of thrombotic complications in COVID-19? 
+
+•
+ Which patients, if any, would benefit from empiric thrombolytic therapy? 
+
+
+
+
+Pathophysiological 
+• 
+Does direct cardiac viral toxicity contribute substantially to myocardial dysfunction? 
+
+• 
+Are the mechanisms that result in myocardial injury and MI substantially different from those that are observed with other viral and bacterial infections? 
+
+• 
+What are the mechanisms of cardiac arrhythmias in patients with COVID-19? 
+
+
+
+
+Clinical 
+
+• 
+What is the optimal antithrombotic regimen (including antiplatelets and anticoagulants) in patients presenting with COVID-19 with evidence of myocardial injury or MI? 
+
+• 
+Do statins have a protective role in patients with COVID-19, given the ability of statins to downregulate ACE2, as well as their anti-inflammatory and other pleiotropic effects? 
+
+• 
+Among the patients who develop right ventricular dysfunction in COVID-19, what proportion have pulmonary embolism and what proportion are due to the development of pulmonary hypertension or isolated right ventricular failure due to other causes? 
+
+• 
+What strategies should be used to assess and treat acute right ventricular dysfunction in patients with COVID-19 without pulmonary embolism? Can this dysfunction be temporized 
+
+
+
+
+Pathophysiological 
+•
+ How does SARS-COV-2 induce renal tubular injury? 
+
+• 
+What is the mechanism of the development of electrolyte abnormalities and proteinuria in patients with COVID-19? 
+
+• 
+Does SARS-CoV-2 act as a ‘second hit’ that potentiates the glomerular damage attributed to APOL1 risk genotypes, as seen with development of collapsing-variant focal segmental glomerulosclerosis in some cases? 
+
+
+
+
+Clinical 
+
+• 
+What is the optimal volume-management strategy in patients with COVID-19 who are at high risk of AKI, while also at risk of ARDS and myocardial injury? 
+
+•
+ What is the frequency of renal recovery in patients who develop renal failure? 
+
+• 
+Is there a role for cytokine removal through hemofiltration in patients with severe COVID-19? 
+
+
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+
+
+Pathophysiological 
+• 
+What is the duration and extent of fecal shedding of SARS-CoV-2? 
+
+•
+ Does fecal shedding have a role in viral transmission? 
+
+• 
+What is the role of intestinal entry by the virus? Can the microbiome alter susceptibility to SARS-CoV-2 infection? 
+
+• 
+What are the predominant mechanisms of 
+
+
+
+
+Clinical 
+
+• 
+Do the hematologic abnormalities associated with COVID-19 increase the likelihood of developing gastrointestinal bleeding? How can this risk be best balanced with the risk for coagulopathy and thrombotic complications? 
+
+• 
+Do antihistaminic agents (e.g., famotidine) have a role in prophylaxis against gastrointestinal pathology, including bleeding events? Do these agents have antiviral efficacy against SARS-CoV-2? 
+
+
+
+
+Pathophysiological 
+• 
+Is the COVID-19-induced metabolic disarray a direct consequence of viral action? 
+
+• 
+Does SARS-CoV-2 cause metabolic disarray by indirect effects such as altered nutrient utilization, cytokines and inflammation, and counter-regulatory hormones? 
+
+• 
+Is ACE2 expressed uniformly in pancreatic ß-cells and endocrine islets? 
+
+• 
+If there is evidence of direct viral damage in pancreas, what is the nature of islet damage? 
+
+• 
+Is there evidence of impairment of insulin action in patients with COVID-19? 
+
+
+
+
+Clinical 
+
+•
+ Do metabolic differences contribute to the racial disparities seen with COVID-19? 
+
+• 
+Do the anti-inflammatory properties of agents used to treat diabetes mellitus or metabolic syndrome (e.g., metformin) have a protective effect in patients with COVID-19 and stable renal function? 
+
+
+
+
+Pathophysiological Clinical 
+
+• 
+Does SARS-CoV-2 directly infect neurons, and if so, • Do the neurologic and neuroimaging features of stroke differ in patients with COVID-19? which neuron types? • Are there long-term neurological complications in people who recover from SARS-CoV-2 
+
+• 
+Does SARS-CoV-2 have a tropism for the brainstem infection? and its medullary respiratory centers, and does this contribute to respiratory failure? 
+
+
+
+from a large group of North American pediatric ICUs, however, 38% of 48 critically ill children required invasive ventilation, with an in-hospital mortality rate of 4.2% (ref. 225). 
+In the later phase of the pandemic, reports of healthy children presenting with a severe inflammatory shock that had features simi­lar to those of atypical Kawasaki disease or toxic-shock syndrome were highlighted by physicians in Europe and the USA226,227. This syndrome was recognized as multisystem inflammatory syndrome in children (MIS-C) and was defined as follows: a person <21 years of age presenting with fever, laboratory evidence of inflammation, and evidence of clinically severe illness requiring hospitalization, with multisystem (two or more) organ involvement in the setting of current or recent infection with SARS-CoV-2. If untreated, Kawasaki disease can result in coronary aneurysms in 25% of patients228. 
+Pathophysiology. Potential reasons for less-severe manifestations of COVID-19 in children include the evolution of ACE2 expression229 and T cell immunity and a pro-inflammatory cytokine milieu230 with age. The possibility of competition between SARS-CoV-2 and other pre-existing viruses that are common in the respiratory mucosa of young children has been hypothesized as well230. In contrast, increased ACE2 expression around birth, before its decrease, and a reduced ability of T cells to fight viral infections at birth may be responsible for the susceptibility of infants to severe COVID-19230. Interestingly, many children with MIS-C tested negative for SARS-CoV-2 but positive for antibodies, suggestive of a likely trig­ger from the development of acquired immunity rather than direct viral injury as the underlying mechanism. 
+Management considerations. The majority of patients with MIS-C required vasopressor support, and few required mechanical circulatory support, in experience from New York hospitals. Due to some similarities with Kawasaki disease, treatment strategies have included intravenous immunoglobulin and corticosteroids, and occasionally an IL-1 antagonist (anakinra)227,231. Treatment with aspi­rin or lovenox has also been debated, given the hypercoagulable state and concern for coronary involvement similar to that of Kawasaki disease. Other medical therapies that have been extrapolated from studies of adults include compassionate use of the anti-viral drug remdesivir and the IL-6 receptor antagonist tocilizumab232,233. 
+Pregnant women. Epidemiology. Pregnancy and childbirth have not been shown to substantially alter susceptibility to or the clini­cal course of infection with SARS-CoV-2234–236. Preliminary data indicate that rates of ICU admission for pregnant women are simi­lar to those of the nonpregnant population176,237. Pregnant women with COVID-19 have not been reported to have severe maternal complications but were noted to be at increased risk of preterm and cesarean delivery in a few studies235,238,239. Maternal deaths from car­diopulmonary complications and multi-organ failure in previously healthy women have also been reported240,241. Evidence for vertical transmission to neonates has been mixed so far, which suggests that vertical transmission is possible but is probably not a common occurence242–244. 
+Pathophysiology. It is unknown whether the normal immuno­logical changes of pregnancy affect the severity of COVID-19 ill­ness, a disease marked by hyperinflammation in its severe forms. Histopathological evidence of infection of placental and fetal membrane samples with SARS-CoV-2 has been reported in a few cases245,246, but so far, vaginal and amniotic samples have tested neg­ative in pregnant women infected with SARS-CoV-2247. 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+Management. The management of hospitalized pregnant women is not substantially different from that of non-pregnant people. Changes to the route of delivery or management of labor are not routinely recommended for pregnant patients with COVID-19248. 
+
+
+
+Conclusions and future directions 
+Beyond the life-threatening pulmonary complications of SARS-CoV-2, the widespread organ-specific manifestations of COVID-19 are increasingly being appreciated. As clinicians around the world brace themselves to care for patients with COVID-19 for the foreseeable future, the development of a comprehensive under­standing of the common and organ-specific pathophysiologies and clinical manifestations of this multi-system disease is imperative. It is also important that scientists identify and pursue clear research priorities that will help elucidate several aspects of what remains a poorly understood disease. Some examples of areas that require further attention include elucidation of the mechanism by which SARS-CoV-2 is disseminated to extrapulmonary tissues, under­standing of the viral properties that may enhance extrapulmo­nary spread, the contribution of immunopathology and effect of anti-inflammatory therapies, anticipation of the long-term effects of multi-organ injury, the identification of factors that account for the variability in presentation and severity of illness, and the bio­logical and social mechanisms that underlie disparities in outcomes. A number of organ-system-specific research questions are sum­marized in Table 1. There is also a need for common definitions and data standards for research relating to COVID-19. Regional, national, and international collaborations of clinicians and scientists focused on high-quality, transparent, ethical, and evidence-based research practices would help propel the global community toward achieving success against this pandemic. 
+Received: 29 April 2020; Accepted: 5 June 2020; Published online: 10 July 2020 
+
+References 
+1. 
+Dong, E., Du, H. & Gardner, L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect. Dis. 20, 533–534 (2020). 
+
+2. 
+Guan, W. J. et al. Clinical characteristics of coronavirus disease 2019 in China. N. Engl. J. Med. 382, 1708–1720 (2020). 
+
+3. 
+Shi, S. et al. Association of cardiac injury with mortality in hospitalized patients with COVID-19 in Wuhan, China. JAMA Cardiol. https://doi. org/10.1001/jamacardio.2020.0950 (2020). 
+
+4. 
+Zhou, F. et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet 395, 1054–1062 (2020). 
+
+5. 
+Wu, C. et al. Risk factors associated with acute respiratory distress syndrome and death in patients with coronavirus disease 2019 pneumonia in Wuhan, China. JAMA Intern. Med. https://doi.org/10.1001/ jamainternmed.2020.0994 (2020). 
+
+6. 
+Zhou, P. et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 579, 270–273 (2020). 
+
+7. 
+Holmes, K. V. SARS coronavirus: a new challenge for prevention and therapy. J. Clin. Invest. 111, 1605–1609 (2003). 
+
+8. 
+Lan, J. et al. Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor. Nature 581, 215–220 (2020). 
+
+9. 
+Shang, J. et al. Structural basis of receptor recognition by SARS-CoV-2. Nature 581, 221–224 (2020). 
+
+10. 
+Walls, A. C. et al. Structure, function, and antigenicity of the SARS-CoV-2 spike glycoprotein. Cell 181, 281–292.e286 (2020). 
+
+11. 
+Li, W. et al. Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature 426, 450–454 (2003). 
+
+12. 
+Hoffmann, M. et al. SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by a clinically proven protease inhibitor. Cell 181, 271–280.e8 (2020). 
+
+13. 
+Li, F., Li, W., Farzan, M. & Harrison, S. C. Structure of SARS coronavirus spike receptor-binding domain complexed with receptor. Science 309, 1864–1868 (2005). 
+
+14. 
+Wrapp, D. et al. Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science 367, 1260–1263 (2020). 
+
+15. 
+Wang, Q. et al. Structural and functional basis of SARS-CoV-2 entry by using human ACE2. Cell 181, 894–904.e9 (2020). 
+
+
+16. 
+Lei, C. et al. Neutralization of SARS-CoV-2 spike pseudotyped virus by recombinant ACE2-Ig. Nat. Commun. 11, 2070 (2020). 
+
+17. 
+Li, H. et al. SARS-CoV-2 and viral sepsis: observations and hypotheses. Lancet 395, 1517–1520 (2020). 
+
+18. 
+Sungnak, W. et al. SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes. Nat. Med. 26, 681–687 (2020). 
+
+19. 
+Cao, W. & Li, T. COVID-19: towards understanding of pathogenesis. Cell Res. 30, 367–369 (2020). 
+
+20. 
+Wölfel, R. et al. Virological assessment of hospitalized patients with COVID-2019. Nature 581, 465–469 (2020). 
+
+21. 
+Puelles, V.G. et al. Multiorgan and renal tropism of SARS-CoV-2. N. Engl. J. Med. https://doi.org/10.1056/NEJMc2011400 (2020). 
+
+22. 
+Wang, W. et al. Detection of SARS-CoV-2 in different types of clinical specimens. J. Am. Med. Assoc. 323, 1843–1844 (2020). 
+
+23. 
+Su, H. et al. Renal histopathological analysis of 26 postmortem findings of patients with COVID-19 in China. Kidney Int. https://doi.org/10.1016/ j.kint.2020.04.003 (2020). 
+
+24. 
+Tavazzi, G. et al. Myocardial localization of coronavirus in COVID-19 cardiogenic shock. Eur. J. Heart Fail. 22, 911–915 (2020). 
+
+25. 
+Xiao, F. et al. Evidence for gastrointestinal infection of SARS-CoV-2. Gastroenterology 158, 1831–1833.e3 (2020). 
+
+26. 
+Qi, F., Qian, S., Zhang, S. & Zhang, Z. Single cell RNA sequencing of 13 human tissues identify cell types and receptors of human coronaviruses. Biochem. Biophys. Res. Commun. 526, 135–140 (2020). 
+
+27. 
+Pan, X. W. et al. Identification of a potential mechanism of acute kidney injury during the COVID-19 outbreak: a study based on single-cell transcriptome analysis. Intensive Care Med. 46, 1114–1116 (2020). 
+
+28. 
+Ziegler, C. G. K. et al. SARS-CoV-2 receptor ACE2 is an interferon-stimulated gene in human airway epithelial cells and is detected in specific cell subsets across tissues. Cell 181, 1016–1035.e19 (2020). 
+
+29. 
+Ackermann, M. et al. Pulmonary vascular endothelialitis, thrombosis, and angiogenesis in Covid-19. N. Engl. J. Med. https://doi.org/10.1056/ NEJMoa2015432 (2020). 
+
+
+30. 
+Teuwen, L.A., Geldhof, V., Pasut, A. & Carmeliet, P. COVID-19: the vasculature unleashed. Nat. Rev. Immunol. https://doi.org/10.1038/ s41577-020-0343-0 (2020). 
+
+31. 
+Varga, A. et al. Endothelial cell infection and endothelilitis in COVID-19. Lancet 395, 1417–1418 (2020). 
+
+32. 
+Hamming, I. et al. Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis. J. Pathol. 203, 631–637 (2004). 
+
+33. 
+Engelmann, B. & Massberg, S. Thrombosis as an intravascular effector of innate immunity. Nat. Rev. Immunol. 13, 34–45 (2013). 
+
+34. 
+Levi, M. & van der Poll, T. Coagulation and sepsis. Thromb. Res. 149, 38–44 (2017). 
+
+35. 
+Jackson, S. P., Darbousset, R. & Schoenwaelder, S. M. Thromboinflammation: challenges of therapeutically targeting coagulation and other host defense mechanisms. Blood 133, 906–918 (2019). 
+
+36. 
+Bikdeli, B. et al. Pharmacological agents targeting thromboinflammation in COVID-19: review and implications for future research. Thromb. Haemost. https://doi.org/10.1055/s-0040-1713152 (2020). 
+
+37. 
+Koupenova, M. et al. The role of platelets in mediating a response to human influenza infection. Nat. Commun. 10, 1780 (2019). 
+
+38. 
+Yeaman, M. R. Platelets in defense against bacterial pathogens. Cell. Mol. Life Sci. 67, 525–544 (2010). 
+
+39. 
+Semple, J. W., Italiano, J. E. Jr. & Freedman, J. Platelets and the immune continuum. Nat. Rev. Immunol. 11, 264–274 (2011). 
+
+40. 
+Merad, M. & Martin, J. C. Pathological inflammation in patients with COVID-19: a key role for monocytes and macrophages. Nat. Rev. Immunol. 20, 355–362 (2020). 
+
+41. 
+Zuo, Y. et al. Neutrophil extracellular traps in COVID-19. JCI Insight 5, 138999 (2020). 
+
+42. 
+Gupta, N., Zhao, Y. Y. & Evans, C. E. The stimulation of thrombosis by hypoxia. Thromb. Res. 181, 77–83 (2019). 
+
+43. 
+Giannis, D., Ziogas, I. A. & Gianni, P. Coagulation disorders in coronavirus infected patients: COVID-19, SARS-CoV-1, MERS-CoV and lessons from the past. J. Clin. Virol. 127, 104362 (2020). 
+
+44. 
+Deshpande, C. Thromboembolic findings in COVID-19 autopsies: pulmonary thrombosis or embolism? Ann. Intern. Med. https://doi. org/10.7326/M20-3255 (2020). 
+
+45. 
+Zhang, H. et al. Histopathologic changes and SARS-CoV-2 immunostaining in the lung of a patient with COVID-19. Ann. Intern. Med. 172, 629–632 (2020). 
+
+46. 
+Dolhnikoff, M. et al. Pathological evidence of pulmonary thrombotic phenomena in severe COVID-19. J. Thromb. Haemost. 18, 1517–1519 (2020). 
+
+47. 
+Copin, M. C., Parmentier, E., Duburcq, T., Poissy, J. & Mathieu, D. Time to consider histologic pattern of lung injury to treat critically ill patients with COVID-19 infection. Intensive Care Med. 46, 1124–1126 (2020). 
+
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+48. 
+Tian, S. et al. Pulmonary pathology of early-phase 2019 novel coronavirus (COVID-19) pneumonia in two patients with lung cancer. J. Thorac. Oncol. 15, 700–704 (2020). 
+
+49. 
+Kim, K. D. et al. Adaptive immune cells temper initial innate responses. Nat. Med. 13, 1248–1252 (2007). 
+
+50. 
+Channappanavar, R. & Perlman, S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin. Immunopathol. 39, 529–539 (2017). 
+
+51. 
+Huang, K. J. et al. An interferon-.-related cytokine storm in SARS patients. J. Med. Virol. 75, 185–194 (2005). 
+
+52. 
+Ruan, Q., Yang, K., Wang, W., Jiang, L. & Song, J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 46, 846–848 (2020). 
+
+53. 
+Petrilli, C. M. et al. Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study. BMJ 369, m1966 (2020). 
+
+54. 
+Cummings, M. J. et al. Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study. Lancet 395, 1763–1770 (2020). 
+
+55. 
+Mehta, P. et al. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet 395, 1033–1034 (2020). 
+
+56. 
+Nicholls, J. M. et al. Lung pathology of fatal severe acute respiratory syndrome. Lancet 361, 1773–1778 (2003). 
+
+57. 
+Zhang, X. et al. Viral and host factors related to the clinical outcome of COVID-19. Nature https://doi.org/10.1038/s41586-020-2355-0 (2020). 
+
+58. 
+Ranucci, M. et al. The procoagulant pattern of patients with COVID-19 acute respiratory distress syndrome. J. Thromb. Haemost. https://doi. org/10.1111/jth.1485 (2020). 
+
+59. 
+Castell, J. V. et al. Interleukin-6 is the major regulator of acute phase protein synthesis in adult human hepatocytes. FEBS Lett. 242, 237–239 (1989). 
+
+60. 
+Robson, S. C., Shephard, E. G. & Kirsch, R. E. Fibrin degradation product D-dimer induces the synthesis and release of biologically active IL-1ß, IL-6 and plasminogen activator inhibitors from monocytes in vitro. Br. J. Haematol. 86, 322–326 (1994). 
+
+61. 
+Vaduganathan, M. et al. Renin-angiotensin-aldosterone system inhibitors in patients with Covid-19. N. Engl. J. Med. 382, 1653–1659 (2020). 
+
+62. 
+Ye, M. et al. Glomerular localization and expression of angiotensin-converting enzyme 2 and angiotensin-converting enzyme: implications for albuminuria in diabetes. J. Am. Soc. Nephrol. 17, 3067–3075 (2006). 
+
+63. 
+Kuba, K., Imai, Y., Ohto-Nakanishi, T. & Penninger, J. M. Trilogy of ACE2: a peptidase in the renin-angiotensin system, a SARS receptor, and a partner for amino acid transporters. Pharmacol. Ther. 128, 119–128 (2010). 
+
+64. 
+Strawn, W. B., Ferrario, C. M. & Tallant, E. A. Angiotensin-(1-7) reduces smooth muscle growth after vascular injury. Hypertension 33, 207–211 (1999). 
+
+65. 
+Arentz, M. et al. Characteristics and outcomes of 21 critically ill patients with COVID-19 in Washington state. J. Am. Med. Assoc. 323, 1612–1614 (2020). 
+
+66. 
+Bhatraju, P. K. et al. Covid-19 in critically ill patients in the Seattle region 
+
+— case series. N. Engl. J. Med. 382, 2012–2022 (2020). 
+
+
+67. 
+Terpos, E. et al. Hematological findings and complications of COVID-19. Am. J. Hematol. 95, 834–847 (2020). 
+
+68. 
+Goyal, P. et al. Clinical characteristics of Covid-19 in New York City. N. Engl. J. Med. 382, 2372–2374 (2020). 
+
+69. 
+Huang, C. et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 395, 497–506 (2020). 
+
+70. 
+Qin, C. et al. Dysregulation of immune response in patients with COVID-19 in Wuhan, China. Clin. Infect. Dis. https://doi.org/10.1093/cid/ciaa248 (2020). 
+
+71. 
+Fan, B.E. et al. Hematologic parameters in patients with COVID-19 infection. Am. J. Hematol. https://doi.org/10.1002/ajh.25774 (2020). 
+
+72. 
+Lippi, G., Plebani, M. & Henry, B. M. Thrombocytopenia is associated with severe coronavirus disease 2019 (COVID-19) infections: A meta-analysis. Clin. Chim. Acta 506, 145–148 (2020). 
+
+73. 
+Connors, J. M. & Levy, J. H. COVID-19 and its implications for thrombosis and anticoagulation. Blood 135, 2033–2040 (2020). 
+
+74. 
+Tang, N., Li, D., Wang, X. & Sun, Z. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J. Thromb. Haemost. 18, 844–847 (2020). 
+
+75. 
+Chen, N. et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 395, 507–513 (2020). 
+
+76. 
+Cui, S., Chen, S., Li, X., Liu, S. & Wang, F. Prevalence of venous thromboembolism in patients with severe novel coronavirus pneumonia. J. Thromb. Haemost. 18, 1421–1424 (2020). 
+
+77. 
+Klok, F. A. et al. Incidence of thrombotic complications in critically ill ICU patients with COVID-19. Thromb. Res. 191, 145–147 (2020). 
+
+78. 
+Bangalore, S. et al. ST-segment elevation in patients with Covid-19 — a case series. N. Engl. J. Med. https://doi.org/10.1056/NEJMc2009020 (2020). 
+
+79. 
+Helms, J. et al. Neurologic features in severe SARS-CoV-2 infection. 
+
+
+N. Engl. J. Med. (2020). 
+
+80. 
+Helms, J. et al. High risk of thrombosis in patients with severe SARS-CoV-2 infection: a multicenter prospective cohort study. Intensive Care Med. https://doi.org/10.1007/s00134-020-06062-x (2020). 
+
+81. 
+Oxley, T. J. et al. Large-vessel stroke as a presenting feature of Covid-19 in the young. N. Engl. J. Med. 382, e60 (2020). 
+
+82. 
+Perini, P., Nabulsi, B., Massoni, C. B., Azzarone, M. & Freyrie, A. Acute limb ischaemia in two young, non-atherosclerotic patients with COVID-19. Lancet 395, 1546 (2020). 
+
+83. 
+Llitjos, J.F. et al. High incidence of venous thromboembolic events in anticoagulated severe COVID-19 patients. J. Thromb. Haemost. https://doi.org/10.1111/jth.14869 (2020). 
+
+84. 
+Lodigiani, C. et al. Venous and arterial thromboembolic complications in COVID-19 patients admitted to an academic hospital in Milan, Italy. Thromb. Res. 191, 9–14 (2020). 
+
+85. 
+Tavazzi, G., Civardi, L., Caneva, L., Mongodi, S. & Mojoli, F. Thrombotic events in SARS-CoV-2 patients: an urgent call for ultrasound screening. Intensive Care Med. https://doi.org/10.1007/s00134-020-06040-3 (2020). 
+
+86. 
+Poissy, J. et al. Pulmonary embolism in COVID-19 patients: awareness of an increased prevalence. Circulation https://doi.org/10.1161/ CIRCULATIONAHA.120.047430 (2020). 
+
+87. 
+Nahum, J. et al. Venous thrombosis among critically ill patients with coronavirus disease 2019 (COVID-19). JAMA Netw. Open 3, e2010478 (2020). 
+
+88. 
+Ren, B. et al. Extremely high incidence of lower extremity deep venous thrombosis in 48 patients with severe COVID-19 in Wuhan. Circulation https://doi.org/10.1161/CIRCULATIONAHA.120.047407 (2020). 
+
+89. 
+Gu, J. et al. Multiple organ infection and the pathogenesis of SARS. J. Exp. Med. 202, 415–424 (2005). 
+
+90. 
+Xu, H. et al. High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa. Int. J. Oral. Sci. 12, 8 (2020). 
+
+91. 
+Hotchkiss, R. S. & Opal, S. M. Activating immunity to fight a foe — a new path. N. Engl. J. Med. 382, 1270–1272 (2020). 
+
+92. 
+Chu, H. et al. Middle East respiratory syndrome coronavirus efficiently infects human primary T lymphocytes and activates the extrinsic and intrinsic apoptosis pathways. J. Infect. Dis. 213, 904–914 (2016). 
+
+93. 
+Fischer, K. et al. Inhibitory effect of tumor cell-derived lactic acid on human T cells. Blood 109, 3812–3819 (2007). 
+
+94. 
+Park, M. D. Macrophages: a Trojan horse in COVID-19? Nat. Rev. Immunol. 20, 351 (2020). 
+
+95. 
+Ramacciotti, E. et al. Zika and Chikungunya virus and risk for venous thromboembolism. Clin. Appl. Thromb. Hemost. 25, 1076029618821184 (2019). 
+
+96. 
+Smither, S. J. et al. Haemostatic changes in five patients infected with Ebola virus. Viruses 11, 647 (2019). 
+
+97. 
+Spyropoulos, A.C. et al. Scientific and standardization committee communication: clinical guidance on the diagnosis, prevention and treatment of venous thromboembolism in hospitalized patients with COVID-19. J. Thromb. Haemost. https://doi.org/10.1111/jth.14929 (2020). 
+
+98. 
+Lax, S.F. et al. Pulmonary arterial thrombosis in COVID-19 with fatal outcome: results from a prospective, single-center, clinicopathologic case series. Ann. Intern. Med. https://doi.org/10.7326/M20-2566 (2020). 
+
+99. 
+Wichmann, D. et al. Autopsy findings and venous thromboembolism in patients with COVID-19. Ann. Intern. Med. https://doi.org/10.7326/ M20-2003 (2020). 
+
+100. 
+Fox, S.E. et al. Pulmonary and cardiac pathology in African American patients with COVID-19: an autopsy series from New Orleans. Lancet Respir. Med. https://doi.org/S2213-2600(20)30243-5 (2020). 
+
+101. 
+Thachil, J. et al. ISTH interim guidance on recognition and management of coagulopathy in COVID-19. J. Thromb. Haemost. 18, 1023–1026 (2020). 
+
+102. 
+Bikdeli, B. et al. COVID-19 and thrombotic or thromboembolic disease: implications for prevention, antithrombotic therapy, and follow-up. 
+
+J. Am. Coll. Cardiol. https://doi.org/10.1016/j.jacc.2020.04.031 (2020). 
+
+
+103. 
+Kollias, A. et al. Thromboembolic risk and anticoagulant therapy in COVID-19 patients: emerging evidence and call for action. Br. J. Haematol. 189, 846–847 (2020). 
+
+104. 
+Paranjpe, I. et al. Association of treatment dose anticoagulation with in-hospital survival among hospitalized patients with COVID-19. J. Am. Coll. Cardiol. https://doi.org/10.1016/j.jacc.2020.05.001 (2020). 
+
+105. 
+Driggin, E. et al. Cardiovascular considerations for patients, health care workers, and health systems during the coronavirus disease 2019 (COVID-19) pandemic. J. Am. Coll. Cardiol. https://doi.org/10.1016/j.jacc. 2020.03.031 (2020). 
+
+106. 
+Clerkin, K. J. et al. Coronavirus disease 2019 (COVID-19) and cardiovascular disease. Circulation 141, 1648–1655 (2020). 
+
+107. 
+Guo, T. et al. Cardiovascular implications of fatal outcomes of patients with coronavirus disease 2019 (COVID-19). JAMA Cardiol. https://doi.org/ 10.1001/jamacardio.2020.1017 (2020). 
+
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+108. 
+Ullah, W., Saeed, R., Sarwar, U., Patel, R. & Fischman, D.L. COVID-19 complicated by acute pulmonary embolism and right-sided heart failure. JACC Case Rep. https://doi.org/10.1016/j.jaccas.2020.04.008 (2020). 
+
+109. 
+Creel-Bulos, C. et al. Acute cor pulmonale in critically ill patients with Covid-19. N. Engl. J. Med. 382, e70 (2020). 
+
+110. 
+Wang, D. et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China. J. Am. Med. Assoc. 323, 1061–1069 (2020). 
+
+111. 
+Richardson, S. et al. Presenting characteristics, comorbidities, and outcomes among 5700 patients hospitalized with COVID-19 in the New York City area. J. Am. Med. Assoc. 323, 2052–2059 (2020). 
+
+112. 
+Baldi, E. et al. Out-of-hospital cardiac arrest during the Covid-19 outbreak in Italy. N. Engl. J. Med. https://doi.org/10.1056/NEJMc2010418 (2020). 
+
+113. 
+Gallagher, P. E., Ferrario, C. M. & Tallant, E. A. Regulation of ACE2 in cardiac myocytes and fibroblasts. Am. J. Physiol. Heart Circ. Physiol. 295, H2373–H2379 (2008). 
+
+114. 
+Sala, S. et al. Acute myocarditis presenting as a reverse Tako-Tsubo syndrome in a patient with SARS-CoV-2 respiratory infection. Eur. Heart J. 41, 1861–1862 (2020). 
+
+115. 
+Xu, Z. et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir. Med. 8, 420–422 (2020). 
+
+116. 
+Epelman, S. et al. Detection of soluble angiotensin-converting enzyme 2 in heart failure: insights into the endogenous counter-regulatory pathway of the renin-angiotensin-aldosterone system. J. Am. Coll. Cardiol. 52, 750–754 (2008). 
+
+117. 
+Walters, T. E. et al. Angiotensin converting enzyme 2 activity and human atrial fibrillation: increased plasma angiotensin converting enzyme 2 activity is associated with atrial fibrillation and more advanced left atrial structural remodelling. Ep Europace 19, 1280–1287 (2017). 
+
+118. 
+Repessé, X. & Vieillard-Baron, A. Right heart function during acute respiratory distress syndrome. Ann. Transl. Med. 5, 295–295 (2017). 
+
+119. 
+Kwong, J. C. et al. Acute myocardial infarction after laboratory-confirmed influenza infection. N. Engl. J. Med. 378, 345–353 (2018). 
+
+120. 
+Fried, J. A. et al. The variety of cardiovascular presentations of COVID-19. Circulation 141, 1930–1936 (2020). 
+
+121. 
+Imai, Y. et al. Angiotensin-converting enzyme 2 protects from severe acute lung failure. Nature 436, 112–116 (2005). 
+
+122. 
+Gurwitz, D. Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics. Drug Dev. Res. https://doi.org/10.1002/ddr.21656 (2020). 
+
+123. 
+Zheng, Y. Y., Ma, Y. T., Zhang, J. Y. & Xie, X. COVID-19 and the cardiovascular system. Nat. Rev. Cardiol. 17, 259–260 (2020). 
+
+124. 
+Patel, A. B. & Verma, A. COVID-19 and angiotensin-converting enzyme inhibitors and angiotensin receptor blockers: what is the evidence? J. Am. Med. Assoc. 323, 1769–1770 (2020). 
+
+125. 
+Chow, N. et al. Preliminary estimates of the prevalence of selected underlying health conditions among patients with coronavirus disease 2019 
+
+— United States, February 12–March 28, 2020. MMWR Morb. Mortal. Wkly. Rep. 69, 382–386 (2020). 
+
+
+126. 
+Reynolds, H.R. et al. Renin-angiotensin-aldosterone system inhibitors and risk of Covid-19. N. Engl. J. Med. https://doi.org/10.1056/NEJMoa2008975 (2020). 
+
+127. 
+Mancia, G., Rea, F., Ludergnani, M., Apolone, G. & Corrao, G. Renin-angiotensin-aldosterone system blockers and the risk of Covid-19. N. Engl. J. Med. https://doi.org/10.1056/NEJMoa2006923 (2020). 
+
+128. 
+Li, J., Wang, X., Chen, J., Zhang, H. & Deng, A. Association of renin-angiotensin system inhibitors with severity or risk of death in patients with hypertension hospitalized for coronavirus disease 2019 (COVID-19) infection in Wuhan, China. JAMA Cardiol. https://doi.org/10.1001/ jamacardio.2020.1624 (2020). 
+
+129. 
+Kuba, K. et al. A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury. Nat. Med. 11, 875–879 (2005). 
+
+130. 
+Zhang, P. et al. Association of inpatient use of angiotensin converting enzyme inhibitors and angiotensin II receptor blockers with mortality among patients with hypertension hospitalized with COVID-19. Circ. Res. 126, 1671–1681 (2020). 
+
+131. 
+Yang, G. et al. Effects of ARBs and ACEIs on virus infection, inflammatory status and clinical outcomes in COVID-19 patients with hypertension: a single center retrospective study. Hypertension 76, 51–58 (2020). 
+
+
+132. European Society of Cardiology. Position Statement of the ESC Council on Hypertension on ACE-Inhibitors and Angiotensin Receptor Blockers. https://www.escardio.org/Councils/Council-on-Hypertension-(CHT)/News/ position-statement-of-the-esc-council-on-hypertension-on-ace-inhibitors­
+and-ang (2020). 
+133. American College of Cardiology. HFSA/ACC/AHA Statement Addresses Concerns Re: Using RAAS Antagonists in COVID-19. https://www.acc.org/ latest-in-cardiology/articles/2020/03/17/08/59/hfsa-acc-aha-statement­
+addresses-concerns-re-using-raas-antagonists-in-covid-19 (2020). 
+134. 
+Welt, F. G. P. et al. Catheterization laboratory considerations during the coronavirus (COVID-19) pandemic: from the ACC’s Interventional Council and SCAI. J. Am. Coll. Cardiol. 75, 2372–2375 (2020). 
+
+135. 
+Szerlip, M. et al. Considerations for cardiac catheterization laboratory procedures during the COVID-19 pandemic perspectives from the Society for Cardiovascular Angiography and Interventions Emerging Leader Mentorship (SCAI ELM) members and graduates. Catheter. Cardiovasc. Interv. https://doi.org/10.1002/ccd.28887 (2020). 
+
+136. 
+Ranard, L. S. et al. Clinical pathway for management of suspected or positive novel coronavirus-19 patients with ST segment elevation myocardial infarction. Crit. Pathw. Cardiol. 19, 49–54 (2020). 
+
+137. 
+Lakkireddy, D.R. et al. Guidance for cardiac electrophysiology during the coronavirus (COVID-19) pandemic from the Heart Rhythm Society COVID-19 Task Force; Electrophysiology Section of the American College of Cardiology; and the Electrocardiography and Arrhythmias Committee of the Council on Clinical Cardiology, American Heart Association. Heart Rhythm https://doi.org/10.1016/j.hrthm.2020.03.028 (2020). 
+
+
+138. 
+HRS COVID-19 Rapid Response Task Force. UPDATE: General guidance for QTc monitoring in COVID-19 patients. https://www.hrsonline.org/ COVID19-Challenges-Solutions/hrs-covid-19-task-force-update­april-21-2020 (accessed 31 May2020). 
+
+139. 
+Kirkpatrick, J. N. et al. ASE statement on protection of patients and echocardiography service providers during the 2019 novel coronavirus outbreak. J. Am. Coll. Cardiol. 75, 3078–3084 (2020). 
+
+140. 
+American College of Cardiology. Management of the hospitalized COVID-19 patient with acute cardiomyopathy or heart failure. https://www. acc.org/latest-in-cardiology/articles/2020/04/16/14/42/management­
+of-the-hospitalized-covid-19-coronavirus-2019-patient-with-acute-cardiom yopathy-or-heart-failure (2020). 
+
+141. 
+Naicker, S. et al. The novel coronavirus 2019 epidemic and kidneys. Kidney Int. 97, 824–828 (2020). 
+
+142. 
+Cheng, Y. et al. Kidney disease is associated with in-hospital death of patients with COVID-19. Kidney Int. 97, 829–838 (2020). 
+
+143. 
+Hirsch, J.S. et al. Acute kidney injury in patients hospitalized with COVID-19. Kidney Int. https://doi.org/10.1016/j.kint.2020.05.006 (2020). 
+
+144. 
+Chu, K. H. et al. Acute renal impairment in coronavirus-associated severe acute respiratory syndrome. Kidney Int. 67, 698–705 (2005). 
+
+145. 
+Argenziano, M. G. et al. Characterization and clinical course of 1000 patients with coronavirus disease 2019 in New York: retrospective case series. Br. Med. J. 369, m1996 (2020). 
+
+146. 
+Pereira, M.R. et al. COVID-19 in solid organ transplant recipients: initial report from the US epicenter. Am. J. Transplant. https://doi.org/10.1111/ ajt.15941 (2020). 
+
+147. 
+Valeri, A.M. et al. Presentation and outcomes of patients with ESKD and COVID-19. J. Am. Soc. Nephrol. https://doi.org/10.1681/ASN.2020040470 (2020). 
+
+148. 
+Akalin, E. et al. Covid-19 and kidney transplantation. N. Engl. J. Med. https://doi.org/10.1056/NEJMc2011117 (2020). 
+
+149. 
+Iwasaki, A. & Pillai, P. S. Innate immunity to influenza virus infection. Nat. Rev. Immunol. 14, 315–328 (2014). 
+
+150. 
+Friedman, D. J. & Pollak, M. R. APOL1 and kidney disease: from genetics to biology. Annu. Rev. Physiol. 82, 323–342 (2020). 
+
+151. 
+Larsen, C. P., Bourne, T. D., Wilson, J. D., Saqqa, O. & Sharshir, M. A. Collapsing glomerulopathy in a patient with coronavirus disease 2019 (COVID-19). Kidney Int. Rep. 5, 935–939 (2020). 
+
+152. 
+Kissling, S. et al. Collapsing glomerulopathy in a COVID-19 patient. Kidney Int. https://doi.org/10.1016/j.kint.2020.04.006 (2020). 
+
+153. 
+Peerapornratana, S., Manrique-Caballero, C. L., Gómez, H. & Kellum, J. A. Acute kidney injury from sepsis: current concepts, epidemiology, pathophysiology, prevention and treatment. Kidney Int. 96, 1083–1099 (2019). 
+
+154. 
+Pei, G. et al. Renal involvement and early prognosis in patients with COVID-19 pneumonia. J. Am. Soc. Nephrol. 31, 1157–1165 (2020). 
+
+155. 
+Alhazzani, W. et al. Surviving Sepsis Campaign: guidelines on the management of critically ill adults with coronavirus disease 2019 (COVID-19). Intensive Care Med. 46, 854–887 (2020). 
+
+156. 
+American Society of Nephrology. Recommendations on the care of hospitalized patients with COVID-19 and kidney failure requiring renal replacement therapy. https://www.asn-online.org/g/blast/files/AKI_ COVID-19_Recommendations_Document_03.21.2020.pdf (2020). 
+
+157. 
+Ronco, C., Reis, T. & Husain-Syed, F. Management of acute kidney injury in patients with COVID-19. Lancet Respir. Med. https://doi.org/10.1016/ S2213-2600(20)30229-0 (2020). 
+
+158. 
+Pan, L. et al. Clinical characteristics of COVID-19 patients with digestive symptoms in Hubei, China: a descriptive, cross-sectional, multicenter study. Am. J. Gastroenterol. 115, 766–773 (2020). 
+
+159. 
+Cao, B. et al. A trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19. N. Engl. J. Med. 382, 1787–1799 (2020). 
+
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+160. 
+Mao, R. et al. Manifestations and prognosis of gastrointestinal and liver involvement in patients with COVID-19: a systematic review and meta-analysis. Lancet Gastroenterol. Hepatol. 5, 667–678 (2020). 
+
+161. 
+Redd, W.D. et al. Prevalence and characteristics of gastrointestinal symptoms in patients with SARS-CoV-2 infection in the United States: a multicenter cohort study. Gastroenterology https://doi.org/10.1053/j.gastro. 2020.04.045 (2020). 
+
+162. 
+Nobel, Y.R. et al. Gastrointestinal symptoms and COVID-19: case-control study from the United States. Gastroenterology https://doi.org/10.1053/j.gastro. 2020.04.017 (2020). 
+
+163. 
+Zhang, H. et al. Digestive system is a potential route of COVID-19: an analysis of single-cell coexpression pattern of key proteins in viral entry process. Gut 69, 1010–1018 (2020). 
+
+164. 
+Lamers, M.M. et al. SARS-CoV-2 productively infects human gut enterocytes. Science https://doi.org/10.1126/science.abc1669 (2020). 
+
+165. 
+Mak, J. W. Y., Chan, F. K. L. & Ng, S. C. Probiotics and COVID-19: one size does not fit all. Lancet Gastroenterol. Hepatol. 5, 644–645 (2020). 
+
+166. 
+Lui, R. N. et al. Overview of guidance for endoscopy during the coronavirus disease 2019 pandemic. J. Gastroenterol. Hepatol. 35, 749–759 (2020). 
+
+167. 
+Sultan, S. et al. AGA Institute rapid recommendations for gastrointestinal procedures during the COVID-19 pandemic. Gastroenterology https://doi. org/10.1053/j.gastro.2020.03.072 (2020). 
+
+168. 
+Kim, J. et al. Effect of the COVID-19 pandemic on outcomes for patients admitted with gastrointestinal bleeding in New York City. Gastroenterology https://doi.org/10.1053/j.gastro.2020.05.031 (2020). 
+
+169. 
+Wander, P., Epstein, M. & Bernstein, D. COVID-19 presenting as acute hepatitis. Am. J. Gastroenterol. 115, 941–942 (2020). 
+
+170. 
+Zhang, C., Shi, L. & Wang, F.-S. Liver injury in COVID-19: management and challenges. Lancet Gastroenterol. Hepatol. 5, 428–430 (2020). 
+
+171. 
+Feng, Y. et al. COVID-19 with different severities: a multicenter study of clinical features. Am. J. Respir. Crit. Care Med. 201, 1380–1388 (2020). 
+
+172. 
+Liang, W. et al. Development and validation of a clinical risk score to predict the occurrence of critical illness in hospitalized patients with COVID-19. JAMA Intern. Med. https://doi.org/10.1001/jamainternmed. 2020.2033 (2020). 
+
+173. 
+Bangash, M. N., Patel, J. & Parekh, D. COVID-19 and the liver: little cause for concern. Lancet Gastroenterol. Hepatol. 5, 529–530 (2020). 
+
+174. 
+Fix, O.K. et al. Clinical best practice advice for hepatology and liver transplant providers during the COVID-19 Pandemic: AASLD Expert Panel Consensus Statement. Hepatology https://doi.org/10.1002/hep.31281 (2020). 
+
+175. 
+Onder, G., Rezza, G. & Brusaferro, S. Case-fatality rate and characteristics of patients dying in relation to COVID-19 in Italy. J. Am. Med. Assoc. 323, 1775–177 (2020). 
+
+176. 
+Wu, Z. & McGoogan, J. M. Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention. J. Am. Med. Assoc. 323, 1239–1242 (2020). 
+
+177. 
+Li, J. et al. COVID-19 infection may cause ketosis and ketoacidosis. Diabetes Obes. Metab. https://doi.org/10.1111/dom.14057 (2020). 
+
+178. 
+Eizirik, D. L. & Darville, M. I. Beta-cell apoptosis and defense mechanisms: lessons from type 1 diabetes. Diabetes 50, S64–S69 (2001). 
+
+179. 
+Yang, J.-K., Lin, S.-S., Ji, X.-J. & Guo, L.-M. Binding of SARS coronavirus to its receptor damages islets and causes acute diabetes. Acta Diabetol. 47, 193–199 (2010). 
+
+180. 
+Harmer, D., Gilbert, M., Borman, R. & Clark, K. L. Quantitative mRNA expression profiling of ACE 2, a novel homologue of angiotensin converting enzyme. FEBS Lett. 532, 107–110 (2002). 
+
+181. 
+Baron, M. et al. A single-cell transcriptomic map of the human and mouse pancreas reveals inter- and intra-cell population structure. Cell Syst. 3, 346–360.e344 (2016). 
+
+182. 
+Abu-Ashour, W., Twells, L. K., Valcour, J. E. & Gamble, J.-M. Diabetes and the occurrence of infection in primary care: a matched cohort study. BMC Infect. Dis. 18, 67 (2018). 
+
+183. 
+Carey, I. M. et al. Risk of infection in type 1 and type 2 diabetes compared with the general population: a matched cohort study. Diabetes Care 41, 513–521 (2018). 
+
+184. 
+Joshi, N., Caputo, G. M., Weitekamp, M. R. & Karchmer, A. W. Infections in patients with diabetes mellitus. N. Engl. J. Med. 341, 1906–1912 (1999). 
+
+185. 
+McCowen, K. C., Malhotra, A. & Bistrian, B. R. Stress-induced hyperglycemia. Crit. Care Clin. 17, 107–124 (2001). 
+
+186. 
+Laffel, L. Ketone bodies: a review of physiology, pathophysiology and application of monitoring to diabetes. Diabetes Metab. Res. Rev. 15, 412–426 (1999). 
+
+187. 
+Fang, L., Karakiulakis, G. & Roth, M. Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection? Lancet Respir. Med. 8, e21 (2020). 
+
+
+188. 
+Simonnet, A. et al. High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation. Obesity https://doi.org/10.1002/oby.2283 (2020). 
+
+189. 
+McClean, K. M., Kee, F., Young, I. S. & Elborn, J. S. Obesity and the lung: 1. Epidemiol. Thorax 63, 649–654 (2008). 
+
+190. 
+Hibbert, K., Rice, M., Malhotra, A. & Obesity, ARDS. Chest 142, 785–790 (2012). 
+
+191. 
+Rajala, M. W. & Scherer, P. E. Minireview: the adipocyte-at the crossroads of energy homeostasis, inflammation, and atherosclerosis. Endocrinology 144, 3765–3773 (2003). 
+
+
+192. American Diabetes Association. Inpatient Insulin Protocols - COVID-19. https://professional.diabetes.org /content-page/inpatient-insulin-protocols­
+covid-19 (2020). 
+193. 
+Desforges, M., Le Coupanec, A., Stodola, J. K., Meessen-Pinard, M. & Talbot, P. J. Human coronaviruses: viral and cellular factors involved in neuroinvasiveness and neuropathogenesis. Virus Res. 194, 145–158 (2014). 
+
+194. 
+Li, Y.C., Bai, W.Z. & Hashikawa, T. The neuroinvasive potential of SARS-CoV2 may play a role in the respiratory failure of COVID-19 patients. J. Med. Virol. (2020). 
+
+195. 
+Mao, L. et al. Neurologic manifestations of hospitalized patients with coronavirus disease 2019 in Wuhan, China. JAMA Neurol. 77, 683–690 (2020). 
+
+196. 
+Lechien, J.R. et al. Olfactory and gustatory dysfunctions as a clinical presentation of mild-to-moderate forms of the coronavirus disease (COVID-19): a multicenter European study. Eur. Arch. Otorhinolaryngol. https://doi.org/10.1007/s00405-020-05965-1. (2020). 
+
+197. 
+Spinato, G. et al. Alterations in smell or taste in mildly symptomatic outpatients with SARS-CoV-2 infection. J. Am. Med. Assoc. 323, 2089–2090 (2020). 
+
+198. 
+Yaghi, S. et al. SARS2-CoV-2 and stroke in a New York healthcare system. Stroke https://doi.org/10.1161/STROKEAHA.120.030335 (2020). 
+
+199. 
+Pilotto, A. et al. Steroid-responsive encephalitis in Covid-19 disease. Ann. Neurol. (2020). 
+
+200. 
+Zhao, H., Shen, D., Zhou, H., Liu, J. & Chen, S. Guillain-Barré syndrome associated with SARS-CoV-2 infection: causality or coincidence? Lancet Neurol. 19, 383–384 (2020). 
+
+201. 
+Toscano, G. et al. Guillain-Barré syndrome associated with SARS-CoV-2. 
+
+N. Engl. J. Med. https://doi.org/10.1056/NEJMc2009191 (2020). 
+
+
+202. 
+Franceschi, A.M., Ahmed, O., Giliberto, L. & Castillo, M. Hemorrhagic posterior reversible encephalopathy syndrome as a manifestation of COVID-19 infection. AJNR Am. J. Neuroradiol. https://doi.org/10.3174/ ajnr.A6595 (2020). 
+
+203. 
+Moriguchi, T. et al. A first case of meningitis/encephalitis associated with SARS-coronavirus-2. Int. J. Infect. Dis. 94, 55–58 (2020). 
+
+204. 
+Poyiadji, N. et al. COVID-19-associated acute hemorrhagic necrotizing encephalopathy: CT and MRI features. Radiology https://doi.org/10.1148/ radiol.2020201187 (2020). 
+
+205. 
+Marinho, P. M., Marcos, A. A. A., Romano, A. C., Nascimento, H. & Belfort, R. Jr. Retinal findings in patients with COVID-19. Lancet 395, 1610 (2020). 
+
+206. 
+Wu, P. et al. Characteristics of ocular findings of patients with coronavirus disease 2019 (COVID-19) in Hubei Province, China. JAMA Ophthalmol. 138, 575–578 (2020). 
+
+207. 
+Cheema, M. et al. Keratoconjunctivitis as the initial medical presentation of the novel coronavirus disease 2019 (COVID-19). Can. J. Ophthalmol. https://doi.org/10.1016/j.jcjo.2020.03.003 (2020). 
+
+208. 
+Vaira, L. A. et al. Objective evaluation of anosmia and ageusia in COVID-19 patients: single-center experience on 72 cases. Head. Neck 42, 1252–1258 (2020). 
+
+209. 
+AHA/ASA Stroke Council Leadership. Temporary emergency guidance to US stroke centers during the coronavirus disease 2019 (COVID-19) pandemic: On Behalf of the American Heart Association/American Stroke Association Stroke Council Leadership. Stroke 51, 1910–1912 (2020). 
+
+210. 
+Faigle, R. et al. Safety trial of low-intensity monitoring after thrombolysis: optimal post TPA-IV monitoring in ischemic stroke (OPTIMIST). Neurohospitalist 10, 11–15 (2020). 
+
+211. 
+Hartung, H.P. & Aktas, O. COVID-19 and management of neuroimmunological disorders. Nat. Rev. Neurol. https://doi.org/10.1038/ s41582-020-0368-9 (2020). 
+
+212. 
+Recalcati, S. Cutaneous manifestations in COVID-19: a first perspective. 
+
+J. Eur. Acad. Dermatol. Venereol. 34, e212–e213 (2020). 
+
+
+213. 
+Jia, J.L., Kamceva, M., Rao, S.A. & Linos, E. Cutaneous manifestations of COVID-19: a preliminary review. J. Am. Acad. Dermatol. https://doi.org/ 10.1016/j.jaad.2020.05.059 (2020). 
+
+214. 
+Galván Casas, C. et al. Classification of the cutaneous manifestations of COVID-19: a rapid prospective nationwide consensus study in Spain with 375 cases. Br. J. Dermatol. https://doi.org/10.1111/bjd.19163 (2020). 
+
+215. 
+Gianotti, R. et al. Cutaneous clinico-pathological findings in three COVID-19-positive patients observed in the metropolitan area of Milan, Italy. Acta Derm Venereol. https://doi.org/10.2340/00015555-3490 (2020). 
+
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+216. 
+Joob, B. & Wiwanitkit, V. COVID-19 can present with a rash and be mistaken for dengue. J. Am. Acad. Dermatol. 82, e177 (2020). 
+
+217. 
+Diaz-Guimaraens, B. et al. Petechial skin rash associated with severe acute respiratory syndrome coronavirus 2 infection. JAMA Dermatol. https://doi.org/10.1001/jamadermatol.2020.1741 (2020). 
+
+218. 
+Türsen, Ü., Türsen, B. & Lotti, T. Cutaneous side-effects of the potential COVID-19 drugs. Dermatol. Ther. https://doi.org/10.1111/dth.13476 (2020). 
+
+219. 
+Wei, C. & Friedman, A. J. COVID-19 pandemic: are there unique cutaneous manifestations in patients infected with SARS-CoV-2? J. Drugs Dermatol. 19, 554–555 (2020). 
+
+220. 
+Recalcati, S. et al. Acral cutaneous lesions in the time of COVID-19. J. Eur. Acad. Dermatol. Venereol. https://doi.org/10.1111/jdv.16533 (2020). 
+
+221. 
+Bashyam, A. M. & Feldman, S. R. Should patients stop their biologic treatment during the COVID-19 pandemic. J. Dermatol. Treat. 31, 317–318 (2020). 
+
+222. 
+American Academy of Dermatology. Guidance on the use of medications during COVID-19 outbreak. Guidance on the use of immunosuppressive agents. https://www.aad.org/member/practice/coronavirus/clinical­
+guidance/biologics (2020). 
+
+223. 
+Dong, Y. et al. Epidemiology of COVID-19 among children in China. Pediatrics 145, e20200702 (2020). 
+
+224. 
+Lu, X. et al. SARS-CoV-2 infection in children. N. Engl. J. Med. 382, 1663–1665 (2020). 
+
+225. 
+Shekerdemian, L.S. et al. Characteristics and outcomes of children with coronavirus disease 2019 (COVID-19) infection admitted to US and Canadian pediatric intensive care units. JAMA Pediatr. https://doi.org/ 10.1001/jamapediatrics.2020.1948 (2020). 
+
+226. 
+Riphagen, S., Gomez, X., Gonzalez-Martinez, C., Wilkinson, N. & Theocharis, P. Hyperinflammatory shock in children during COVID-19 pandemic. Lancet 395, 1607–1608 (2020). 
+
+227. 
+Belhadjer, Z. et al. Acute heart failure in multisystem inflammatory syndrome in children (MIS-C) in the context of global SARS-CoV-2 pandemic. Circulation https://doi.org/10.1161/CIRCULATIONAHA.120.048360 (2020). 
+
+228. 
+Gordon, J. B., Kahn, A. M. & Burns, J. C. When children with Kawasaki disease grow up: myocardial and vascular complications in adulthood. J. Am. Coll. Cardiol. 54, 1911–1920 (2009). 
+
+229. 
+Bunyavanich, S., Do, A. & Vicencio, A. Nasal gene expression of angiotensin-converting enzyme 2 in children and adults. J. Am. Med. Assoc. 323, 2427–2429 (2020). 
+
+230. 
+Yuki, K., Fujiogi, M. & Koutsogiannaki, S. COVID-19 pathophysiology: A review. Clin. Immunol. 215, 108427 (2020). 
+
+231. 
+McCrindle, B. W. et al. Diagnosis, treatment, and long-term management of Kawasaki disease: a scientific statement for health professionals from the American Heart Association. Circulation 135, e927–e999 (2017). 
+
+232. 
+Di Giambenedetto, S. et al. Off-label use of tocilizumab in patients with SARS-CoV-2 infection. J. Med. Virol. https://doi.org/10.1002/jmv.25897 (2020). 
+
+233. 
+Bhimraj, A. et al. Infectious Diseases Society of America guidelines on the treatment and management of patients with COVID-19. Clin. Infect. Dis. https://doi.org/10.1093/cid/ciaa478 (2020). 
+
+234. 
+Campbell, K.H. et al. Prevalence of SARS-CoV-2 among patients admitted for childbirth in southern Connecticut. J. Am. Med. Assoc. https://doi.org/ 10.1001/jama.2020.8904 (2020). 
+
+235. 
+Elshafeey, F. et al. A systematic scoping review of COVID-19 during pregnancy and childbirth. Int. J. Gynaecol. Obstet. https://doi.org/10.1002/ ijgo.13182 (2020). 
+
+236. 
+Sutton, D., Fuchs, K., D’Alton, M. & Goffman, D. Universal screening for SARS-CoV-2 in women admitted for delivery. N. Engl. J. Med. 382, 2163–2164 (2020). 
+
+237. 
+Breslin, N. et al. COVID-19 infection among asymptomatic and symptomatic pregnant women: Two weeks of confirmed presentations to an affiliated pair of New York City hospitals. Am. J. Obstet. Gynecol. https://doi. org/10.1016/j.ajogmf.2020.100118 (2020). 
+
+238. 
+Yan, J. et al. Coronavirus disease 2019 in pregnant women: a report based on 116 cases. Am. J. Obstet. Gynecol. https://doi.org/10.1016/j.ajog. 2020.04.014 (2020). 
+
+239. 
+Li, N. et al. Maternal and neonatal outcomes of pregnant women with COVID-19 pneumonia: a case-control study. Clin. Infect. Dis. https://doi. org/10.1093/cid/ciaa352 (2020). 
+
+240. 
+Ahmed, I., Azhar, A., Eltaweel, N. & Tan, B.K. First COVID-19 maternal mortality in the UK associated with thrombotic complications. Br. J. Haematol. https://doi.org/10.1111/bjh.16849 (2020). 
+
+241. 
+Hantoushzadeh, S. et al. Maternal death due to COVID-19 disease. Am. J. Obstet. Gynecol. https://doi.org/10.1016/j.ajog.2020.04.030 (2020). 
+
+242. 
+Dong, L. et al. Possible vertical transmission of SARS-CoV-2 from an infected mother to her newborn. J. Am. Med. Assoc. 323, 1846–1848 (2020). 
+
+
+1032 
+243. 
+Schwartz, D.A. An analysis of 38 pregnant women with COVID-19, their newborn infants, and maternal-fetal transmission of SARS-CoV-2: maternal coronavirus infections and pregnancy outcomes. Arch. Pathol. Lab. Med. https://doi.org/10.5858/arpa.2020-0901-SA (2020). 
+
+244. 
+Zeng, H. et al. Antibodies in infants born to mothers with COVID-19 pneumonia. J. Am. Med. Assoc. 323, 1848–1849 (2020). 
+
+245. 
+Baud, D. et al. Second-trimester miscarriage in a pregnant woman with SARS-CoV-2 infection. J. Am. Med. Assoc. 323, 2198–2200 (2020). 
+
+246. 
+Patanè, L. et al. Vertical transmission of COVID-19: SARS-CoV-2 RNA on the fetal side of the placenta in pregnancies with COVID-19 positive mothers and neonates at birth. Am. J. Obstet. Gynecol. https://doi.org/ 10.1016/j.ajogmf.2020.100145 (2020). 
+
+247. 
+Chen, H. et al. Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records. Lancet 395, 809–815 (2020). 
+
+248. 
+World Health Organization. Clinical management of severe acute respiratory infection (SARI) when COVID-19 disease is suspected. Interim guidance May 27, 2020. https://www.who.int/publications-detail/clinical­
+management-of-covid-19 (2020). 
+
+
+
+Acknowledgements 
+We acknowledge BioRender for design support for Fig. 1 and Julie Der-Nigoghossian for design support for Fig. 2. M. V. M. is supported by an institutional grant by the National Heart, Lung, and Blood Institute of the US National Institutes of Health to Columbia University Irving Medical Center (T32 HL007854). E. Y. W. is supported by the US National Institutes of Health (K08HL122526, R01HL152236, and R03HL146881). 
+D. E. F. is funded in part by US National Institutes of Health grant K23 DK111847 and by Department of Defense funding PR181960. A. S. N. is supported by National Institutes of Neurological Disorders and Stroke grant 5T32 NS007153. J. M. B. is supported by the National Institutes of Arthritis, Musculoskeletal and Skin Diseases (R01 AR050026 and U01AR068043). S. M. is supported by National Institute of Diabetes and Digestive and Kidney grants R01-DK114893, R01-MD014161, and U01-DK116066. 
+
+Competing interests 
+A. G. received payment from the Arnold & Porter Law Firm for work related to the Sanofi clopidogrel litigation and from the Ben C. Martin Law Firm for work related to the Cook inferior vena cava filter litigation; received consulting fees from Edward Lifesciences; and holds equity in the healthcare telecardiology startup Heartbeat Health. 
+B. B. reports being a consulting expert, on behalf of the plaintiff, for litigation related to a specific type of inferior vena cava filter. A. J. K. reports institutional funding to Columbia University and/or the Cardiovascular Research Foundation from Medtronic, Boston Scientific, Abbott Vascular, Abiomed, CSI, Philips, and ReCor Medical. J. M. B. reports an honorarium for participation on a grants review panel for Gilead Biosciences. 
+D. A. is founder, director, and chair of the advisory board of Forkhead Therapeutics. 
+H. M. K. works under contract with the Centers for Medicare & Medicaid Services to support quality measurement programs; was a recipient of a research grant, through Yale University, from Medtronic and the US Food and Drug Administration to develop methods for post-market surveillance of medical devices; was a recipient of a research grant with Medtronic and is the recipient of a research grant from Johnson & Johnson, through Yale University, to support clinical trial data sharing; was a recipient of a research agreement, through Yale University, from the Shenzhen Center for Health Information for work to advance intelligent disease prevention and health promotion; collaborates with the National Center for Cardiovascular Diseases in Beijing; receives payment from the Arnold & Porter Law Firm for work related to the Sanofi clopidogrel litigation, from the Ben C. Martin Law Firm for work related to the Cook Celect IVC filter litigation, and from the Siegfried and Jensen Law Firm for work related to Vioxx litigation; chairs a Cardiac Scientific Advisory Board for UnitedHealth; was a participant or participant representative of the IBM Watson Health Life Sciences Board; is a member of the advisory board for Element Science, the advisory board for Facebook, and the physician advisory board for Aetna; and is the co-founder of HugoHealth (a personal health information platform) and co-founder of Refactor Health (an enterprise healthcare AI-augmented data enterprise). M. R. M. reports consulting relationships with Abbott, Medtronic, Janssen, Mesoblast, Portola, Bayer, NupulseCV, FineHeart, Leviticus, Roivant, and Triple Gene. 
+D. W. L. is the chair of the scientific advisory board for Applied Therapeutics, licensor of Columbia University technology unrelated to COVID-19 or COVID-19-related therapies. 
+
+
+Additional information 
+Supplementary information is available for this paper at https://doi.org/10.1038/ s41591-020-0968-3. 
+Correspondence should be addressed to D.W.L. 
+Reprints and permissions information is available at www.nature.com/reprints. 
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
+© Springer Nature America, Inc. 2020 
+
+NATURE MEDICINE | VOL 26 | JULY 2020 | 1017–1032 | www.nature.com/naturemedicine 
+
+
+
