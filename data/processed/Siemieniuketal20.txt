@@ -1,0 +1,1852 @@
+
+
+OPEN ACCESS 
+For numbered affiliations see end of 
+article. Correspondence to: R Siemieniuk reed.siemieniuk@medportal.ca https://orcid.org/0000-0002-3725-3031 
+Cite this as: BMJ 2020;370:m2980 
+http://dx.doi.org/10.1136/bmj.m2980 
+Accepted: 2311 July December 2020 2020 Published: 30 July 2020 
+Drug treatments for covid-19: living systematic review and network meta-analysis 
+Reed AC Siemieniuk, 1 , * Jessica J Bartoszko, 1 , * Long Ge, 2 , * Dena Zeraatkar, 1 , * Ariel Izcovich, 3 Elena Kum, 1 Hector Pardo-Hernandez, 4, 5 Bram Rochwerg, 1, 6 Francois Lamontagne, 7 Mi Ah Han, 8 Qin Liu, 9, 10 Arnav Agarwal, 1, 11 Thomas Agoritsas, 1, 12 Derek K Chu, 1, 6 Rachel Couban, 13 Andrea Darzi, 1 Tahira Devji, 1 Bo Fang, 9, 10 Carmen Fang, 14 Signe Agnes Flottorp, 15, 16 Farid Foroutan, 1, 17 Maryam Ghadimi, 1 Diane Heels-Ansdell, 1 Kimia Honarmand, 18 Liangying Hou, 2 Xiaorong Hou, 19 Quazi Ibrahim, 1 Assem Khamis, 32 Bonnie Lam, 1 Mark Loeb, 1, 6 Maura Marcucci, 1, 6 Shelley L McLeod, 20, 21 Sharhzad Motaghi, 1 Srinivas Murthy, 22 Reem A Mustafa, 1, 23 John D Neary, 6 Anila Qasim, 1 Gabriel Rada, 24, 25 Irbaz Bin Riaz, 26 Behnam Sadeghirad, 1, 13 Nigar Sekercioglu, 1 Lulu Sheng, 9, 10 Ashwini Sreekanta, 1 Charlotte Switzer, 1 Britta Tendal, 27 Lehana Thabane, 1 George Tomlinson, 28 Tari Turner, 27 Per O Vandvik, 14 Robin WM Vernooij, 29, 30 Andrés Viteri-García, 24, 31 Ying Wang, 1 Liang Yao, 1 Zhikang Ye, 1 Gordon H Guyatt, 1, 
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+6 Romina Brignardello-Petersen1 
+ABSTRACT 
+OBJECTIVE 
+
+To compare the effects of treatments for coronavirus disease 2019 (covid-19). 
+DESIGN 
+
+Livingsystematicreviewand networkmeta-analysis. 
+DATA SOURCES 
+
+WHO covid-19 database, a comprehensive multilingual source of global covid-19 literature, up to 3 December 2020 and six additional Chinese databases up to 12 November 2020. 
+STUDY SELECTION 
+
+Randomised clinical trials in which people with suspected, probable, or confirmed covid-19 were randomised to drug treatment or to standard care or placebo. Pairs of reviewers independently screened potentially eligible articles. 
+METHODS 
+
+After duplicate data abstraction, a bayesian network meta-analysis was conducted. Risk of bias of the included studies was assessed using a modification of the Cochrane risk of bias 2.0 tool, and the certainty of the evidence using the grading of recommendations assessment, development and evaluation (GRADE) approach. For each outcome, interventions were classified in groups from the most to the least beneficial or harmful following GRADE guidance. 
+RESULTS 
+
+85 trials enrolling 41 669 patients met inclusion criteria as of 21 October 2020; 50 (58.8%) trials and 25 081 (60.2%) patients are new from the previous iteration;43 (50.6%) trialsevaluating treatmentswith at least 100 patients or 20 events met the threshold for inclusion inthe analyses. Compared withstandard care, corticosteroids probably reduce death (risk difference 17 fewer per 1000 patients, 95% credible interval 34 fewer to 1 more, moderate certainty), mechanical ventilation (29 fewer per 1000 patients, 54 fewer to 1 more, moderate certainty), and days freefrom mechanical ventilation(2.6 fewer, 0.2 fewer to 5.0 fewer, moderate certainty). The impact of remdesivir on mortality, mechanical ventilation, length of hospital stay, and duration of symptoms is uncertain, but it probably does not substantially increase adverse effects leading to drug discontinuation (0 more per 1000,9 fewerto40 more, moderate certainty). Azithromycin, hydroxychloroquine, lopinavir/ritonavir, interferon-beta,andtocilizumab maynot reduce risk of death or have an effect on any other patient-important outcome. The certainty in effects for all other interventions was low or very low. 
+CONCLUSION 
+Corticosteroids probably reduce mortality and mechanical ventilation in patients with covid-19 comparedwith standardcare, whereas azithromycin, hydroxychloroquine,interferon-beta,andtocilizumab may not reduce either. Whether or not remdesivir confers any patient-important benefit remains uncertain. 
+SYSTEMATIC REVIEW REGISTRATION 
+This review was not registered. The protocol is included as a supplement. 
+READERS’ NOTE 
+This article is a living systematic review that will be updated to reflect emerging evidence. Updates may occur for up to two years from the date of original publication. This version is the second update of the original article published on 30 July 2020 (BMJ 2020;370:m2980), and previous versions can be found as data supplements. When citing this paper pleaseconsideraddingtheversionnumberanddate of access for clarity. 
+
+Introduction 
+As of 8 December 2020, more than 67 million people have been infected with severe acute respiratory syndrome coronavirus virus 2 (SARS-CoV-2), the virus responsible for coronavirus disease 2019 (covid-19); of these, 1.5 million have died.1 
+Despite global efforts to identify effective interventions for the prevention and treatment of covid-19, which have resulted in 2400 trials completed or underway,2 
+evidence for effective treatment remains limited. 
+Faced with the pressures of a global pandemic, healthcare workers around the world are prescribing drugs off-label for which there is only very low quality evidence. Timely evidence summaries and associated guidelines could ameliorate the problem.3 
+Clinicians, patients, guideline bodies, and government agencies are also facing the challenges of interpreting the results from trials that are being published at a rate never encountered previously. This environment makes it necessary to produce well developed summaries that distinguish more trustworthy evidence from less trustworthy evidence. 
+
+
+Living systematic reviews deal with the main limitation of traditional reviews—that of providing an overview of the relevant evidence only at a specific time.4 
+This is crucial in the context of covid-19, in which the best evidence is constantly changing. The ability of a living network meta-analysis to present a complete, broad, and updated view of the evidence makes it the best type of evidence synthesis to inform the development of practice recommendations. Network meta-analysis, rather than pairwise meta-analysis, provides useful information about the comparative effectiveness of treatments that have not been tested head to head. The lack of such direct comparisons is certain to limit inferences in the covid-19 setting. Moreover, the incorporation of indirect evidence can strengthen evidence in comparisons that were tested head to head.5 
+
+In this living systematic review and network meta-analysis we compare the effects of drug treatments for covid-19. This review is part of the BMJ Rapid Recommendations project, a collaborative effort from the MAGIC Evidence Ecosystem Foundation (www.magicproject.org) and TheBMJ.6 
+This living systematic review and network meta-analysis will directly inform BMJ Rapid Recommendations6 
+on covid-19 treatments, initiated to provide trustworthy, actionable, and living guidance to clinicians and patients soon after new and potentially practice-changing evidence becomes available. The first covid-19 BMJ Rapid Recommendation considered the role of remdesivir7 
+(box 
+1). This living network meta-analysis is the third version. The previous versions are available in the supplementary material. 
+Box 1: Linked resources in this BMJ Rapid Recommendations cluster 
+• Siemieniuk R, Rochwerg B, Agoritsas T, et al. A living WHO guideline on drugs for covid-19 [Update 2]. BMJ 2020;370:m3379, doi:10.1136/bmj.m3379 
+
+-
+Living WHO BMJ Rapid Recommendations guidance on drugs for covid-19 
+• 
+World Health Organization. Therapeutics and COVID-19. Living guideline. 17 Dec 2020. https://apps.who.int/iris/bitstream/han­
+dle/10665/337876/WHO-2019-nCoV-therapeutics-2020.1-eng.pdf. 
+
+• 
+Siemieniuk RAC,BartoszkoJJ,GeL,etal. Drugtreatmentsforcovid-19: living systematic review and network meta-analysis [Update 2]. BMJ 2020;370:m2980, 
+doi:10.1136/bmj.m2980 
+
+
+
+-
+Review and network meta-analysis of all available randomised trials that assessed drug treatments for covid-19 
+• MAGICapp (https://app.magicapp.org/#/guideline/nBkO1E) 
+-
+Expanded version of the methods, processes, and results with multilayeredrecommendations,evidencesummaries,anddecision aids for use on all devices 
+• Author website (https://www.covid19lnma.com) 
+-
+Interim updates will be available here 
+
+
+Methods 
+A protocol provides the detailed methods of this systematic review, including all updates (see supplementary file). We report this living systematic review following the guidelines of the preferred reporting items for systematic reviews and meta-analyses (PRISMA) checklist for network meta-analyses.8 
+A living systematic review is a cumulative synthesis that is updated regularly as new evidence becomes available.9 
+The linked BMJ Rapid Recommendations guideline panels approved all decisions relevant to data synthesis. 
+Eligibility criteria 
+We included randomised clinical trials in people with suspected, probable, or confirmed covid-19 that compared drugs for treatment against one another or against no intervention, placebo, or standard care. We included trials regardless of publication status (peer reviewed, in press, or preprint) or language. No restrictions were applied based on severity of illness or setting and we included trials of Chinese medicines if the drug comprised one or more specific molecules with a defined molecular weight dosing. 
+We excluded randomised controlled trials evaluating vaccination, blood products, nutrition, traditional Chinese herbal medicines that include more than one molecule or a molecule without specific molecular weighted dosing, and non-drug supportive care interventions. Trials that evaluated these interventions were identified and categorised separately. 
+Information sources 
+We perform daily searches from Monday to Friday in the World Health Organization (WHO) covid-19 database for eligible studies 
+– a comprehensive multilingual source of global literature on covid-19. Prior to its merge with the WHO covid-19 database on 9 October 2020, we performed daily searches from Monday to Friday in the US Centers for Disease Control and Prevention (CDC) COVID-19 Research Articles Downloadable Database for eligible studies.10 
+The database includes, but is not limited to the following 25 bibliographic and grey literature sources: Medline (Ovid and PubMed), PubMed Central, Embase, CAB Abstracts, Global Health, PsycInfo, Cochrane Library, Scopus, Academic Search Complete, Africa Wide Information, CINAHL, ProQuest Central, SciFinder, the Virtual Health Library, LitCovid, WHO covid-19 website, CDC covid-19 website, Eurosurveillance, China CDC Weekly, Homeland Security Digital Library, ClinicalTrials.gov, bioRxiv (preprints), medRxiv (preprints), chemRxiv (preprints), and SSRN (preprints). 
+The daily searches are designed to match the update schedule of the database and to capture eligible studies the day of or the day after publication. To identify randomised controlled trials, we filtered the results from the CDC’s database through a validated and highly sensitive machine learning model.11 
+We tracked preprints of randomised controlled trials until publication and updated data to match that in the peer reviewed publication when discrepant and reconciled corrections and retractions existed. 
+In addition, we search six Chinese databases monthly: Wanfang, Chinese Biomedical Literature, China National Knowledge Infrastructure, VIP, Chinese Medical Journal Net (preprints), and ChinaXiv (preprints). We adapted the search terms for covid-19 developed by the CDC to the Chinese language. For the Chinese literature search, we also included search terms for randomised trials. The supplementary file includes the Chinese literature search strategy. 
+We monitor living evidence retrieval services on an ongoing basis. These included the Living Overview of the Evidence (L-OVE) COVID-19 Repository by the Epistemonikos Foundation12 
+and the Systematic and Living Map on COVID-19 Evidence by the Norwegian Institute of Public Health, in collaboration with the Cochrane Canada Centre at McMaster University.13 
+
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+We searched all English information sources from 1 December 2019 to 3 December 2020, and the Chinese literature from conception of the databases to 12 November 2020. 
+Study selection 
+Using a systematic review software, Covidence,14 
+pairs of reviewers, following training and calibration exercises, independentlyscreened all titles and abstracts, followed by full texts of trials that were identified as potentially eligible. A third reviewer adjudicated conflicts. 
+Data collection 
+For each eligible trial, pairs of reviewers, following training and calibration exercises, extracted data independently using a standardised, pilot tested data extraction form. Reviewers collected information on trial characteristics (trial registration, publication status, study status, design), patient characteristics (country, age, sex, smoking habits, comorbidities, setting and type of care, and severity of covid-19 symptoms for studies of treatment), and outcomes of interest (means or medians and measures of variability for continuous outcomes and the number of participants analysed and the number of participants who experienced an event for dichotomous outcomes). Reviewers resolved discrepancies by discussion and, when necessary, with adjudication by a third party. We updated the data collected from included preprints as soon as the peer review publication became available. 
+Outcomesof interest wereselected based on importanceto patients and were informed by clinical expertise in the systematic review team and in the linked guideline panel responsible for the WHO-BMJ Rapid Recommendations.7 
+The panel includes unconflicted clinical and methodology experts, recruited to ensure global representation, and patient-partners. All panel members rated outcomes from 1 to 9 based on importance to individual patients (9 being most important), and we included any outcome rated 7 or higher by any panel member. Selected outcomes included mortality (closest to 90 days), mechanical ventilation (total number of patients, over 90 days), adverse events leading to discontinuation (within 28 days), viral clearance (closest to 7 days, 3 days either way), admission to hospital, duration of hospital stay, intensive care unit (ICU) length of stay, duration of mechanical ventilation, time to symptom resolution or clinical improvement, time to viral clearance, and days free from mechanical ventilation (within 28 days). Viral clearance at seven days and time to viral clearance were included because both may be surrogates for transmissibility, although this is uncertain.15 
+
+Because of the inconsistent reporting observed across trials, we used a hierarchy for the outcome mechanical ventilation in which we considered the total number of patients who received ventilation over the study, if available, and the number of patients ventilated at the time point at which most of the patients were mechanically ventilated, if that is the only way in which this outcome was reported. 
+Risk of bias within individual studies 
+Foreacheligible trial, reviewers, following training and calibration exercises, used a revision of the Cochrane tool for assessing risk of bias in randomised trials (RoB 2.0)16 
+to rate trials as either at i) low risk of bias, ii) some concerns—probably low risk of bias, iii) some concerns—probably high risk of bias, or iv) high risk of bias, across the following domains: bias arising from the randomisation process; bias owing to departures from the intended intervention; bias from missing outcome data; bias in measurement of the outcome; bias in selection of the reported results, including deviations from the registered protocol; bias due to competing risks; and bias arising from early termination for benefit. We rated trials at high risk of bias overall if one or more domains were rated as some concerns—probably high risk of bias or as high risk of bias and as low risk of bias if all domains were rated as some concerns—probably low risk of bias or low risk of bias. Reviewers resolved discrepancies by discussion and, when not possible, with adjudication by a third party. 
+Data synthesis 
+We conducted the network meta-analysis using a bayesian framework.17 
+In this report, we conducted a network meta-analysis of drug treatments for covid-19 that included all patients, regardless of severity of disease. 
+Summary measures 
+We summarised theeffect of interventionsondichotomous outcomes using the odds ratio and corresponding 95% credible interval. For continuous outcomes, we used the mean difference and corresponding 95% credible interval in days for ICU length of stay, length of hospital stay, and duration of mechanical ventilation because we expected similar durationsacross randomised controlled trials. For time to symptom resolution and time to viral clearance, we first performed the analyses using the relative effect measure ratio of means and corresponding 95% credible interval before calculating the mean difference in days because we expected substantial variation between studies.18 
+
+Treatment nodes 
+Treatments were grouped into common nodes based on molecule and not on dose or duration. For intervention arms with more than one drug, we created a separate node. Chloroquine and hydroxychloroquine were included in the same node for covid-19 specific effects and separated for disease independent adverse effects. We drew network plots using the networkplot command of Stata version 15.1 (StataCorp, College Station, TX), with thickness of lines between nodes and size of the nodes based on the inverse of the variance of the direct comparison.19 
+
+Statistical analysis 
+For most outcomes, we conducted network meta-analyses and pairwise meta-analyses using a bayesian framework with the same priors for the variance and effect parameters.17 
+In previous versions, we used fixed effects for some outcomes because data was sparse or dominated by a single trial. In this update, we used random effects for all outcomes. We used a plausible prior for variance parameter and a uniform prior for the effect parameter suggested in a previous study based on empirical data.20 
+For all analyses, we used three Markov chains with 100 000 iterations after an initial burn-in of 10 000 and a thinning of 10. We used node splitting models to assess local incoherence and to obtain indirect estimates.21 
+All network meta-analyses were performed using the gemtc package of R version 3.6.3 (RStudio, Boston, MA)22 
+and all pairwise meta-analyses using the bayesmeta package.17 
+
+In the first iteration of this living network meta-analysis, some treatment nodes with few total participants and few total events resulted in highly implausible and extremely imprecise effect estimates. We therefore decided to include only treatments that included at least 100 patients or had at least 20 events, based on our impression of the minimum number of patients/events to possibly provide meaningful results. 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+We assessed the certainty of evidence using the grading of recommendations assessment, development and evaluation (GRADE) approach for network meta-analysis.5 
+23 
+24 
+Two people with experience in using GRADE rated each domain for each comparison separately and resolved discrepancies by consensus. We rated the certainty for each comparison and outcome as high, moderate, low, or very low, based on considerations of risk of bias, inconsistency, indirectness, publication bias, intransitivity, incoherence (difference between direct and indirect effects), and imprecision.24 
+Judgments of imprecision for this systematic review were made using a minimally contextualised approach, with a null effect as the threshold of importance.25 
+The minimally contextualised approach considers only whether credible intervals include the null effect and thus does not consider whether plausible effects, captured by credible intervals, include both important and trivial effects.25 
+To evaluate certainty of no benefit (or no effect), we used a 2% risk difference threshold of the 95% credible interval for mortality and mechanical ventilation. In other words, if the entire 95% credible interval was within 2% of the null effect, we would not rate down for imprecision. We decided on this preliminary threshold based on a survey of the authors. In future updates, it will be guided by a survey of patients and guideline panellists. Interim updates and additional study data will be posted on our website (www.covid19lnma.com). 
+Interpretation of results 
+To facilitate interpretation of the results, we calculated absolute effects for outcomes in which the summary measure was an odds ratio or ratio of means. When available, we inferred baseline risk in the usual care group for each outcome from representative observational data (supplementary material). For mortality, we used data from the CDC on patients who were hospitalised with covid-19.26 
+27 
+For mechanical ventilation, duration of invasive mechanical ventilation, duration of hospitalisation, and ICU length of stay we used baseline risks from the International Severe Acute Respiratory and Emerging Infection COVID-19 database.28 
+For all other outcomes, we used the median from all studies in which participants received standard of care to calculate the baseline risk for each outcome, with each study weighed equally. We calculated absolute effects using the transitive risks model29 
+using R2jags package in R.30 
+
+For each outcome, we classified treatments in groups from the most to the least effective using the minimally contextualised framework, which focuses on the treatment effect estimates and the certainty of the evidence.31 
+
+Subgroup and sensitivity analysis 
+Subgroup analyses were performed for specific interventions of interest at the direction of the linked WHO living guideline panel. In this iteration, we performed subgroup analyses for remdesivir, hydroxychloroquine, and lopinavir/ritonavir. The panel requested subgroup analyses by age (children vs. non-elderly adults vs. elderly) and severity (non-severe vs. severe vs. critical). We performed bayesian hierarchical meta-regression with study as a random effect. 
+Patient and public involvement 
+Patients were involved in outcome selection, interpretation of results, and the generation of parallel recommendations, as part of the BMJ Rapid Recommendations initiative. 
+
+
+Results 
+After screening 20 228 titles and abstracts and 370 full texts, 130 unique randomised controlled trials from 118 publications were identified that evaluated drug treatments as of 3 December 2020 (fig 
+1).32 
+-77 
+A table of excluded full texts is provided in the supplementary file. Searches of living evidence retrieval services identified 27 additional eligible randomised controlled trials.65-7278 
+-88 
+Seventy-three randomised trials have been published in peer reviewed journals, 43 only as preprints, and 17 within two meta-analyses. Most of the trials were registered (117/130; 90%), published in English (113/118; 96%), and evaluated treatment in patients admitted to hospital with covid-19 (112/130; 86%). One quarter of the trials were conducted in China (33/130; 25%), with the remainder distributed globally. Of the 130 included drug trials, the three most commonly studied drugs were (hydroxy)chloroquine (33/130; 25%), followed by corticosteroids (11/130; 8%) and lopinavir/ritonavir (8/130; 6%). 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+
+Fig 1 | Study selection 
+
+Eighty five randomised controlled trials that evaluated drug drug, because both arms would have been classified within the treatmentswereidentifiedupuntilthedateofanalysis(21October sametreatmentnode35438990;twotrialswithinsufficientdata869192; 2020). Several of these trials could not be included in the analysis: and four trials that reported no outcomes of interest.93 
+-96 
+Of the four trials that evaluated different durations or doses of the same remaining 75 trials, we analysed 43 (57.3%) reporting on treatments 
+the bmj | BMJ 2020;370:m2980 | doi: 10.1136/bmj.m2980 
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+extremely imprecise characteristics, outcome data, and risk of bias assessments for each estimates.32 
+33 
+37 
+39 
+41 
+47 
+51 
+52 
+76 
+78 
+81 
+83 
+85 
+97 
+-124Table 
+1 
+presents the 
+study are available in the supplementary file. 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication status, registration No  No of participants  Country  Mean age (years)  Men (%)  
+Abbaspour Kasgari 2020125‡ 
+ Published, IRCT20200328046886N1  48  Iran  52.5  37.5  
+
+Type of care,  Severity  Mechanical  Treatments (dose  Outcomes  
+comorbidities  ventilation at  and duration)  
+baseline (%)  
+Inpatient;  Mild/moderate  NR  Sofosbuvir-daclatasvir  Mortality;  
+ischemic heart  (100%)  (400 mg and  mechanical  
+disease (22.9%);  60 mg once  ventilation;  
+diabetes  daily for 14 days,  adverse events  
+(37.5%); chronic  ribavirin (600  leading to  
+obstructive  mg twice daily  discontinuation;  
+pulmonary  for 14 days);  duration of  
+disease (2.1%)  standard care  hospital stay;  
+intensive care  
+unit length of  
+stay; duration of  
+ventilation  
+
+
+Abd-Elsalam 2020106  Published, NCT04353336  194  Egypt  40.7  58.8  Inpatient  NR  NR  Hydroxychloroquine (200 mg twice  Mortality; mechanical  
+daily for 15  ventilation;  
+days); standard  duration of  
+care  hospital stay;  
+time to  
+symptom or  
+clinical  
+improvement;  
+time to viral  
+clearance  
+
+Altay 2020126‡ 
+ Preprint,  100  Turkey  35.6  60.0  Outpatient;  Mild/moderate  
+NCT04573153  diabetes (5.0%);  (100%)  
+hypertension  
+(2.0%)  
+
+0 Serine (24 g/day total, given twice daily, for 14 days), N-acetylcysteine 
+(5.1 g/day total, 
+given twice daily, for 14 days), nicotinamide riboside (2 g/day total, given twice daily, for 14 days), L-carnitine tartrate (7.46 g/day total, given twice daily, 
+for 14 days); placebo 
+Mortality; time to symptom or clinical improvement 
+
+Angus 2020; REMAP-CAP107  Published, NCT02735707  403  Australia, Canada, Ireland,  59.9  71.1  Inpatient; intensive care  Severe (100%)  100  Hydrocortisone (50 mg four  Mortality; mechanical  
+France,  (100%);  times daily for 7  ventilation;  
+Netherlands,  cardiovascular  days);  duration of  
+New Zealand,  disease (7.3%);  hydrocortisone  hospital stay;  
+UK, USA  diabetes  (50 mg four  ICU length of  
+(32.1%); asthma  times daily while  stay  
+or chronic  in shock for up  
+obstructive  to 28 days);  
+pulmonary  standard care  
+disease (16.2%);  
+respiratory  
+disease (19.5%)  
+
+Ansarin 2020127‡ 
+ Published, IRCT202003117046797N4  78  Iran  59.8  55.1  Inpatient; diabetes  NR  NR  Bromhexine hydrochloride (8  Mortality; mechanical  
+(33.3%);  mg three times  ventilation;  
+hypertension  daily for 14  duration of  
+(50.0%)  days); standard  hospital stay  
+care  
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication status, registration No  No of participants  Country  Mean age (years)  Men (%)  
+Beigel 2020; ACTT-132  Published, NCT04280705  1062  USA, Denmark, UK, Greece, Germany, Korea, Mexico, Spain, Japan, Singapore  58.9  64.4  
+
+Type of care, comorbidities  Severity  Mechanical ventilation at baseline (%)  Treatments (dose and duration)  Outcomes  
+Inpatient; coronary artery disease (11.9%); congestive heart failure (5.6%); diabetes (30.6%); hypertension (50.7%); asthma (11.4%); chronic oxygen requirement (2.2%); chronic respiratory disease (7.6%)  Severe (90.1%)  45.0  Remdesivir (100 mg/day for 10 days); placebo  Mortality; mechanical ventilation; adverse effects leading to discontinuation; duration of hospital stay; duration of ventilation; time to symptom or clinical improvement  
+
+
+Cao 2020; LOTUS China37  Published, ChiCTR2000029308  199  China  58.0  60.3  Inpatient; cerebrovascular  Severe (100%)  16.1  Lopinavir-ritonavir (400 mg and  Mortality; mechanical  
+disease (6.5%);  100 mg twice  ventilation; viral  
+diabetes (11.6%)  daily for 14  clearance;  
+days); standard  duration of  
+care  hospital stay;  
+intensive care  
+unit length of  
+stay; duration of  
+ventilation; time  
+to symptom or  
+clinical  
+improvement  
+Cao 2020‡38  Published,  43  China  63.0  58.5  Inpatient;  Severe (100%)  12.2  Ruxolitinib (5 mg  Mortality;  
+ChiCTR-OPN-2000029580  coronary artery  twice daily);  mechanical  
+disease (7.3%);  placebo  ventilation;  
+diabetes  duration of  
+(19.5%);  hospital stay;  
+hypertension  duration of  
+(39.0%)  ventilation; time  
+to symptom or  
+clinical  
+improvement;  
+time to viral  
+clearance  
+
+Castillo 2020‡; Pilot Covidiol128  Published, NCT04366908  76  Spain  53.0  59.2  Inpatient; cardiovascular  NR  NR  Calcifediol (0.532 mg on  Mortality; adverse events  
+disease (4.0%);  day 1, then  leading to  
+diabetes  0.266 mg on  discontinuation  
+(10.5%);  day 3 and 7, and  
+hypertension  then weekly  
+(34.2%);  until discharge or  
+previous lung  ICU admission);  
+disease (7.9%)  standard care  
+
+Cavalcanti, Published, 667 Brazil 50.3 58.4 202097 NCT04322123 
+Inpatient;  Mild/Moderate  0  Hydroxychloroquine  Mortality;  
+intensive care  (100%)  (400 mg twice  mechanical  
+(13.8%); heart  daily for 7 days);  ventilation;  
+failure (1.5%);  duration of  
+diabetes (19.1%);  hydroxychloroquine  hospital stay  
+hypertension  (400 mg twice  
+(38.3%); asthma  daily for 7 days),  
+(6.0%); chronic  azithromycin  
+obstructive  (500 mg/day for  
+pulmonary  7 days);  
+disease (1.8%)  standard care  
+
+
+Chen 202041  Preprint,  62  China  44.7  46.8  Inpatient; NR  Mild/moderate  NR  Hydroxychloroquine  Time to  
+ChiCTR2000029559  (100%)  (200 mg twice  symptom or  
+daily for 5 days);  clinical  
+standard care  improvement  
+Chen 202039  Preprint,  240  China  NR  46.6  NR; diabetes  Mild/moderate  NR  Favipiravir (600  Mortality; time to  
+ChiCTR2000030254  (11.4%);  (88.6%); severe  mg twice daily  symptom or  
+hypertension  (10.2%); critical  for 7 days);  clinical  
+(28.0%)  (1.3%)  umifenovir (200  improvement  
+mg three times  
+daily for 7 days)  
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication  No of participants  Country  Mean age (years)  Men (%)  Type of care,  Severity  Mechanical  Treatments (dose  Outcomes  
+status,  comorbidities  ventilation at  and duration)  
+registration No  baseline (%)  
+Chen 202098  Published,  30  China  48.6  70.0  Inpatient;  Mild/moderate  NR  Hydroxychloroquine  Mortality;  
+NCT04261517  diabetes (6.7%);  (100%)  (400 mg/day  adverse events  
+hypertension  for 5 days);  leading to  
+(26.7%); chronic  standard care  discontinuation;  
+obstructive  viral clearance;  
+pulmonary  time to  
+disease (3.3%)  symptom or  
+clinical  
+improvement;  
+time to viral  
+clearance  
+
+Chen 202052  Preprint,  48  China  46.9  45.8  Inpatient;  Mild/moderate  NR  Chloroquine  Mortality;  
+ChiCTR2000030054  diabetes  (100%)  (500 mg/day for  adverse events  
+(18.8%);  10 days);  leading to  
+hypertension  hydroxychloroquine  discontinuation;  
+(16.7%)  (200 mg twice  viral clearance;  
+daily for 10  duration of  
+days); standard  hospital stay;  
+care  time to  
+symptom or  
+clinical  
+improvement;  
+time to viral  
+clearance  
+Chen 202099  Preprint,  33  Taiwan  32.9  57.6  Inpatient  Mild/Moderate  0  Hydroxychloroquine  Mortality; time to  
+NCT04384380  (100%)  (200 mg twice  viral clearance  
+daily for 7 days);  
+standard care  
+Cheng 2020108  Published,  200  China  45.0  56.0  Inpatient  Critical (0%)  27.0  Granulocyte  Mortality;  
+ChiCTR2000030007  colony-stimulating  mechanical  
+factor (5  ventilation; viral  
+µg/kg/day for 3  clearance;  
+days); standard  duration of  
+care  hospital stay;  
+time to  
+symptom or  
+clinical  
+improvement  
+
+Corral-Gudino  Preprint,  63  Spain  69.8  61.9  Inpatient; heart  Critical (0%)  0  Methylprednisolone  Mortality;  
+2020; GLUCOCOVID51  2020-001934-37  disease (12.7%); diabetes  (40 mg twice daily for 3 days,  mechanical ventilation  
+(17.5%);  then 20 mg  
+hypertension  twice daily for 3  
+(47.6%);  days); standard  
+respiratory  care  
+condition (7.9%)  
+
+Cruz 2020‡; ATENEA-Co-300129  Preprint, IG/CIGB300I/CV/2001  20  Cuba  45.4  70.0  Inpatient; hypertension  Mild/moderate (90%); severe  NR  Anti-CK2 synthetic  Time to viral clearance  
+(25.0%)  (10%)  peptide (2.5  
+mg/kg/day for 5  
+days); standard  
+care  
+
+Dabbous 202085  Preprint, NCT04349241  100  Egypt  36.4  50.0  Inpatient  Mild/moderate (100%)  NR  Favipiravir (600 mg twice daily  Mortality; viral clearance;  
+for 10 days);  duration of  
+standard care  hospital stay;  
+time to viral  
+clearance  
+
+Davoodi 2020‡130  Published, IRCT2019072704434N1  60  Iran  57.7  59.3  Outpatient; diabetes  Mild/Moderate (100%)  0  Febuxostat (80 mg/day for 5  Mortality; admission to  
+(27.8%); lung  days);  hospital  
+disease (1.9%)  hydroxychloroquine  
+(200 mg twice  
+daily for 5 days)  
+
+
+Study Publication No of participants Country Mean age (years) Men (%) Type of care, Severity Mechanical Treatments (dose Outcomes status, 
+comorbidities 
+
+ventilation at and duration) registration No 
+baseline (%) 
+
+Davoudi-Monfared Published, 92 Iran 58.7 54.3 202042 104 
+IRCT20100228003449N28 Inpatient; Severe (100%) 29.6 Interferon Mortality; ischemic heart 
+beta-1a (44 mechanical disease (28.4%); 
+µg/ml three ventilation; diabetes 
+times weekly for adverse events (27.2%); 
+14 days); leading to hypertension 
+standard care discontinuation; (38.3%); asthma 
+duration of (1.2%); chronic 
+hospital stay; obstructive 
+intensive care pulmonary 
+unit length of disease (1.2%) 
+stay; duration of 
+ventilation; time 
+to symptom or 
+clinical 
+improvement 
+
+de Alencar 2020131‡ 
+ Published, U1111-1250-356  140  Brazil  58.5  59.3  Inpatient; diabetes  Severe (100%)  0.7  N-acetylcysteine (14 g in the first  Mortality; mechanical  
+(37.8%);  4 hours, then 7  ventilation;  
+hypertension  g in the next 16  adverse events  
+(46.7%)  hours); placebo  leading to  
+discontinuation;  
+duration of  
+hospital stay;  
+intensive care  
+unit length of  
+stay  
+
+Deftereos 2020; GRECCO-19105  Published, NCT04326790  110  Greece  64.0  58.1  Inpatient; atrial fibrillation  NR  2.9  Colchicine (0.5 mg twice daily  Mortality; mechanical  
+(10.5%);  for 21 days);  ventilation;  
+coronary artery  standard care  adverse events  
+disease (13.3%);  leading to  
+valvulopathy  discontinuation;  
+(4.8%); diabetes  duration of  
+(20.0%);  hospital stay  
+hypertension  
+(44.8%); chronic  
+obstructive  
+pulmonary  
+disease (4.8%)  
+
+Delgado-Enciso  Preprint,  84  Mexica  47.1  53.6  Outpatient;  Mild/moderate  NR  Electrolyzed  Mortality;  
+2020‡; TX-COVID19132  RPCEC00000309  diabetes (11.9%); hypertension  (100%)  saline (15 ml/day for 7 days with  admission to hospital; adverse  
+(19.1%); asthma  successive  events leading  
+(6.0%)  increases up to  to  
+30 ml/day if  discontinuation  
+indicated);  
+standard care  
+
+Dequin 2020; CAPE COVID109  Published, NCT02517489  149  France  62.2  69.8  Inpatient; intensive care  Critical (100%)  81.2  Hydrocortisone (200 mg/day for  Mortality; mechanical  
+(100%);  7 days, followed  ventilation  
+cerebrovascular  by 100 mg once  
+disease (4.0%);  daily for 4 days,  
+diabetes (18.1%);  and 50 mg once  
+asthma (3.4%);  daily for 3 days)  
+chronic  
+obstructive  
+pulmonary  
+disease (4.0%)  
+
+Doi 202090*  Published,  89  Japan  50.0  61.4  Inpatient  NR  NR  Favipiravir (800  Mortality;  
+jRCTs041190120  mg twice daily  mechanical  
+for 10 days  ventilation; viral  
+starting on day 1  clearance;  
+of enrolment);  duration of  
+favipiravir (800  hospital stay;  
+mg twice daily  time to  
+for 10 days  symptom or  
+starting on day 6  clinical  
+of enrolment)  improvement;  
+time to viral  
+clearance  
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication  No of participants  Country  Mean age (years)  Men (%)  Type of care,  Severity  Mechanical  Treatments (dose  Outcomes  
+status,  comorbidities  ventilation at  and duration)  
+registration No  baseline (%)  
+Duarte 2020133‡ 
+ Preprint, NCT04355936  82  Argentina  61.9  61.5  Inpatient; stroke (7.7%); diabetes  NR  0  Telmisartan (80 mg twice daily  Mortality; mechanical  
+(11.5%);  for 14 days);  ventilation;  
+hypertension  standard care  adverse events  
+(30.8%); asthma  leading to  
+(1.3%); chronic  discontinuation;  
+obstructive  duration of  
+pulmonary  hospital stay  
+disease (11.5%)  
+
+Edalatifard 2020110  Published, IRCT20200404046947N1  68  Iran  58.5  62.9  Inpatient; cardiovascular  Severe (100%)  37.1  Methylprednisolone (250 mg/day for  Mortality; mechanical  
+disease (17.7%);  3 days);  ventilation; time  
+diabetes  standard care  to symptom or  
+(35.5%);  clinical  
+hypertension  improvement  
+(32.3%);  
+respiratory  
+condition (9.7%)  
+
+Esquivel-Moynelo  Preprint,  79  Cuba  38.0  54.0  Inpatient; cardiac  Mild/moderate  NR  Interferon  Mortality; viral  
+2020; ESPERANZA111  RPCEC00000307  disease (6.4%); diabetes (4.8%);  (100%)  gamma (0.5 MIU twice a week for  clearance; time to viral clearance  
+hypertension  14 days);  
+(22.2%); asthma  standard care  
+(6.4%)  
+
+Farahani 202086*  Preprint, IRCT20200406046963N1  29  Iran  64.0  65.5  Inpatient  Mild/moderate (0%)  NR  Methylprednisolone (1000 mg/day  Mortality; mechanical  
+for 3 days),  ventilation;  
+prednisolone (1  intensive care  
+mg/kg with  unit length of  
+tapering of dose  stay  
+over 10 days);  
+standard care  
+Fu 2020113  Published,  80  China  35.3  63.8  Inpatient;  Mild/moderate  NR  Interferon kappa  Mortality;  
+ChiCTR2000030262  diabetes (3.8%);  (100%)  (2 mg/day for 6  adverse events  
+hypertension  days), trefoil  leading to  
+(5.0%)  factor 2 (5  discontinuation;  
+mg/day for 6  viral clearance;  
+days); standard  duration of  
+care  hospital stay;  
+time to viral  
+clearance  
+
+Furtado 2020; COALITION II112  Published, NCT04321278  447  Brazil  60.2  64.0  Inpatient; heart failure (5.6%);  Severe (100%)  50.3  Azithromycin (500 mg/day for  Mortality; mechanical  
+previous stroke  10 days);  ventilation;  
+(4.0%); previous  standard care  duration of  
+myocardial  hospital stay;  
+infarction (4.5%);  ventilator-free  
+diabetes  days  
+(38.0%);  
+hypertension  
+(60.9%); chronic  
+obstructive  
+pulmonary  
+disease (6.7%)  
+
+Goldman 202043*  Published, NCT04292899  402  USA, Italy, Spain, Germany, Hong  61.5  63.7  Inpatient; diabetes  Severe (100%)  30.7  Remdesivir (100 mg/day for 5  Mortality; mechanical  
+Kong,  (22.7%);  days);  ventilation;  
+Singapore, South  hypertension  remdesivir (100  adverse events  
+Korea, Taiwan  (49.9%); asthma  mg/day for 10  leading to  
+(12.3%)  days)  discontinuation;  
+duration of  
+hospital stay;  
+time to  
+symptom or  
+clinical  
+improvement  
+
+Guvenmez 2020134  Published  24  Turkey  58.8  62.5  Inpatient; NR  NR  0  Lincomycin (600 mg twice daily  Viral clearance  
+for 5 days);  
+azithromycin  
+(250 mg/day for  
+5 days)  
+
+
+Study  Publication  No of participants  Country  Mean age (years)  Men (%)  Type of care,  Severity  Mechanical  Treatments (dose  Outcomes  
+status,  comorbidities  ventilation at  and duration)  
+registration No  baseline (%)  
+Horby 2020; RECOVERY50100  Published, NCT04381936  6425  UK  66.2  63.6  Inpatient; heart disease (27.3%);  NR  15.7  Dexamethasone (6 mg/day for  Mortality; mechanical  
+diabetes  10 days);  ventilation;  
+(24.1%); chronic  standard care  duration of  
+lung disease  hospital stay  
+(21.0%);  
+tuberculosis  
+(0.4%)  
+
+Horby 2020; RECOVERY114135  Published, NCT04381936  4716  UK  65.3  62.2  Inpatient; heart disease (25.7%);  NR  16.8  Hydroxychloroquine (400 mg twice  Mortality; mechanical  
+diabetes  daily for 10  ventilation;  
+(27.2%); chronic  days); standard  duration of  
+lung disease  care  hospital stay  
+(22.2%);  
+tuberculosis  
+(0.3%)  
+
+Horby 2020; RECOVERY115  Published, NCT04381936  5040  UK  66.2  61.1  Inpatient; heart disease (26.0%);  NR  4.1  Lopinavir-ritonavir (400 mg and  Mortality; mechanical  
+diabetes  100 mg twice  ventilation;  
+(27.5%); chronic  daily for 10  duration of  
+lung disease  days); standard  hospital stay  
+(23.1%);  care  
+tuberculosis  
+(0.3%)  
+Hu 2020‡136  Published,  10  China  54.9  30.0  Inpatient;  Mild/moderate  0  Leflunomide (20  Mortality; viral  
+ChiCTR2000030058  hypertension  (100%)  mg/day for 10  clearance; time  
+(10.0%); chronic  days); standard  to symptom or  
+obstructive  care  clinical  
+pulmonary  improvement;  
+disease (10.0%)  time to viral  
+clearance  
+Huang 202078  Published,  22  China  44.0  59.1  Inpatient;  Mild/moderate  NR  Chloroquine  Viral clearance;  
+ChiCTR2000029542  cerebrovascular  (63.6%); severe  (500 mg twice  duration of  
+disease (4.5%);  (36.4%)  daily for 10  hospital stay;  
+diabetes (9.1%);  days);  time to  
+hypertension  lopinavir-ritonavir  symptom or  
+(18.2%)  (400 mg and  clinical  
+100 mg twice  improvement;  
+daily for 10  time to viral  
+days)  clearance  
+
+Huang Published, 101 China 42.5 45.5 Inpatient Mild/moderate NR 2020‡40 137 
+ChiCTR2000029387 (100%) 
+Ribavirin  Mortality;  
+(400-600 mg  adverse events  
+three times daily  leading to  
+for 14 days),  discontinuation;  
+interferon-alfa (5  viral clearance;  
+mg twice daily  duration of  
+for 14 days);  hospital stay;  
+lopinavir-ritonavir  time to  
+(400 mg and  symptom or  
+100 mg twice  clinical  
+daily for 14  improvement;  
+days),  time to viral  
+interferon-alfa (5  clearance  
+mg twice daily  
+for 14 days);  
+ribavirin  
+(400-600 mg  
+three times daily  
+for 14 days),  
+lopinavir-ritonavir  
+(400 mg and  
+100 mg twice  
+daily for 14  
+days),  
+interferon-alfa (5  
+mg twice daily  
+for 14 days)  
+
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study Publication No of participants Country Mean age (years) Men (%) Type of care, Severity Mechanical Treatments (dose Outcomes status, 
+comorbidities 
+
+ventilation at and duration) registration No 
+baseline (%) 
+
+Hung 2020‡44 Published, 127 China 51.3 53.5 NCT04276688 
+Inpatient; Mild/moderate 0 Lopinavir-ritonavir Mortality; coronary artery (100%) 
+(400 mg and mechanical disease (7.9%); 
+100 mg twice ventilation; cerebrovascular 
+daily for 14 adverse effects disease (1.6%); 
+days), ribavarin leading to diabetes 
+(400 mg twice discontinuation; (13.4%); 
+daily for 14 duration of hypertension 
+days), interferon hospital stay; (28.4%); 
+beta-1b (1-3 mL time to obstructive sleep 
+every other symptom or apnoea (1.6%); 
+day); clinical tuberculosis 
+lopinavir-ritonavir improvement; (1.6%) 
+(400 mg and time to viral 100 mg twice clearance daily for 14 days) 
+
+Ivaschenko 2020116 138 139  Published, NCT04434248  60  Russia  50.7  50.0  Inpatient; NR  Mild/moderate (100%)  0  Favipiravir (600 mg twice daily  Mortality; mechanical  
+for 14 days);  ventilation;  
+favipiravir (800  adverse events  
+mg twice daily  leading to  
+for 14 days);  discontinuation;  
+standard care  viral clearance;  
+time to  
+symptom or  
+clinical  
+improvement  
+
+Jeronimo 2020; Metcovid117  Published, NCT04343729  416  Brazil  55.0  65.3  Inpatient; intensive care  NR  33.9  Methylprednisolone (0.5 mg/kg  Mortality; mechanical  
+(35.4%); heart  twice daily for 5  ventilation; viral  
+disease (6.6%);  days); placebo  clearance;  
+diabetes  duration of  
+(29.1%);  hospital stay  
+hypertension  
+(48.4%); asthma  
+(2.4%); chronic  
+obstructive  
+pulmonary  
+disease (0.5%);  
+tuberculosis  
+(2.1%)  
+
+Kimura 2020140‡ 
+ Published, NCT0447538  54  USA  38.2  53.3  Outpatient; heart disease (4.4%);  NR  NR  Hypertonic saline (250 ml  Time to symptom or  
+diabetes (6.7%);  twice daily);  clinical  
+hypertension  hypertonic saline  improvement  
+(24.4%); chronic  with surfactant  
+lung disease  (250 ml and 2.5  
+(15.6%)  mg twice daily);  
+standard care  
+
+Lemos 2020‡; HESACOVID141  Published, REBEC  20  Brazil  56.5  80.0  Inpatient; cardiovascular  Critical (100%)  100  Enoxaparin (1 mg/kg/day to 1  Mortality; venous  
+RBR-949z6v  disease (10.0%);  mg/kg twice  thromboembolism;  
+diabetes  daily for 14 days  
+(35.0%);  based on age  clinically-important  
+hypertension  and creatinine  bleeding;  
+(35.0%)  clearance;  duration of  
+maximum dose  hospital stay;  
+was 140 mg  ventilator-free  
+twice daily);  days  
+standard care  
+
+Li 2020; ELACOI53 101  Published, NCT04252885  86  China  49.4  46.5  Inpatient; cardiovascular  Mild/moderate (100%)  0  Lopinavir-ritonavir (400 mg and  Mortality; adverse effects  
+disease (2.3%);  100 mg twice  leading to  
+diabetes (2.3%);  daily for 7 to 14  discontinuation;  
+hypertension  days);  viral clearance;  
+(10.5%)  umifenovir (200  time to viral  
+mg three times  clearance  
+daily for 7 to 14  
+days); standard  
+care  
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study Publication No of participants Country Mean age (years) Men (%) Type of care, Severity Mechanical Treatments (dose Outcomes status, 
+comorbidities 
+
+ventilation at and duration) registration No 
+baseline (%) 
+
+Li 202089* Preprint, 96 China 53.6 46.8 ChiCTR2000029638 
+Inpatient; Mild/moderate 25.5 Recombinant Mortality; cerebrovascular (87.2%); severe 
+super-combinant mechanical disease (5.3%); (12.8%) 
+interferon (12 ventilation; heart disease 
+MIU twice daily adverse events (7.5%); diabetes 
+for 28 days); leading to (9.6%); 
+interferon alpha discontinuation; hypertension 
+(5 MIU twice viral clearance; (19.2%); chronic 
+daily for 28 duration of obstructive 
+days) hospital stay; pulmonary 
+time to disease (1.1%); 
+symptom or tuberculosis 
+clinical (3.2%) 
+improvement; time to viral clearance 
+
+Li 2020142‡ 
+ Published,  18  China  52.0  77.8  Inpatient;  Mild/moderate  0  Bromhexine  Mortality;  
+NCT04273763  diabetes (11.1%);  (100%)  hydrochloride  mechanical  
+hypertension  (32 mg three  ventilation;  
+(33.3%)  times daily for 14  adverse events  
+days); standard  leading to  
+care  discontinuation;  
+time to  
+symptom or  
+clinical  
+improvement  
+Lopes 2020118  Preprint,  38  Brazil  50.8  40.0  Inpatient;  Critical (0%)  2.6  Colchicine (0.5  Mortality;  
+RBR-8jyhxh  cardiovascular  mg three times  adverse events  
+disease (40.0%);  daily for 5 days,  leading to  
+diabetes  then 0.5 mg  discontinuation;  
+(31.4%);  twice daily for 5  duration of  
+respiratory  days); placebo  hospital stay;  
+condition  intensive care  
+(14.3%)  unit length of  
+stay  
+Lou 202045 77  Preprint,  30  China  52.5  72.4  Inpatient;  NR  0  Baloxavir  Mortality;  
+ChiCTR2000029544  cardiovascular  marboxil (80  mechanical  
+disease (13.8%);  mg/day for up to  ventilation; viral  
+diabetes (6.9%);  3 doses on days  clearance; time  
+hypertension  1, 4, and 7);  to symptom or  
+(20.7%)  favipiravir (600  clinical  
+mg three times  improvement;  
+daily for 14  time to viral  
+days); standard  clearance  
+care  
+
+Lyngbakken Published, 53 Norway 62.0 66.0 Inpatient; Mild/moderate 0 Hydroxychloroquine NA 2020*; NO NCT04316377 
+coronary heart (0%) 
+
+(400 mg twice COVID-1996 
+disease (9.4%); 
+daily for 7 days); diabetes 
+standard care (17.0%); hypertension (32.1%); chronic obstructive pulmonary disease or asthma (26.4%) 
+
+Mansour 2020143‡ 
+ Preprint, U1111-1250-1843  60  Brazil  51.6  53.3  Inpatient; diabetes  Severe (100%)  NR  Icatibant (30 mg three times  Mortality; duration of  
+(46.7%);  daily for 4 days);  hospital stay;  
+hypertension  C1  intensive care  
+(50.0%); asthma  esterase/kallikrein  unit length of  
+(3.3%)  inhibitor (20  stay  
+IU/kg on day 1  
+and 4); standard  
+care  
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication  No of participants  Country  Mean age (years)  Men (%)  Type of care,  Severity  Mechanical  Treatments (dose  Outcomes  
+status,  comorbidities  ventilation at  and duration)  
+registration No  baseline (%)  
+Mehboob 2020144‡ 
+ Preprint, NCT04468646  18  Pakistan  53.3  61.1  Inpatient; carotid artery bypass  Mild/moderate (27.8%); severe  NR  Aprepitant (80 mg/day for 3-5  Mortality  
+grafting (5.6%);  (33.3%); critical  days); standard  
+ischemic heart  (38.9%)  care  
+disease (33.3%);  
+diabetes  
+(38.9%);  
+hypertension  
+(50.0%)  
+
+Miller 2020‡; CARDEA145  Published, NCT04345614  30  USA  59.3  46.7  Inpatient; diabetes  Severe (86.7%); critical (13.3%)  13.3  Auxora (1.6 mg/kg given in 4  Mortality; mechanical  
+(40.0%);  hours for 3  ventilation; time  
+hypertension  days); standard  to symptom or  
+(46.7%)  care  clinical  
+improvement  
+Mitja 202091† 
+ Published,  353  Spain  41.6  31.4  Outpatient;  Mild/moderate  0  Hydroxychloroquine  Mortality;  
+NCT04304053  cardiovascular  (100%)  (400 mg/day  mechanical  
+disease (12.0%);  for 7 days);  ventilation;  
+respiratory  standard care  admission to  
+condition (5.8%)  hospital; time to  
+symptom or  
+clinical  
+improvement  
+
+Mitja 2020†;  Preprint,  352  Spain  42.0  29.0  Outpatient; NR  Mild/moderate  0  Hydroxychloroquine  Mortality;  
+BCN PEP-CoV-2101  NCT04304053  (100%)  (400 mg/day for 7 days),  mechanical ventilation;  
+cobicistat-boosted  admission to  
+darunavir (800  hospital; time to  
+mg/150 mg/day  symptom or  
+for 7 days);  clinical  
+standard care  improvement  
+
+Nojomi Preprint, 100 Iran 56.4 60.0 202082‡ IRCT20180725040596N2 
+Inpatient;  Mild/moderate  NR  Hydroxychloroquine  Mortality;  
+coronary heart  (77.0%); severe  (400 mg/ day  mechanical  
+disease (9.0%);  (23.0%)  for 1 day),  ventilation;  
+diabetes  lopinavir-ritonavir  duration of  
+(28.0%);  (400 mg twice  hospital stay;  
+hypertension  daily for up to 14  time to  
+(39.0%); asthma  days);  symptom or  
+(2.0%)  hydroxychloroquine  clinical  
+(400 mg twice  improvement  
+daily for 7 to 14  
+days),  
+umifenovir (200  
+mg three times  
+daily for 7 to 14  
+days)  
+
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication status, registration No  No of participants  Country  Mean age (years)  Men (%)  Type of care, comorbidities  Severity  Mechanical ventilation at baseline (%)  Treatments (dose and duration)  Outcomes  
+Pan 2020; SOLIDARITY76146  Preprint, NCT04315948  5475 1854 2791  Albania, Argentina, Austria, Belgium, Brazil, Canada, Colombia, Egypt, Finland, France, Honduras, India, Indonesia, Iran, Ireland, Italy, Kuwait, Lebanon, Lithuania, Luxembourg, Macedonia, Malaysia, Norway, Pakistan, Phillipines, Peru, Saudi Arabia, South Africa, Spain, Switzerland  NR  62.9 59.9 59.7  Inpatient; heart disease (20.9%); diabetes (25.2%); asthma (5.1%); chronic lung disease (5.4%) Inpatient; heart disease (20.9%); diabetes (21.8%); asthma (4.7%); chronic lung disease (6.9%) Inpatient; heart disease (20.9%); diabetes (24.0%); asthma (4.4%); chronic lung disease (6.6%)  NR  8.9 9.0 8.2  Remdesivir (100 mg/day for 10 days); standard care Hydroxychloroquine (200 mg twice daily for 10 days); standard care Lopinavir-ritonavir (400 mg and 100 mg twice daily for 14 days); standard care  Mortality; mechanical ventilation Mortality; mechanical ventilation Mortality; mechanical ventilation  
+
+4127  63.0  Inpatient; heart disease (21.5%); diabetes (25.0%); asthma (4.2%); chronic lung disease (5.4%)  6.6  Interferon beta-1a (44 µg three times daily for 6 days; patients on high-flow oxygen, ventilators, or  Mortality; mechanical ventilation  
+ECMO were  
+given 10 µg/day for 6 days); standard care  
+
+Rahmani 2020147  Published, IRCT20100228003449N27  80  Iran  60.5  59.1  Inpatient; ischemic heart  Severe (100%)  1.5  Interferon beta-1b (250 µg  Mortality; mechanical  
+disease  every other day  ventilation;  
+(30.0%);  for 14 days);  duration of  
+diabetes  standard care  hospital stay;  
+(31.8%);  intensive care  
+hypertension  unit length of  
+(56.1%); asthma  stay; time to  
+(4.6%); chronic  symptom or  
+obstructive  clinical  
+pulmonary  improvement  
+disease (4.6%)  
+Ren 2020‡148  Published,  20  China  52.0  60.0  Inpatient;  Mild/moderate  0  Azvudine (5  Mortality;  
+ChiCTR2000029853  cardiovascular  (100%)  mg/day until  adverse events  
+disease (5.0%);  discharge);  leading to  
+diabetes (5.0%);  standard care  discontinuation;  
+hypertension  viral clearance;  
+(5.0%)  duration of  
+hospital stay;  
+time to viral  
+clearance  
+
+Rosas 2020; Preprint, 452 Canada, 60.8 69.9 COVACTA81 NCT04320615 
+Denmark, France, Germany, Italy, Netherlands, Spain, UK, USA 
+Inpatient;  Severe (100%)  37.7  Tocilizumab (8  Mortality;  
+intensive care  mg/kg, max 800  mechanical  
+(56.4%);  mg up to two  ventilation;  
+cardiovascular  times in 24  adverse events  
+impairment  hours); placebo  leading to  
+(28.1%);  discontinuation;  
+diabetes  duration of  
+(38.1%);  hospital stay;  
+hypertension  intensive care  
+(62.1%); chronic  unit length of  
+lung disease  stay;  
+(16.2%)  ventilator-free  
+days; time to  
+symptom or  
+clinical  
+improvement  
+
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication  No of participants  Country  Mean age (years)  Men (%)  Type of care,  Severity  Mechanical  Treatments (dose  Outcomes  
+status,  comorbidities  ventilation at  and duration)  
+registration No  baseline (%)  
+Sadeghi 2020149‡ 
+ Published, IRCT20200128046294N2  70  Iran  58.0  51.5  Inpatient; heart failure (15.2%);  Mild/moderate (0%)  0  Sofosbuvir-declatasvir (400 mg and  Mortality; mechanical  
+diabetes  60 mg once  ventilation;  
+(42.4%);  daily for 14  duration of  
+hypertension  days); standard  hospital stay;  
+(34.9%); asthma  care  time to  
+(3.0%); chronic  symptom or  
+pulmonary  clinical  
+disease (22.7%)  improvement  
+
+Salehzadeh 202083  Preprint, IRCT20200418047126N1  100  Iran  56.1  41.0  Inpatient; ischemic heart  NR  NR  Colchicine (1 mg/day for 6  Mortality; duration of  
+disease (15.0%);  days); placebo  hospital stay  
+diabetes  
+(11.0%);  
+hypertension  
+(11.0%); chronic  
+obstructive  
+pulmonary  
+disease (4.0%)  
+
+Sekhavati 2020119  Published  111  Iran  57.1  46.0  Inpatient  NR  NR  Azithromycin (500 mg/day for  Mortality; mechanical  
+5 days);  ventilation;  
+standard care  adverse events  
+leading to  
+discontinuation;  
+duration of  
+hospital stay;  
+intensive care  
+unit length of  
+stay  
+
+Silva Borba  Published,  81  Brazil  51.1  75.3  Inpatient;  Severe (100%)  NR  Chloroquine  Mortality  
+2020*; CloroCOVID-1935150  NCT04323527  intensive care (45.7%);  (600 mg twice daily for 10  
+cardiovascular  days);  
+disease (9.1%);  chloroquine  
+diabetes  (450 mg/day for  
+(25.5%);  5 days)  
+hypertension  
+(45.5%); asthma  
+(7.4%);  
+tuberculosis  
+(3.6%)  
+
+Skipper 2020103  Published, NCT04308668  491  USA, Canada  40.0  45.8  Outpatient; cardiovascular  Mild/moderate (100%)  0  Hydroxychloroquine (600 mg/day  Mortality; admission to  
+disease (1.2%);  for 5 days);  hospital  
+diabetes (3.9%);  placebo  
+hypertension  
+(11.0%); asthma  
+(10.4%); chronic  
+lung disease  
+(0.4%)  
+
+Spinner 2020120  Published, NCT04292730  596  France, Germany, Hong  57.0  61.1  Inpatient; cardiovascular  Mild/moderate (100%)  0.9  Remdesivir (100 mg/day for 10  Mortality; mechanical  
+Kong, Italy,  disease (56.3%);  days);  ventilation;  
+Netherlands,  diabetes  remdesivir (100  adverse events  
+Korea,  (39.7%);  mg/day for 5  leading to  
+Singapore,  hypertension  days); standard  discontinuation;  
+Spain,  (42.5%); asthma  care  duration of  
+Switzerland,  (13.9%)  hospital stay;  
+Taiwan, UK, USA  time to  
+symptom or  
+clinical  
+improvement  
+
+Sterne 2020;  Data from  19  Spain  60.7  68.4  Inpatient; NR  Critical (100%)  100  Dexamethasone  Mortality  
+DEXA-COVID 19122  meta-analysis, NCT04325061  (20 mg/day for 5 days, then 10  
+mg/day for 5  
+days); standard  
+care  
+
+Sterne 2020; Data from 29 Denmark 59.4 79.3 Inpatient; NR Critical (100%) 51.7 Hydrocortisone Mortality COVID meta-analysis, 
+(200 mg/day for STEROID122 NCT04348305 
+7 days); placebo 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication status, registration No  No of participants  Country  Mean age (years)  Men (%)  Type of care, comorbidities  Severity  Mechanical ventilation at baseline (%)  Treatments (dose and duration)  Outcomes  
+Sterne 2020; Steroids-SARI122  Data from meta-analysis, NCT04244591  47  China  64.6  74.5  Inpatient; NR  Critical (100%)  57.5  Methylprednisolone (40 mg twice daily for 5 days); standard care  Mortality  
+
+Sun 202080‡ 
+ Published  66  China  49.5  66.7  Inpatient;  Mild/moderate  NR  Diammonium  Mortality  
+cardiovascular  (100%)  glycyrrhizinate  
+disease (1.5%);  (150 mg three  
+diabetes (9.1%);  times daily)  
+hypertension  
+(18.2%)  
+
+Tang 202047 151  Published, ChiCTR2000029868  150  China  46.1  55.0  Inpatient; diabetes  Mild/moderate (99.0%); severe  NR  Hydroxychloroquine (800 mg/day  Mortality; adverse effects  
+(14.0%);  (1.0%)  for 14 to 21  leading to  
+hypertension  days); standard  discontinuation;  
+(6.0%)  care  viral clearance;  
+time to  
+symptom or  
+clinical  
+improvement;  
+time to viral  
+clearance  
+
+Tomazini 2020; CoDEX121  Published, NCT04327401  299  Brazil  61.4  62.5  Inpatient; intensive care  Critical (100%)  100  Dexamethasone (20 mg/day for  Mortality; mechanical  
+(100%); heart  5 days, then 10  ventilation;  
+failure (7.7%);  mg/day for 5  ventilator-free  
+diabetes  days); standard  days; duration of  
+(42.1%);  care  ventilation  
+hypertension  
+(66.2%)  
+
+Ulrich 2020; TEACH123  Published, NCT04369742  128  USA  66.2  59.4  Inpatient; non-hypertensive  Mild/moderate (0%)  1.56  Hydroxychloroquine (200 mg twice  Mortality; mechanical  
+cardiovascular  daily for 5 days);  ventilation; viral  
+disease (25.6%);  placebo  clearance;  
+diabetes  duration of  
+(32.0%);  hospital stay  
+hypertension  
+(57.8%); asthma  
+(15.6%); chronic  
+obstructive  
+pulmonary  
+disease (7.0%)  
+
+Vlaar 2020‡; PANAMO152 153  Published, NCT04333420  30  Netherlands  60.5  73.3  Inpatient; intensive care  Severe (100%)  60.0  IFX-1 (800 mg/day for up to  Mortality; adverse events  
+(60.0%);  7 times within  leading to  
+diabetes  22 days);  discontinuation  
+(26.7%);  standard care  
+hypertension  
+(30.0%)  
+Wang 202033  Published,  237  China  65.0  59.3  Inpatient;  Severe (100%)  16.1  Remdesivir (100  Mortality;  
+NCT04257656  cardiovascular  mg/day for 10  mechanical  
+disease (7.2%);  days); placebo  ventilation;  
+diabetes  adverse events  
+(23.7%);  leading to  
+hypertension  discontinuation;  
+(43.2%)  viral clearance;  
+duration of  
+hospital stay;  
+duration of  
+ventilation; time  
+to symptom or  
+clinical  
+improvement  
+Wang 202093*  Published  20  China  47.0  45.0  Inpatient; NR  Mild/moderate  NR  Vitamin C (10  NA  
+(100%)  g/60 kg twice  
+daily); standard  
+care  
+Wang 202095*  Published  60  China  NR  38.3  Inpatient; NR  Mild/moderate  NR  Lopinavir-ritonavir  NA  
+(100%)  (2 tablets twice  
+daily); standard  
+care  
+
+
+Study  Publication  No of participants  Country  Mean age (years)  Men (%)  Type of care,  Severity  Mechanical  Treatments (dose  Outcomes  
+status,  comorbidities  ventilation at  and duration)  
+registration No  baseline (%)  
+Wang 2020154  Preprint,  65  China  63.0  50.8  Inpatient;  Mild/moderate  15.4  Tocilizumab  Duration of  
+ChiCTR2000029765  diabetes  (56.9%); severe  (400 mg for up  hospital stay;  
+(15.4%);  (43.1%)  to two times in  time to  
+hypertension  24 hours);  symptom or  
+(30.8%)  standard care  clinical  
+improvement;  
+time to viral  
+clearance  
+
+Wang 2020155‡ Published, 50 China 55.8 45.8 Inpatient; Mild/moderate NR Leflunomide (50 Mortality; ChiCTR2000030058 coronary artery (81.25%); severe 
+mg twice daily adverse events disease (2.1%); (14.6%); critical 
+for 1.5 days, then leading to diabetes (4.2%); (4.2%) 
+20 mg/day for 8 discontinuation; hypertension 
+days); standard viral clearance; (25.0%); chronic 
+care duration of obstructive 
+hospital stay; pulmonary 
+time to viral disease (4.2%) 
+clearance 
+
+Wu 2020156‡ Published, 52 China 58.0 50.0 ChiCTR20000300001 
+Inpatient;  NR  NR  Triazavirin (250  Mortality;  
+cardiovascular  mg three times  adverse events  
+disease (15.4%);  daily for 7 days  leading to  
+cerebrovascular  in mildly ill  discontinuation;  
+disease (7.7%);  patients, 250 mg  viral clearance;  
+diabetes  four times daily  time to  
+(15.4%);  for 7 days in  symptom or  
+hypertension  severe or  clinical  
+(28.8%); chronic  critically ill  improvement;  
+obstructive  patients);  time to viral  
+pulmonary  placebo  clearance  
+disease (5.8%)  
+
+
+Yethindra 2020124  Published  30  Kyrgyzstan  36.5  60.0  Inpatient; cardiovascular  Mild/moderate (100%)  NR  Umifenovir (200 mg three times  Mortality; time to symptom or  
+disease (0%)  daily for 1 to 5  clinical  
+days); standard  improvement  
+care  
+Yuan 202094*  Preprint,  21  China  61.0  42.9  Inpatient; NR  Mild/moderate  NR  99mTC-methylene  NA  
+ChiCTR2000029431  (100%)  diphosphate (5  
+ml/day for 7  
+days); standard  
+care  
+Zhang 202079‡ 
+ Preprint,  56  China  67.4  66.7  Inpatient;  Mild/moderate  100  Vitamin C (12  Mortality;  
+NCT04264533  intensive care  (0%)  g/50 ml given at  mechanical  
+(100%);  12 ml/hour for 7  ventilation;  
+coronary heart  days); placebo  adverse events  
+disease (22.2%);  leading to  
+diabetes  discontinuation;  
+(29.6%);  duration of  
+hypertension  hospital stay;  
+(44.4%); chronic  intensive care  
+lung disease  unit length of  
+(5.6%)  stay;  
+ventilator-free  
+days; duration of  
+ventilation  
+Zhao 202087‡ 
+ Published,  26  China  73.5  53.9  Inpatient;  Mild/moderate  3.9  Favipiravir (600  Mortality;  
+NCT04310228  coronary artery  (46.2%); severe  mg twice daily  mechanical  
+disease (23.1%);  (50.0%); critical  for 7 days);  ventilation  
+diabetes  (3.9%)  tocilizumab (4-8  
+(11.5%);  mg/kg in 100 ml  
+hypertension  for 1 hr);  
+(42.3%)  favipiravir (600  
+mg twice daily  
+for 7 days),  
+tocilizumab (4-8  
+mg/kg in 100 ml  
+for 1 hr)  
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study  Publication  No of participants  Country  Mean age (years)  Men (%)  Type of care,  Severity  Mechanical  Treatments (dose  Outcomes  
+status,  comorbidities  ventilation at  and duration)  
+registration No  baseline (%)  
+Zheng 2020‡49 157  Published, ChiCTR2000029496  89  China  46.7  47.2  Inpatient; chronic bronchitis  Mild/moderate (94.4%); severe  NR  Novaferon (20 µg twice daily for  Adverse events leading to  
+(2.0%)  (5.6%)  7 to 10 days);  discontinuation;  
+novaferon,  viral clearance;  
+lopinavir-ritonavir  time to viral  
+(400 mg and  clearance  
+100 mg twice  
+daily for 7 to 10  
+days);  
+lopinavir-ritonavir  
+(400 mg and  
+100 mg twice  
+daily for 7 to 10  
+days)  
+
+Zhong 2020‡158  Preprint, ChiCTR2000029851  17  China  63.0  76.5  Inpatient; cardiovascular  Critical (100%)  94.1  Alpha lipoic acid (1200 mg/day  Mortality; adverse events  
+disease (5.9%);  for 7 days);  leading to  
+diabetes  placebo  discontinuation  
+(23.5%);  
+hypertension  
+(47.1%)  
+Zhou 2020‡159  Published  104  China  52.1  57.7  Inpatient  Mild/moderate  NR  Diammonium  Adverse events  
+(100%)  glycyrrhizinate  leading to  
+(150 mg three  discontinuation  
+times daily for 14  
+days),  
+lopinavir-ritonavir  
+(500 mg twice  
+daily for 14  
+days);  
+lopinavir-ritonavir  
+(500 mg twice  
+daily for 14 days)  
+
+NR=not reported NA=not applicable 
+* Not eligible to be included in the network meta-analysis. 
+† Not included in the current iteration of the network meta-analysis but will be included in a future iteration. 
+‡ This study was part of a treatment node with less than 100 participants or less than 20 events. 
+
+Table 
+2 
+describes the randomised controlled trials that were identified after the data analysis and that will be included in the next update. 
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Table 2 | Randomised trials identified after data analysis, which will be included in the next update  
+Study  Publication status, registration No  No of participants  Treatments  
+Hermine 2020160  Published, NCT04331808  131  Tocilizumab; standard care  
+
+Salvarani 2020161  Published, NCT04346355  126  Tocilizumab; standard care  
+Stone 2020162  Published, NCT04356937  243  Tocilizumab; placebo  
+Dubée 2020163† 
+ Preprint, NCT04325893  250  Hydroxychloroquine; placebo  
+Valizadeh 2020164  Published, NR  40  Nano-curcumin; placebo  
+Salama 2020165  Preprint, NCT04372186  377  Tocilizumab; placebo  
+Rocco 2020166  Preprint, NCT04552483  392  Nitazoxanide; placebo  
+Axfors 202084*† 
+ Preprint, NCT04329923  30  Hydroxychloroquine; placebo  
+Axfors 202084*† 
+ Preprint, NCT04345289  2  Hydroxychloroquine; placebo  
+
+Hydroxychloroquine, azithromycin; hydroxychloroquine; azithromycin; standard Axfors 202084*† Preprint, NCT04335552 11 care 
+Axfors 202084*† 
+ Preprint, NL8490  12  Hydroxychloroquine; chloroquine; standard care  
+Axfors 202084*† 
+ Preprint, NCT04342650  152  Chloroquine; placebo  
+Axfors 202084*† 
+ Preprint, NCT04323527  82  Chloroquine; placebo  
+Axfors 202084*† 
+ Preprint, NCT04315896  152  Hydroxychloroquine; placebo  
+Axfors 202084*† 
+ Preprint, ChiCTR2000031204  35  Chloroquine; placebo  
+Axfors 202084*† 
+ Preprint, NCT04333654  8  Hydroxychloroquine; placebo  
+
+Hydroxychloroquine, azithromycin, oseltamivir;  
+hydroxychloroquine, azithromycin;  
+Axfors 202084*† 
+ Preprint, NCT04338698  373  hydroxychloroquine, oseltamivir; azithromycin, oseltamivir; azithromycin; oseltamivir  
+Axfors 202084*† 
+ Preprint, NCT04345692  16  Hydroxychloroquine; standard care  
+Axfors 202084*† 
+ Preprint, NCT02735707  142  Hydroxychloroquine; standard care  
+Axfors 202084*† 
+ Preprint, NCT04342221  27  Hydroxychloroquine; placebo  
+Axfors 202084*† 
+ Preprint, NCT04340544  16  Hydroxychloroquine; placebo  
+Ghaderkhani 202088  Preprint, IR.TUMS.VCR.REC.1399.204  53  Arbidol; standard care  
+Padmanabhan 2020102  Preprint, CTRI/2020/05/025013  60  Bacille Calmette-Guérin vaccine; placebo  
+Self 202054† 
+ Published, NCT04332991  479  Hydroxychloroquine; placebo  
+
+Inhaled nebulised interferon beta-1a (SNG001); Monk 202055 Published, NCT04385095 101 placebo 
+Lenze 202056 Published, NCT04342663 152 Fluvoxamine; placebo 
+Khamis 202057  Published, NR  89  Inhaled interferon beta-1b, favipiravir; standard care  
+Brown 202058  Published, NCT04329832  85  Hydroxychloroquine; azithromycin  
+Feld 202059  Preprint, NCT04354259  60  Peginterferon-lambda; placebo  
+Cadegiani 202060  Preprint, NCT04446429  130  Dutasteride; placebo  
+Murai 202061  Preprint, NCT04449718  240  Vitamin D; placebo  
+Rastogi 202062  Published, NCT04459247  40  Vitamin D; placebo  
+Jagannathan 202063  Preprint, NCT04331899  120  Peginterferon-lambda-1a; placebo  
+
+Omrani 202064  Published, NCT04349592  456  Hydroxychloroquine, azithromycin; hydroxychloroquine; placebo  
+Krolewiecki 202065  Preprint, NCT004381884  45  Ivermectin; standard care  
+Elgazzar 202066  Preprint, NR  400  Ivermectin; hydroxychloroquine  
+Hassan 202067  Preprint, NR  105  Zinc; standard care  
+
+Doxycycline, oral methyl prednisolone, topical  
+Husain 202068  Preprint, NR  64  nasal steroid (mometasone); placebo, olfactory training  
+Niaee 202069  Preprint, IRCT20200408046987N1  180  Ivermectin; placebo  
+Yakoot 202070  Preprint, DRKS00022203  89  Sofosbuvir, daclatasvir; standard care  
+Ruzhentsova 202071  Preprint, NCT04501783  168  Favipiravir; standard care  
+Udwadia 202072  Published, CTRI/2020/05/025114  150  Favipiravir; standard care  
+Kumar 202073  Preprint, CTRI/2020/05/024959  30  Itolizumab; standard care  
+Abd-Elsalam 202074  Published, NCT04447534  191  Zinc; standard care  
+Maldonado 202075  Published, NR  38  Pentoxifylline; standard care  
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Study Publication status, registration No No of participants Treatments 
+* Unpublished data from a meta-analysis preprint. 
+† Part of supplemental analysis evaluating hydroxychloroquine for mortality. 
+
+Of the randomised controlled trials included in the analyses, seven did not have publicly accessible protocols or registrations.80 
+93 
+95 
+119 
+124 
+134 
+159 
+Of the trials with publicly accessible protocols or registrations, 55 reported results for one or more of our outcomes of interest that were not prespecified in protocols or registrations. No other discrepancies between the reporting of our outcomes of interest in trial reports and protocols or registrations were noted. One trial did not report outcomes in the groups as randomised; the authors shared outcome data with us in the groups as randomised.51 
+
+Thirteen studies were initially posted as preprints and subsequently published after peer review.35 
+47 
+74 
+96 
+100 
+-102 
+104 
+114 
+115 
+137 
+157 
+167 
+The supplementary material presents the differences between study preprint and peer reviewed publications. Eight studies had discrepancies in outcome reporting between the preprint and peer-reviewed publication. Three studies had discrepancies with patient baseline characteristics. No substantiative differences were found for the other four studies. 
+All analyses reached convergence based on trace plots and a Brooks-Gelman-Rubin statistic less than 1.05, except comparisons including umifenovir for mortality and tocilizumab for adverse events leading to discontinuation because no patients randomised to either of these drugs died. 
+Risk of bias in included studies 
+The supplementary material presents the assessment of risk of bias of the included studies for each outcome. Nine studies were judged at low risk of bias in all domains.33 
+35 
+41 
+86 
+103 
+109 
+118 
+122 
+131 
+All other studies had probably high or high risk of bias in at least one of the domains. 
+Effects of the interventions 
+The supplementary material presents the network plots depicting the interventions included in the network meta-analysis of each outcome. Figure 
+2 
+presents a summary of the effects of the interventions on the outcomes. The supplementary file also presents detailed relative and absolute effect estimates and certainty of the evidence for all comparisons and outcomes. We did not detect statistical incoherence in any of the network meta-analyses. 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+
+Fig 2 | Summary of effects compared with standard care 
+
+Mortality 
+Seventy two randomised controlled trials including 40 083 participants32333537-3943444751527679-8385-87899097-128130-133136137141-145147-149152156158 
+
+reported mortality. Thirty eight trials with 37 730 participants32 
+33 
+37 
+39 
+47 
+51 
+52 
+76 
+77 
+81 
+83 
+85 
+97 
+-101 
+103 
+-110 
+112 
+114 
+115 
+117 
+-124 
+139 
+147 
+
+met the threshold of analysing treatments with a minimum of 100 patients or 20 events and were included in the network-meta analysis. The treatment nodes included were azithromycin, colchicine, corticosteroids, favipiravir, hydroxychloroquine, hydroxychloroquine plus azithromycin, interferon beta, lopinavir-ritonavir, remdesivir, rhG-CSF, tocilizumab, umifenovir, and standard care. Random effects network meta-analysis showed that corticosteroids (odds ratio 0.85, 95% credible interval 0.71 to 1.01; risk difference 17 fewer per 1000, 95% credible interval 34 fewer to 1 more; moderate certainty) probably reduce deaths compared to standard care (fig 
+2). Evidence was less certain for remdesivir (odds ratio 0.90, 0.70 to 1.12; risk difference 12 fewer per 1000, 35 fewer to 14 more; low certainty) and lopinavir-ritonavir (odds ratio 0.90, 0.73 to 1.09; risk difference 12 fewer per 1000, 31 fewer to 10 more; low certainty). Patients randomised to hydroxychloroquine (odds ratio 1.10, 0.90 to 1.35; risk difference 11 more per 1000, 11 fewer to 38 more; low certainty of no benefit) and interferon beta (odds ratio 1.02, 0.70 to 1.32; risk difference 2 more per 1000, 35 fewer to 35 more; low certainty) did not have a lower risk of death than those randomised to standard care. 95% credible intervals included both substantial benefit and harm for azithromycin, 
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+colchicine, favipiravir, hydroxychloroquine plus azithromycin, and tocilizumab (all very low certainty). Very low certainty evidence suggests that rhG-CSF may reduce risk of death compared to standard care. Fixed effects network meta-analysis led to similar results for all treatments compared with standard care: corticosteroids (odds ratio 0.86, 0.77 to 0.95), hydroxychloroquine (odds ratio 1.08, 0.96 to 1.22), interferon beta (odds ratio 1.08, 0.89 to 1.30), lopinavir-ritonavir (odds ratio 0.89, 0.80 to 1.00) and remdesivir (odds ratio 0.92, 0.80 to 1.07). 
+Mortality data from several small trials on hydroxychloroquine were published in a meta-analysis after the analysis had been completed. To optimally inform the linked WHO guideline panel that considered hydroxychloroquine, we updated the analysis for mortality on 11 November 2020. There were no important differences (supplementary material). 
+Mechanical ventilation 
+Forty randomised controlled trials including 33 727 participants32333738434451767779818286879097100104-110112114-117119-121123125127131133145147149 
+
+reported mechanical ventilation. Twenty-one trials with 32 162 participants32 
+33 
+37 
+51 
+76 
+81 
+97 
+100 
+104 
+106 
+-110 
+112 
+114 
+115 
+117 
+119 
+-121 
+123 
+147 
+met 
+the threshold of analysing treatments with a minimum of 100 patients or 20 events and were included in the network meta-analysis. The treatment nodes included were azithromycin, corticosteroids, hydroxychloroquine, hydroxychloroquine plus azithromycin, interferon beta, lopinavir-ritonavir, remdesivir, rhG-CSF, and standard care (fig 
+2). Random effects network meta-analysis showed that, compared with standard care, corticosteroids probably reduce risk of mechanical ventilation (odds ratio 0.72, 0.50 to 1.01; risk difference 29 fewer per 1000, 54 fewer to 1 fewer; moderate certainty for risk of bias). Certainty was lower for remdesivir (odds ratio 0.68, 0.41 to 1.00; risk difference 33 fewer per 1000, 65 fewer to 1 more; low certainty) and hydroxychloroquine (odds ratio 1.20, 0.83 to 1.81; risk difference 20 more per 1000, 18 fewer to 76 more; low certainty for risk of bias and imprecision). Evidence for was less certain for azithromycin, hydroxychloroquine plus azithromycin, interferon beta, lopinavir-ritonavir, and tocilizumab, and rhG-CSF (all very low certainty). Fixed effects network meta-analysis led to similar results for all treatments compared with standard care: corticosteroids (odds ratio 0.73, 0.61 to 0.86), remdesivir (odds ratio 0.88, 0.76 to 1.03), hydroxychloroquine (odds ratio 1.16, 0.97 to 1.38), azithromycin (odds ratio 1.13, 0.79 to 1.64), hydroxychloroquine plus azithromycin (odds ratio 1.59, 0.86 to 2.89), interferon beta (odds ratio 0.97, 0.80 to 1.18), and lopinavir-ritonavir (odds ratio 1.16, 0.98 to 1.36). 
+Adverse events leading to discontinuation 
+Thirty two randomised controlled trials including 4698 participants32334344475279818998101104105113116118-120125128131-133137142148152156-159 
+
+reported adverse effects leading to discontinuation of the study drug. Six trials with 1946 participants32 
+47 
+52 
+81 
+93 
+98 
+met the threshold of analysing treatments with a minimum of 100 patients or 20 events and were included in the network meta-analysis. The treatment nodes included were hydroxychloroquine, remdesivir, tocilizumab, and standard care. Moderate certainty evidence showed that remdesivir did not result in a substantial increase in adverse effects leading to drug discontinuation compared with standard care (odds ratio 1.00, 0.37 to 3.83; risk difference 0 more per 1000, 9 fewer to 40 more). Certainty in evidence for hydroxychloroquine and tocilizumab was very low (fig 
+2). 
+Viral clearance at 7 days (3 days either way) 
+Twenty-four randomised controlled trials including 1857 participants33 
+37 
+47 
+52 
+77 
+78 
+85 
+89 
+90 
+98 
+101 
+108 
+111 
+113 
+116 
+117 
+123 
+134 
+136 
+137 
+148 
+155 
+-157 
+
+measured viral clearance with polymerase chain reaction cut-off 
+points. Fourteen trials with 1186 participants33 
+38 
+47 
+52 
+77 
+78 
+85 
+98 
+101 
+111 
+113 
+116 
+117 
+123 
+met the threshold of 
+analysing treatments with a minimum of 100 patients or 20 events and were included in the network meta-analysis. The treatment nodes included were corticosteroids, favipiravir, hydroxychloroquine, interferon gamma, interferon kappa plus trefoil factor 2, lopinavir-ritonavir, remdesivir, and standard care. We did not find any convincing evidence that any of the interventions increased the rate of viral clearance (fig 
+2). The certainty of the evidence was low for remdesivir compared with standard care, and very low for all other comparisons. 
+Admission to hospital 
+Three randomised controlled trials including 603 participants103 
+130 
+132 
+reported admission to hospital in patients who were outpatients at baseline. One study of hydroxychloroquine versus placebo was included.103 
+There were too few events to make any inferences (odds ratio 0.39, 0.12 to 1.28; risk difference 26 fewer per 1000, 38 fewer to 12 more; low certainty) (fig 
+2). 
+Venous thromboembolism 
+One study including 20 participants141 
+reported venous thromboembolism in patients who received an anticoagulant as the active drug. No treatment node contained information on at least 100 patients, therefore no analyses were conducted for this outcome. 
+Clinically-important bleeding 
+One study including 20 participants141 
+reported clinically important bleeding in patients who received an anticoagulant as the active drug. No treatment node contained information on at least 100 patients, therefore no analyses were conducted for this outcome. 
+Duration of hospital stay 
+Thirty-nine randomised controlled trials including 22 807 participants3337384452787981-83858997100104-108112-115117-120123125127131133137141143147-149154155 
+
+reported duration of hospital stay. Twenty trials with 21 440 participants32 
+33 
+37 
+52 
+78 
+81 
+83 
+97 
+100 
+105 
+106 
+108 
+112 
+114 
+115 
+117 
+-121 
+123 
+154 
+
+meeting the threshold of analysing treatments with a minimum of 100 patients or 20 events were included in the network meta-analysis. The treatment nodes included were azithromycin, colchicine, corticosteroids, hydroxychloroquine, hydroxychloroquine plus azithromycin, lopinavir-ritonavir, remdesivir, rhG-CSF, tocilizumab, and standard care. Compared with standard care, duration of hospitalisation was shorter in patients who received colchicine (mean difference -1.57 days, -2.78 to -0.32; low certainty). There was no evidence that azithromycin (very low certainty), corticosteroids (very low certainty), hydroxychloroquine (very low certainty), hydroxychloroquine plus azithromycin (low certainty), lopinavir-ritonavir (low certainty), tocilizumab (very low certainty), or remdesivir (low certainty), rhG-CSF (low certainty) impact length of stay (fig 
+2). 
+ICU length of stay 
+Nine randomised controlled trials including 890 participants reported length of ICU stay.79 
+81 
+104 
+107 
+118 
+119 
+125 
+131 
+147 
+Two studies 
+randomised at least 100 patients to receive corticosteroids.81 
+107 
+Compared with standard care, length of ICU stay was shorter in patients who received corticosteroids (mean difference -3.83 days, -5.88 to -1.78; low certainty) (fig 
+2). 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+Six randomised controlled trials including 857 participants32 
+33 
+37 
+79 
+104 
+121 
+reported duration of mechanical ventilation. Three studies with 739 participants32 
+33 
+121 
+meeting the threshold of analysing treatments with a minimum of 100 patients or twenty events were included in the network meta-analysis. The treatment nodes included corticosteroids, remdesivir, and standard care. There was no evidence that corticosteroids (mean difference -1.41 days, -3.44 to 0.62; low certainty) and remdesivir (mean difference -1.28 days, -4.06 to 1.47; low certainty) reduce duration of mechanical ventilation (fig 
+2). 
+Ventilator-free days 
+Five randomised controlled trials including 1036 participants79 
+81 
+112 
+121 
+141 
+reported ventilator-free days. Three studies with 962 participants meeting the threshold of analysing treatments with a minimum of 100 patients were included in the network-meta analysis.81 
+112 
+121 
+The treatment nodes included were azithromycin, corticosteroids, tocilizumab, and standard care. Compared to standard care, corticosteroids (mean difference 2.62 days, 0.24 to 4.97; moderate certainty) may increase ventilator-free days. There was no evidence that tocilizumab (low certainty) and azithromycin (very low certainty) increase ventilator-free days (fig 
+2). 
+Time to symptom resolution 
+Thirty two randomised controlled trials including 4424 participants323337-39414447527778818289104106108110116120124126136137140142145147149154156 
+
+reported time to symptom resolution. Thirteen trials including 3285 participants32 
+33 
+37 
+41 
+47 
+52 
+78 
+81 
+98 
+106 
+108 
+120 
+154 
+meeting the threshold 
+of analysing treatments with a minimum of 100 patients were analysed. The treatment nodes included were hydroxychloroquine, lopinavir-ritonavir, remdesivir, rhG-CSF, tocilizumab, and standard care. There was no evidence that remdesivir (moderate certainty), hydroxychloroquine (low certainty), and lopinavir-ritonavir (low certainty) led to shorter symptom duration than in patients who received standard care (fig 
+2). 
+Time to viral clearance 
+Twenty two randomised controlled trials including 1459 participants38 
+44 
+52 
+77 
+78 
+85 
+89 
+98 
+99 
+101 
+106 
+111 
+113 
+129 
+136 
+137 
+148 
+151 
+154 
+-157 
+
+reported time to viral clearance. At least 100 patients across five trials52 
+98 
+99 
+106 
+151 
+received hydroxychloroquine and standard care. The certainty of the evidence was very low (fig 
+2). 
+Subgroups 
+Remdesivir have different effects in patients by severity of disease (ratio of odds ratios (ROR) 1.80, CI 1.27 2.59, probability of ROR=1 = 0.0003). The effects of remdesivir on mortality the three subgroups are: non-severe disease (OR 0.71, 0.33 to 1.46), severe disease (OR 0.73, 0.49 to 1.03), critical disease (OR 1.30, 0.89 to 1.97). Using established criteria, we felt that this subgroup effect had low-to-moderate credibility (supplementary material). No other subgroup was notable for any subgroup effects. 
+
+Discussion 
+This living systematic review and network meta-analysis provides a comprehensive overview of the evidence for drug treatments of covid-19 up to 21 October 2020 and a comprehensive list of drug trials to 3 December 2020. The certainty of the evidence for most of the comparisons was very low. Corticosteroids probably reduce the risk of death and mechanical ventilation, and increase ventilator-free days, results driven almost entirely by the RECOVERY trial.50 
+
+Whether or not remdesivir has any effect on mortality is uncertain. If one believes the subgroup effect, remdesivir may reduce or have no effect mortality in patients with non-critical disease and may increase or have no effect on mortality in patients with critical illness. The subgroup effect however has only moderate credibility and whether or not remdesivir reduces or increases mortality in any subgroup is uncertain. Direct evidence from randomised controlled trials in patients with covid-19 has so far provided little definitive evidence about adverse effects for most interventions, apart from remdesivir which probably has low risk for adverse effects leading to drug discontinuation. 
+No other drug was found to have an impact on any patient with at least moderate certainty for any other outcome. Based on three small trials, colchicine may reduce duration of hospitalisation (low certainty) and based on a single small trial, rhG-CSF might reduce mortality and mechanical ventilation in patients with lymphopenia (low certainty). 
+Compared with the second iteration, there are several important updates (box 
+2). We now have evidence from several large scale international trials on remdesivir, hydroxychloroquine, lopinavir/ritonavir, and interferon beta. Unfortunately, the trials showed that none of these interventions had a meaningful effect on any patient important outcomes. 
+Box 2: Summary of changes since last iteration 
+• 
+Fifty additional randomised trials (25 081 participants) 
+
+• 
+Azithromycin,colchicine,interferonbeta,interferongamma,interferon kappaplustrefoilfactor2,rhG-CSF,tocilizumabarenew interventions included in the analyses, but certainty is low orverylow for the effects of these interventions 
+
+• 
+We changed the previousanalysesthatwereperformedinfixedeffects torandomeffects.Movingfromfixedtorandomeffectsmodelsshifted the 95% CIs to encompass the null effect of glucocorticoids and remdesivir for mortality and mechanical ventilation. 
+
+• 
+Newevidencesuggeststhatremdesivirmaynotreducemortality(low certainty) or time to symptom resolution (moderate certainty). Previously, theevidence suggested a benefitontheseoutcomes with remdesivir. 
+
+• 
+NewevidencethatglucocorticoidsprobablyreducelengthofICUstay (low certainty) and increase ventilator-free days (moderate certainty) 
+
+• 
+Evidence for other interventions is similar to the previous version 
+
+
+Strengths and limitations of this review 
+Our search strategy and eligibility criteria were comprehensive, without restrictions on language of publication or publication status. To ensure expertise in all areas, our team is composed of clinical and methods experts who have undergone training and calibration exercises for all stages of the review process. To minimise problems with counterintuitive results, we anticipated challenges that arise in network meta-analysis when data are sparse.168 
+Many of the results for comparisons with sparse data were uninformative and were sometimes implausible. For that reason, we decided to report evidence on treatments for which at least 100 people were randomised or for which there were at least 20 events. In the future, when more data from more treatments are available, our classification of interventions from the most to the least effective will facilitate clear interpretation of results. 
+The main limitation of the data is that only nine studies were judged to be at low risk of bias.33 
+35 
+41 
+86 
+103 
+109 
+118 
+122 
+131 
+The primary 
+limitation of the evidence is lack of blinding, which might introduce bias through differences in co-interventions between randomisation 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+groups. We chose to consider the treatment arms that did not receive an active experimental drug (ie, placebo or standard care) within the same node: it is possible that the unblinded standard care groups received systematically different co-interventions than groups randomised to receive a placebo. Direct comparisons in which the evidence is dominated by unblinded studies were rated down, consistent with GRADE, for risk of bias and that is reflected in the rating of the quality of evidence from the network estimate.169 
+Many of the data also had reporting concerns. For some outcomes, the method in which the researchers measured and reported outcomes proved inconsistent across studies. This led the team to propose a hierarchy for the outcome mechanical ventilation, as described in the methods. 
+The living nature of our systematic review and network meta-analysis could conceivably (at least temporarily) amplify publication bias, because studies with promising results are more likely to be published and are published sooner than studies with negative results. The inclusion of preprints, many of which have negative results, might reduce this risk. Industry sponsored trials such as those for remdesivir and other patented drugs could be particularly at risk of publication bias, and positive results for these drugs might require more cautious interpretation than generic drugs tested in randomised controlled trials independent of industry influence. However, the inclusion of preprints in our network meta-analysis might introduce bias from simple errors and the reporting limitations of preprints. We include preprints because of the urgent need for information and because so many of the studies on covid-19 are published first as preprints. So far, there did not appear to be any major differences between preprints and peer-reviewed manuscripts. 
+It is possible that we did not detect important subgroup modification.170 
+For example, the RECOVERY trial suggested that patients with more severe disease might obtain a greater benefit from dexamethasone than patients with less severe disease.50 
+However, this subgroup effect only has moderate credibility. Users should carefully consider the characteristics of the patients included in the trials for each intervention. 
+Our living systematic review and network meta-analysis will continue to inform the development of the WHO living guidelines and BMJ Rapid Recommendations.6 
+7 
+An important difference in the methods for assessing the certainty of the evidence does, however, exist between the two. In this living systematic review and network meta-analysis, we use a minimally contextualised approach for rating the certainty of the evidence, whereas the guideline panels use a fully contextualised approach in which the thresholds of importance of magnitudes of effects depend on all other outcomes and factors involved in the decision.25 
+The contextualisation explains differences in the certainty of the evidence between the two. The limitations of potentially misleading results when the network is sparse, and the desirability of focusing on direct estimates from larger studies when this is the case, explain differences in the details of the estimates of effect in this network meta-analysis and in the associated guidelines for remdesivir.7 
+
+To date, we are aware of two other similar efforts to ours.171 
+172 
+We decided to proceed independently to ensure that the results fully inform clinical decision making for the associated living guidance.6 
+We also include a more comprehensive search for the evidence and several differences in analytical methods, which we believe are best suited for this process. It is also important to evaluate the reproducibility and replicability of results from different scientific approaches. 
+We will periodically update this living systematic review and network meta-analysis. We from several new randomised trials that examined tocilizumab were published after our statistical analysis and trials on all drugs are being published at an increasingly faster rate. The changes from each version will be highlighted for readers and the most updated version will be the one available in the publication platform. Previous versions will be archived in the supplementary material. This living systematic review and network meta-analysis will also be accompanied by an interactive infographic and a website for users to access the most updated results in a user-friendly format (magicapp.org). 
+Conclusions 
+Evidence from this living systematic review and network meta-analysis suggests that corticosteroids probably reduce mortality, mechanical ventilation, and ventilator-free days in patients with severe covid-19. Whether or not remdesivir has any impact on any outcome remains uncertain. Hydroxychloroquine, lopinavir/ritonavir, and interferon beta may not reduce mortality or mechanical ventilation, and they seem unlikely to have any other benefits. The effects of most drug interventions are currently highly uncertain, and no definitive evidence exists that other interventions result in important benefits and harms for any outcomes. 
+What is already known on this topic 
+• Despite huge efforts to identify effective drug interventions for coronavirusdisease2019(covid-19),evidenceforeffectivetreatment remains limited 
+What this study adds 
+• 
+This living systematic review and network meta-analysis provides a comprehensive overview and assessment of the evidence published as of 21 October 2020 and will be updated periodically 
+
+• 
+The certainty of the evidence for most interventions tested thus far is low or very low 
+
+• 
+In patients with severe covid-19, glucocorticoids probably decrease mortality, mechanical ventilation. No other drug has compelling evidence of benefit. 
+
+
+AUTHOR AFFILIATIONS 
+1 
+Department of Health Research Methods, Evidence, and Impact, McMaster University, 1280 Main St W, Hamilton, ON L8S 4L8, Canada 
+2 
+Evidence Based Social Science Research Center, School of Public Health, Lanzhou University, Lanzhou, Gansu, China 
+3 
+Servicio de Clinica Médica del Hospital Alemán, Buenos Aires, Argentina 4 
+Iberoamerican Cochrane Centre, Sant Pau Biomedical Research Institute (IIB Sant Pau), Barcelona, Spain 
+5 
+CIBER de Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain 6 
+Department of Medicine, McMaster University, Hamilton, ON, Canada 7 
+Department of Medicine and Centre de recherche du CHU de Sherbrooke, Sherbrooke, Quebec, Canada 
+8 
+Department of Preventive Medicine, College of Medicine, Chosun University, Gwangju, Republic of Korea 
+9 
+Cochrane China Network Affiliate, Chongqing Medical University, Chongqing, China 10 
+School of Public Health and Management, Chongqing Medical University, Chongqing, China 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+11 
+Department of Medicine, University of Toronto, Toronto, ON, Canada 12 
+Division of General Internal Medicine & Division of Clinical Epidemiology, University Hospitals of Geneva, Geneva, Switzerland 13 
+Department of Anesthesia, McMaster University, Hamilton, ON, Canada 14 
+William Osler Health Network, Toronto, ON, Canada 15 
+Norwegian Institute of Public Health, Oslo, Norway 16 
+Institute of Health and Society, University of Oslo, Oslo, Norway 17 
+Ted Rogers Center for Heart Research, Toronto General Hospital, ON, Canada 18 
+Department of Medicine, Western University, London, ON, Canada 19 
+College of Medical Informatics, Chongqing Medical University, Chongqing, China 20 
+Schwartz/Reisman Emergency Medicine Institute, Sinai Health, Toronto, ON, Canada 21 
+Department of Family and Community Medicine, University of Toronto, Toronto, ON, Canada 22 
+Department of Pediatrics, Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada 23 
+Department of Medicine, University of Kansas Medical Center, Kansas City, MO, USA 24 
+Epistemonikos Foundation, Santiago, Chile 25 
+UC Evidence Center, Cochrane Chile Associated Center, Pontificia Universidad Católica de Chile, Santiago, Chile 26 
+Hematology and Oncology, Mayo Clinic Rochester, Rochester, MN, USA 27 
+School of Public Health and Preventative Medicine, Monash University, Melbourne, Australia 28 
+Department of Medicine, University Health Network, Toronto, ON, Canada 29 
+Department of Nephrology and Hypertension, University Medical Center Utrecht, Utrecht, Netherlands 30 
+Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht University, Utrecht, Netherlands 31 
+Centro de Investigación de Salud Pública y Epidemiología Clínica (CISPEC), Facultad de Ciencias de la Salud Eugenio Espejo, Universidad UTE, Quito, Ecuador 32 
+Wolfson Palliative Care Research Centre, Hull York Medical School, Hull, UK * 
+Joint first authors 
+
+Contributors: RACS, JJB, LG, and DZ contributed equally to the systematic review and are joint first authors. RACS, JJB, DZ, LG, and RB-P were the core team leading the systematic review. JJB, RC, SAF, MG, BL, RWMV, SM, YW, ZY, IR, AD, TD, AI, AQ, CS, LY, FF, QL, XH, LS, BF, and AV-G identified and selected the studies. DZ, EK, NS, RWMV, AA, YW, KH, HP-H, MAH, CF, SLM, QL, AS, AQ, LY, and FF collected the data. LG, AK, BS, LH, QI, DH-A, GHG, GT, and LT analysed the data. RB-P, HPH, AI, RAM, TD, NS, and DC assessed the certainty of the evidence. SLM, FL, BR, TA, POV, GHG, MM, JDN, ML, TT, BT, FF, and GR provided advice at different stages. RACS, RB-P, and GHG drafted the manuscript. All authors approved the final version of the manuscript. RACS is the guarantor. The corresponding author attests that all listed authors meet authorship criteria and that no others meeting the criteria have been omitted. 
+Funder: This study was supported by the Canadian Institutes of Health Research (grant CIHR-IRSC:0579001321). 
+Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icm­
+je.org/coi_disclosure.pdf and declare: support from the Canadian Institutes of Health Research; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work. 
+the bmj | BMJ 2020;370:m2980 | doi: 10.1136/bmj.m2980 
+Ethical approval: Not applicable. All the work was developed using published data. 
+Data sharing: No additional data available. 
+RACS affirms that this manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned have been explained. 
+Dissemination to participants and related patient and public communities: The infographic and MAGICapp decision aids (available at www.magicapp.org/) were created to facilitate conversations between healthcare providers and patients or their surrogates. The MAGICapp decision aids were co-created with people who have lived experience of covid-19. 
+Provenance and peer review: Not commissioned; externally peer reviewed. 
+We thank Kevin Cheung and Paul Alexander (who was an author in the previous version of this review) for input and early contributions. 
+1 John Hopkins University. Coronavirus Resource Center 2020 https://coronavirus.jhu.edu/map.html. 2 Cytel. Global coronavirus COVID-19 clinical trial tracker. 2020 https://www.covid19-trials.org/. 3 Djulbegovic B, Guyatt G. Evidence-based medicine in times of crisis. J Clin Epidemiol 2020. 
+doi: 10.1016/j.jclinepi.2020.07.002 pmid: 32659364 
+4 Vandvik PO, Brignardello-Petersen R, Guyatt GH. Living cumulative network meta-analysis to reduce waste in research: a paradigmatic shift for systematic reviews?BMC Med 2016;14:59. doi: 10.1186/s12916-016-0596-4 pmid: 27025849 
+5 Puhan MA, Schünemann HJ, Murad MH, etalGRADE Working Group. A GRADE Working Group approach for rating the quality of treatment effect estimates from network meta-analysis. BMJ 2014;349:g5630. doi: 10.1136/bmj.g5630 pmid: 25252733 
+6 Siemieniuk RA, Agoritsas T, Macdonald H, Guyatt GH, Brandt L, Vandvik PO. Introduction to BMJ Rapid Recommendations. BMJ 2016;354:i5191. doi: 10.1136/bmj.i5191 pmid: 27680768 7 Rochwerg B, Agarwal A, Zeng L, etal. Remdesivir for severe covid-19: a clinical practice guideline. 
+BMJ 2020;370:m2924. doi: 10.1136/bmj.m2924 pmid: 32732352 
+8 Hutton B, Salanti G, Caldwell DM, etal. The PRISMA extension statement for reporting of systematic reviews incorporating network meta-analyses of health care interventions: checklist and explanations. Ann Intern Med 2015;162:777-84. doi: 10.7326/M14-2385 pmid: 26030634 
+9 Elliott JH, Synnot A, Turner T, etalLiving Systematic Review Network. Living systematic review: 
+1. Introduction-the why, what, when, and how. J Clin Epidemiol 2017;91:23-30. doi: 10.1016/j.jclinepi.2017.08.010 pmid: 28912002 
+10 Stephen B. Thacker CDC Library. COVID-19 research articles downloadable database: Centers for Disease Control and Prevention, 2020 https://www.cdc.gov/library/researchguides/2019nov­
+elcoronavirus/researcharticles.html. 
+11 Marshall IJ, Noel-Storr A, Kuiper J, Thomas J, Wallace BC. Machine learning for identifying randomized controlled trials: an evaluation and practitioner’s guide. Res Synth Methods 2018;9:602-14. doi: 10.1002/jrsm.1287 pmid: 29314757 
+12 Epistemonikos Foundation. Living evidence Repository for COVID-19. https://app.iloveevi­
+dence.com/loves/5e6fdb9669c00e4ac072701d. 
+13 Norwegian Institute of Public Health. NIPH systematic and living map on COVID-19 evidence 2020 https://www.nornesk.no/forskningskart/NIPH_mainMap.html. 
+14 Covidence systematic review software [program]. Melbourne, Australia: Veritas Health Innovation. 
+15 World Health Organization. Criteria for releasing COVID-19 patients from isolation. Scientific Brief, 2020: 1-5. https://www.who.int/publications/i/item/criteria-for-releasing-covid-19-patients-from­
+isolation. 
+16 Sterne JAC, SavovicJ, Page MJ, etal. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ 2019;366:l4898. doi: 10.1136/bmj.l4898 . pmid: 31462531 
+17 Röver C. Bayesian random-effects meta-analysis using the bayesmeta R package. arXiv 2017. https://arxiv.org/abs/1711.08683. 
+18 Friedrich JO, Adhikari NK, Beyene J. Ratio of means for analyzing continuous outcomes in meta-analysis performed as well as mean difference methods. J Clin Epidemiol 2011;64:556-64. doi: 10.1016/j.jclinepi.2010.09.016 pmid: 21447428 
+19 Chaimani A, Higgins JP, Mavridis D, Spyridonos P, Salanti G. Graphical tools for network meta-analysis in STATA. PLoS One 2013;8:e76654. doi: 10.1371/journal.pone.0076654 pmid: 24098547 
+20 Turner RM, Jackson D, Wei Y, Thompson SG, Higgins JP. Predictive distributions for between-study heterogeneity and simple methods for their application in Bayesian meta-analysis. Stat Med 2015;34:984-98. doi: 10.1002/sim.6381 pmid: 25475839 
+21 van Valkenhoef G, Dias S, Ades AE, Welton NJ. Automated generation of node-splitting models for assessment of inconsistency in network meta-analysis. Res Synth Methods 2016;7:80-93. doi: 10.1002/jrsm.1167 pmid: 26461181 
+22 gemtc: Network meta-analysis using Bayesian methods [program]. R package version 0.8-4 version, 2020. 
+23 Brignardello-Petersen R, Bonner A, Alexander PE, etalGRADE Working Group. Advances in the GRADE approach to rate the certainty in estimates from a network meta-analysis. J Clin Epidemiol 2018;93:36-44. doi: 10.1016/j.jclinepi.2017.10.005 pmid: 29051107 
+24 Brignardello-Petersen R, Mustafa RA, Siemieniuk RAC, etal. GRADE approach to rate the certainty from a network meta-analysis: addressing incoherence. J Clin Epidemiol 2019;108:77-85. doi: 10.1016/j.jclinepi.2018.11.025 pmid: 30529648 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+26 Centers for Disease Control and Prevention. COVIDView. A weekly surveillance summary of U.S COVID-19 activity. 2020. https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/in­
+dex.html. 
+27 Centers for Disease Control and Prevention. Daily updates of totals by week and state: provisional death counts for coronavirus disease 2019 (COVID-19). 2020. https://www.cdc.gov/nchs/nvss/vsrr/COVID19/index.htm. 
+28 ISARIC (International Severe Acute Respiratory and Emerging Infections Consortium). COVID-19 Report: 08 June 2020. medRxiv 2020. doi: 10.1101/2020.07.17.20155218. 
+29 Spineli L, Brignardello-Petersen R, Heen A, etal. Obtaining absolute effect estimates to facilitate shared decision making in the context of multiple comparisons. Global Evidence Summit, 2017. 
+30 R2jags: Using R to Run ‘JAGS’ [program]. R package version 0.6-1 version, 2020. 
+31 Brignardello-Petersen R, Florez I, Izcovich A, et al. GRADE approach to drawing conclusions from a network meta-analysis using a minimally contextualized framework [Submitted for publication]. 2020. 
+32 Beigel JH, Tomashek KM, Dodd LE, etalACTT-1 Study Group Members. Remdesivir for the treatment of covid-19 -preliminary report. N Engl J Med 2020; doi: 10.1056/NEJMoa2007764 pmid: 32445440 
+33 Wang Y, Zhang D, Du G, etal. Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial. Lancet 2020;395:1569-78. doi: 10.1016/S0140-6736(20)31022-9 pmid: 32423584 
+34 Amat-Santos IJ, Santos-Martinez S, López-Otero D, etal. Ramipril in high-risk patients with COVID-19. J Am Coll Cardiol 2020;76:268-76. doi: 10.1016/j.jacc.2020.05.040 pmid: 32470515 
+35 Borba MGS, Val FFA, Sampaio VS, etalCloroCovid-19 Team. Effect of high vs low doses of chloroquine diphosphate as adjunctive therapy for patients hospitalized with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection: a randomized clinical trial. JAMA Netw Open 2020;3:e208857-57. doi: 10.1001/jamanetworkopen.2020.8857 pmid: 32330277 
+36 Boulware DR, Pullen MF, Bangdiwala AS, etal. A randomized trial of hydroxychloroquine as postexposure prophylaxis for covid-19. N Engl J Med 2020. doi: 10.1056/NEJMoa2016638 pmid: 32492293 
+37 Cao B, Wang Y, Wen D, etal. A trial of lopinavir-ritonavir in adults hospitalized with severe covid-19. N Engl J Med 2020;382:1787-99. doi: 10.1056/NEJMoa2001282 pmid: 32187464 
+38 Cao Y, Wei J, Zou L, etal. Ruxolitinib in treatment of severe coronavirus disease 2019 (COVID-19): A multicenter, single-blind, randomized controlled trial. J Allergy Clin Immunol 2020;146:137-146.e3. doi: 10.1016/j.jaci.2020.05.019 pmid: 32470486 
+39 Chen C, Huang J, Cheng Z, et al. Favipiravir versus arbidol for COVID-19: a randomized clinical trial. medRxiv 2020: doi: 10.1101/2020.03.17.20037432. 
+40 Chen Y-K, Huang Y-Q, Tang S-Q, et al. Comparative effectiveness and safety of ribavirin plus interferon-alpha, lopinavir/ritonavir plus interferon-alpha and ribavirin plus lopinavir/ritonavir plus interferon-alpha in patients with mild to moderate novel coronavirus pneumonia: results of a randomized, open-labeled prospective study. SSRN, 2020. https://papers.ssrn.com/sol3/pa­
+pers.cfm?abstract_id=3576905. 
+41 Chen Z, Hu J, Zhang Z, et al. Efficacy of hydroxychloroquine in patients with COVID-19: results of a randomized clinical trial. medRxiv 2020. doi: 10.1101/2020.03.22.20040758 
+42 Davoudi-Monfared E, Rahmani H, Khalili H, et al. Efficacy and safety of interferon beta-1a in treatment of severe COVID-19: A randomized clinical trial. medRxiv 2020. doi: 10.1101/2020.05.28.20116467 
+43 Goldman JD, Lye DCB, Hui DS, etalGS-US-540-5773 Investigators. Remdesivir for 5 or 10 Days in Patients with Severe Covid-19. N Engl J Med 2020. doi: 10.1056/NEJMoa2015301 pmid: 32459919 
+44 Hung IF-N, Lung K-C, Tso EY-K, etal. Triple combination of interferon beta-1b, lopinavir-ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial. Lancet 2020;395:1695-704. doi: 10.1016/S0140-6736(20)31042-4 pmid: 32401715 
+45 Lou Y, Liu L, Qiu Y. Clinical outcomes and plasma concentrations of baloxavir marboxil and favipiravir in COVID-19 patients: an exploratory randomized, controlled trial. medRxiv 2020. doi: 10.1101/2020.04.29.20085761 
+46 Zhong M, Sun A, Xiao T, et al. A randomized, single-blind, group sequential, active-controlled study to evaluate the clinical efficacy and safety of a-lipoic acid for critically ill patients with coronavirus disease 2019 (COVID-19). medRxiv 2020. doi: 10.1101/2020.04.15.20066266 
+47 Tang W, Cao Z, Han M, etal. Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial. BMJ 2020;369:m1849. doi: 10.1136/bmj.m1849 pmid: 32409561 
+48 Li Y. Efficacy and safety of lopinavir/ritonavir or arbidol in adult patients with mild/moderate COVID-19: an exploratory randomized controlled trial. Cell Press, 2020, doi: 10.1016/j.medj.2020.04.001 
+49 Zheng F, Zhou Y, Zhou Z, et al. A novel protein drug, novaferon, as the potential antiviral drug for COVID-19. medRxiv 2020. doi: 10.1101/2020.04.24.20077735 
+50 Horby P, Lim WS, Emberson J, et al. Effect of dexamethasone in hospitalized patients with COVID-19: preliminary report. medRxiv 2020. doi: 10.1101/2020.06.22.20137273 
+51 Corral L, Bahamonde A, Arnaiz delas Revillas F, et al. GLUCOCOVID: A controlled trial of methylprednisolone in adults hospitalized with COVID-19 pneumonia. medRxiv 2020. doi: 10.1101/2020.06.17.20133579 
+52 Chen L, Zhang Z-y, Fu J-g, et al. Efficacy and safety of chloroquine or hydroxychloroquine in moderate type of COVID-19: a prospective open-label randomized controlled study. medRxiv 2020. doi: 10.1101/2020.06.19.20136093 
+53 Li Y, Xie Z, Lin W, et al. An exploratory randomized controlled study on the efficacy and safety of lopinavir/ritonavir or arbidol treating adult patients hospitalized with mild/moderate COVID-19 (ELACOI). medRxiv 2020. doi: 10.1101/2020.03.19.20038984 
+54 Self WH, Semler MW, Leither LM, etalNational Heart, Lung, and Blood Institute PETAL Clinical Trials Network. Effect of Hydroxychloroquine on Clinical Status at 14 Days in Hospitalized Patients With COVID-19: A Randomized Clinical Trial. JAMA 2020;324:2165-76. doi: 10.1001/jama.2020.22240 pmid: 33165621 
+55 Monk PD, Marsden RJ, Tear VJ, etalInhaled Interferon Beta COVID-19 Study Group. Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial. Lancet Respir Med 2020; doi: 10.1016/S2213-2600(20)30511-7 pmid: 33189161 
+56 Lenze EJ, Mattar C, Zorumski CF, etal. Fluvoxamine vs Placebo and Clinical Deterioration in Outpatients With Symptomatic COVID-19: A Randomized Clinical Trial. JAMA 2020;324:2292-300. doi: 10.1001/jama.2020.22760 pmid: 33180097 
+57 Khamis F, Al Naabi H, Al Lawati A, etal. Randomized controlled open label trial on the use of favipiravir combined with inhaled interferon beta-1b in hospitalized patients with moderate to severe COVID-19 pneumonia. Int J Infect Dis 2020;102:538-43. doi: 10.1016/j.ijid.2020.11.008 pmid: 33181328 
+58 Brown SM, Peltan I, Kumar N, etal. Hydroxychloroquine vs. Azithromycin for Hospitalized Patients with COVID-19 (HAHPS): Results of a Randomized, Active Comparator Trial. Ann Am Thorac Soc 2020. doi: 10.1513/AnnalsATS.202004-309SD pmid: 33166179 
+59 Feld JJ, Kandel C, Biondi MJ, etal. Peginterferon-lambda for the treatment of COVID-19 in outpatients.medRxiv 2020; doi: 10.1101/2020.11.09.20228098. 
+60 Cadegiani FA, McCoy J, Wambier CG, etal. 5-Alpha-Reductase Inhibitors Reduce Remission Time of COVID-19: Results From a Randomized Double Blind Placebo Controlled Interventional Trial in 130 SARS-CoV-2 Positive Men.medRxiv 2020; . 
+61 Murai IH, Fernandes AL, Sales LP, etal. Effect of Vitamin D3 Supplementation vs Placebo on Hospital Length of Stay in Patients with Severe COVID-19: A Multicenter, Double-blind, Randomized Controlled Trial.medRxiv 2020; doi: 10.1101/2020.11.16.20232397. 
+62 Rastogi A, Bhansali A, Khare N, etal. Short term, high-dose vitamin D supplementation for COVID-19 disease: a randomised, placebo-controlled, study (SHADE study). Postgrad Med J 2020; doi: 10.1136/postgradmedj-2020-139065 pmid: 33184146 
+63 Jagannathan P, Andrews JR, Bonilla H, etal. Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial.medRxiv 2020; doi: 10.1101/2020.11.18.20234161. 
+64 Omrani AS, Pathan SA, Thomas SA, etal. Randomized double-blinded placebo-controlled trial of hydroxychloroquine with or without azithromycin for virologic cure of non-severe Covid-19. EClinicalMedicine 2020;29:100645. doi: 10.1016/j.eclinm.2020.100645 pmid: 33251500 
+65 Krolewiecki A, Lifschitz A, Moragas M, etal. Antiviral Effect of High-Dose Ivermectin in Adults with COVID-19: A Pilot Randomised, Controlled, Open Label, Multicentre Trial. SSRN 2020; doi: 10.2139/ssrn.3714649 . 
+66 Elgazzar A, Hany B, Youssef SA, etal. Efficacy and Safety of Ivermectin for Treatment and prophylaxis of COVID-19 Pandemic. Research Square 2020; doi: 10.21203/rs.3.rs-100956/v1. 
+67 Hassan MH, Abdelmaksoud AA, Ghweil AA, etal. Olfactory disturbances as presenting manifestation among Egyptian patients with COVID-19: Possible role of zinc. Research Square 2020; doi: 10.21203/rs.3.rs-107577/v1. 
+68 Husain P, Ahmed SK, Husain B, etal. Role of doxycycline, oral steroids, and nasal steroid in treatment of anosmia due to COVID-19 with the new insights into the doxycycline activity. Research Square 2020; doi: 10.21203/rs.3.rs-107710/v1. 
+69 Niaee MS, Gheibi N, Namdar P, etal. Ivermectin as an adjunct treatment for hospitalized adult COVID-19 patients: A randomized multi-center clinical trial. Research Square 2020; doi: 10.21203/rs.3.rs-109670/v1. 
+70 Yakoot M, Eysa B, Gouda E, etal. Efficacy and Safety of Sofosbuvir/Daclatasvir in the Treatment of COVID-19: A Randomized, Controlled Study. SSRN 2020; doi: 10.2139/ssrn.3705289. 
+71 Ruzhentsova T, Chukhliaev P, Khavkina D, etal. Phase 3 Trial of Coronavir (Favipiravir) in Patients with Mild to Moderate COVID-19. SSRN 2020; doi: 10.2139/ssrn.3696907. 
+72 Udwadia ZF, Singh P, Barkate H, etal. Efficacy and Safety of Favipiravir, an Oral RNA-Dependent RNA Polymerase Inhibitor, in Mild-to-Moderate COVID-19: A Randomized, Comparative, Open-Label, Multicenter, Phase 3 Clinical Trial. Int J Infect Dis 2020;S1201-9712(20)32453-X. doi: 10.1016/j.ijid.2020.11.142. pmid: 33212256 
+73 Kumar S, de Souza R, Nadkar M, etal. A two-arm, randomized, controlled, multi-centric, open-label Phase-2 study to evaluate the efficacy and safety of Itolizumab in moderate to severe ARDS patients due to COVID-19.medRxiv 2020; doi: 10.1101/2020.12.01.20239574. 
+74 Abd-Elsalam S, Soliman S, Esmail ES, etal. Do Zinc Supplements Enhance the Clinical Efficacy of Hydroxychloroquine?: a Randomized, Multicenter Trial. Biol Trace Elem Res 2020. doi: 10.1007/s12011-020-02512-1 pmid: 33247380 
+75 Maldonado V, Hernandez-Ramírez C, Oliva-Pérez EA, etal. Pentoxifylline decreases serum LDH levels and increases lymphocyte count in COVID-19 patients: Results from an external pilot study. Int Immunopharmacol 2020;90:107209. doi: 10.1016/j.intimp.2020.107209 pmid: 33278747 
+76 Pan H, Peto R, Henao-Restrepo AM, etalWHO Solidarity Trial Consortium. Repurposed Antiviral Drugs for Covid-19 -Interim WHO Solidarity Trial Results. N Engl J Med 2020; doi: 10.1056/NEJMoa2023184. pmid: 33264556 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+77 Lou Y, Liu L, Yao H, etal. Clinical Outcomes and Plasma Concentrations of Baloxavir Marboxil and Favipiravir in COVID-19 Patients: An Exploratory Randomized, Controlled Trial. Eur J Pharm Sci 2020; . doi: 10.1016/j.ejps.2020.105631 pmid: 33115675 
+78 Huang M, Tang T, Pang P, etal. Treating COVID-19 with chloroquine. J Mol Cell Biol 2020;12:322-5. doi: 10.1093/jmcb/mjaa014 pmid: 32236562 
+79 Zhang J, Rao X, Li Y, etal. High-dose vitamin C infusion for the treatment of critically ill COVID-19. Research Square 2020; doi: 10.21203/rs.3.rs-52778/v1+. 
+80 Sun X, Zhang R, Li Y, etal. Clinical value of prophylactic liver protecting drugs in coronavirus disease 2019 (COVID-19). J Xuzhou Med Univ 2020;40:293-6. 
+81 Rosas I, Bräu N, Waters M, etal. Tocilizumab in Hospitalized Patients With COVID-19 PneumoniamedRxiv 2020; doi: 10.1101/2020.08.27.20183442. 
+82 Nojomi M, Yasin Z, Keyvani H, etal. Effect of Arbidol on COVID-19: A Randomized Controlled Trial. Research Square 2020; doi: 10.21203/rs.3.rs-78316/v1. 
+83 Salehzadeh F, Pourfarzi F, Ataei S, etal. The Impact of Colchicine on The COVID-19 Patients; A Clinical Trial Study. Research Square 2020; doi: 10.21203/rs.3.rs-69374/v1 . 
+84 Axfors C, Schmitt AM, Janiaud P, etal. Mortality outcomes with hydroxychloroquine and chloroquine in COVID-19: an international collaborative meta-analysis of randomized trials.medRxiv 2020: doi: 10.1101/2020.09.16.20194571 . 
+85 Hany M, Dabbous MHE-S, El Assal G, etal. A Randomized Controlled Study Of Favipiravir Vs Hydroxychloroquine In COVID-19 Management: What Have We Learned So Far? Research Square 2020: doi: 1021203/rs3rs-83677/v1. 
+86 Farahani RH, Mosaed R, Nezami-Asl A, etal. Evaluation of the Efficacy of Methylprednisolone Pulse Therapy in Treatment of Covid-19 Adult Patients with Severe Respiratory Failure: Randomized, Clinical Trial. Research Square 2020; doi: 10.21203/rs.3.rs-66909/v1 . 
+87 Hong Zhao QZ, Chi Zhang, Jiawen Li, Ming Wei, Yuhong Qin, Guilin Chen, Ke Wang, Junhua Yu, Zhao Wu, Xianxiang Chen, Guiqiang Wang. Tocilizumab combined with favipiravir in the treatment of COVID-19: A multicenter trial in a small sample size. Biomedicine & Pharmacotherapy 2020;110825. 
+88 Ghaderkhani S, Salami Khaneshan A, Salami A, etal. Efficacy and Safety of Arbidol in Treatment of Patients with COVID-19 Infection: A Randomized Clinical Trial. Research Square 2020, doi: 10.21203/rs.3.rs-91430/v1. 
+89 Li C, Xiong N, Xu Z, etal. Recombinant Super-Compound Interferon (rSIFN-co) Versus Interferon Alfa in the Treatment of Moderate-to-Severe COVID-19: A Multicentre, Randomised, Phase 2 Trial.SSRN 2020doi: 10.2139/ssrn.3622363 
+90 Doi Y, Hibino M, Hase R, etal. A prospective, randomized, open-label trial of early versus late favipiravir in hospitalized patients with COVID-19. Antimicrob Agents Chemother 2020;64:e01897-20. doi: 10.1128/AAC.01897-20. pmid: 32958718 
+91 Mitjà O, Corbacho-Monné M, Ubals M, etalBCN PEP-CoV-2 RESEARCH GROUP. Hydroxychloroquine for early treatment of adults with mild Covid-19: a randomized-controlled trial. Clin Infect Dis 2020; doi: 10.1093/cid/ciaa1009. pmid: 32674126 
+92 Mitjà O, Corbacho M, G-Beiras C, et al. Hydroxychloroquine alone or in combination with cobicistat-boosted darunavir for treatment of mild COVID-19: a cluster-randomized clinical trial. SSRN, 2020. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3615997. 
+93 Wang Y, Yang X, Liu Y, et al. Preliminary clinical effect analysis of the treatment of novel coronavirus pneumonia by internal administration of traditional Chinese medicine plus fumigation and absorption combined with super dose of vitamin C in treating NOVID-19. J Xian Jiaotong Univ (Med Sci) 2020 
+94 Yuan X, Yi W, Liu B, et al. Pulmonary radiological change of COVID-19 patients with 99mTc-MDP treatment. medRxiv 2020. doi: 10.1101/2020.04.07.20054767. 
+95 Wang S, Wang H, Chen H, et al. Lianhua Qingwen capsule and interferon-acombined with lopinavir /ritonavir for the treatment of 30 COVID-19 patients. J Bengu Med Coll2020; doi: 10.13898/j.cnki.issn.1000-2200.2020. 
+96 Lyngbakken MN, Berdal JE, Eskesen A, etal. A pragmatic randomized controlled trial reports lack of efficacy of hydroxychloroquine on coronavirus disease 2019 viral kinetics. Nat Commun 2020;11:5284. . doi: 10.1038/s41467-020-19056-6 pmid: 33082342 
+97 Cavalcanti AB, Zampieri FG, Rosa RG, etalCoalition Covid-19 Brazil I Investigators. Hydroxychloroquine with or without azithromycin in mild-to-moderate Covid-19. N Engl J Med 2020. doi: 10.1056/NEJMoa2019014 pmid: 32706953 
+98 Jun C, Liu D, Li L, etal. A preliminary study of hydroxychloroquine sulfate in patients with common 2019 coronavirus disease (COVID-19). Journal of Zhejiang University 2019;49:215-9. 
+99 Chen C-P, Lin Y-C, Chen T-C, et al. A multicenter, randomized, open-label, controlled trial to evaluate the efficacy and tolerability of hydroxychloroquine and a retrospective study in adult patients with mild to moderate coronavirus disease 2019 (COVID-19). medRxiv 2020. doi: 10.1101/2020.07.08.20148841. 
+100 Horby P, Lim WS, Emberson JR, etalRECOVERY Collaborative Group. Dexamethasone in hospitalized patients with Covid-19 -preliminary report. N Engl J Med 2020; doi: 10.1056/NEJMoa2021436. pmid: 32678530 
+101 Li Y, Xie Z, Lin W, et al. Efficacy and safety of lopinavir/ritonavir or arbidol in adult patients with mild/moderate COVID-19: an exploratory randomized controlled trial. Med 2020 doi: 10.1016/j.medj.2020.04.001. 
+102 Padmanabhan U, Mukherjee S, Borse R, etal. Phase II Clinical trial for Evaluation of BCG as potential therapy for COVID-19.medRxiv doi: 10.1101/2020.10.28.20221630. 
+103 Skipper CP, Pastick KA, Engen NW, etal. Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19: A Randomized Trial. Ann Intern Med 2020; doi: 10.7326/M20-4207 pmid: 32673060 
+the bmj | BMJ 2020;370:m2980 | doi: 10.1136/bmj.m2980 
+104 Davoudi-Monfared E, Rahmani H, Khalili H, etal. Efficacy and safety of interferon ß-1a in treatment of severe COVID-19: a randomized clinical trial. Antimicrob Agents Chemother 2020. doi: 10.1128/AAC.01061-20 pmid: 32661006 
+105 Deftereos SG, Giannopoulos G, Vrachatis DA, etalGRECCO-19 investigators. Effect of colchicine vs standard care on cardiac and inflammatory biomarkers and clinical outcomes in patients hospitalized with coronavirus disease 2019: the GRECCO-19 randomized clinical trial. JAMA Netw Open 2020;3:e2013136. doi: 10.1001/jamanetworkopen.2020.13136 pmid: 32579195 
+106 Abd-Elsalam S, Esmail ES, Khalaf M, etal. Hydroxychloroquine in the Treatment of COVID-19: A Multicenter Randomized Controlled Study. Am J Trop Med Hyg 2020;103:1635-9. . doi: 10.4269/ajtmh.20-0873 pmid: 32828135 
+107 Angus DC, Derde L, Al-Beidh F, etalWriting Committee for the REMAP-CAP Investigators. Effect of Hydrocortisone on Mortality and Organ Support in Patients With Severe COVID-19: The REMAP-CAP COVID-19 Corticosteroid Domain Randomized Clinical Trial. JAMA 2020;324:1317-29. doi: 10.1001/jama.2020.17022. pmid: 32876697 
+108 Cheng LL, Guan WJ, Duan CY, etal. Effect of Recombinant Human Granulocyte Colony-Stimulating Factor for Patients With Coronavirus Disease 2019 (COVID-19) and Lymphopenia: A Randomized Clinical Trial. JAMA Intern Med 2020;10:10. pmid: 32910179 
+109 Dequin PF, Heming N, Meziani F, etalCAPE COVID Trial Group and the CRICS-TriGGERSep Network. Effect of Hydrocortisone on 21-Day Mortality or Respiratory Support Among Critically Ill Patients With COVID-19: A Randomized Clinical Trial. JAMA 2020;324:1298-306. doi: 10.1001/jama.2020.16761. pmid: 32876689 
+110 Edalatifard M, Akhtari M, Salehi M, etal. Intravenous methylprednisolone pulse as a treatment for hospitalised severe COVID-19 patients: results from a randomised controlled clinical trial. Eur Respir J 2020; . doi: 10.1183/13993003.02808-2020 pmid: 32943404 
+111 Idelsis E-M, Jesus P-E, Yaquelin D-R, etal. Effect and safety of combination of interferon alpha-2b and gamma or interferon alpha-2b for negativization of SARS-CoV-2 viral RNA. Preliminary results of a randomized controlled clinical trial.medRxiv 2020:2020.07.29.20164251doi: 10.1101/2020.07.29.20164251. 
+112 Furtado RHM, Berwanger O, Fonseca HA, Correa TD, Ferraz LR, Lapa MG, et al. Azithromycin in addition to standard of care versus standard of care alone in the treatment of patients admitted to the hospital with severe COVID-19 in Brazil (COALITION II): a randomised clinical trial. Lancet. 2020;04:04. 
+113 Fu W, Liu Y, Liu L, etal. An open-label, randomized trial of the combination of IFN-.plus TFF2 with standard care in the treatment of patients with moderate COVID-19. EClinicalMedicine 2020;27:100547. doi: 10.1016/j.eclinm.2020.100547 pmid: 32984784 
+114 Horby P, Mafham M, Linsell L, etalRECOVERY Collaborative Group. Effect of Hydroxychloroquine in Hospitalized Patients with Covid-19. N Engl J Med 2020;383:2030-40. doi: 10.1056/NEJMoa2022926 pmid: 33031652 
+115 RECOVERY Collaborative Group. Lopinavir-ritonavir in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial. Lancet 2020;396:1345-52. doi: 10.1016/S0140-6736(20)32013-4 . 
+116 Ivashchenko AA, Dmitriev KA, Vostokova NV, etal. AVIFAVIR for Treatment of Patients with Moderate COVID-19: Interim Results of a Phase II/III Multicenter Randomized Clinical Trial. Clin Infect Dis 2020;pmid: 32770240 
+117 Jeronimo CMP, Farias MEL, Val FFA, etal for the Metcovid Team. Methylprednisolone as Adjunctive Therapy for Patients Hospitalized With COVID-19 (Metcovid): A Randomised, Double-Blind, Phase IIb, Placebo-Controlled Trial. Clin Infect Dis 2020;ciaa1177. . doi: 10.1093/cid/ciaa1177 pmid: 32785710 
+118 Lopes MIF, Bonjorno LP, Giannini MC, etal. Beneficial effects of colchicine for moderate to severe COVID-19: an interim analysis of a randomized, double-blinded, placebo controlled clinical trial (preprint).medRxiv 2020:2020.08.06.20169573. 
+119 Sekhavati E, Jafari F, SeyedAlinaghi S, etal. Safety and effectiveness of azithromycin in patients with COVID-19: An open-label randomised trial. Int J Antimicrob Agents 2020;56:106143. doi: 10.1016/j.ijantimicag.2020.106143. pmid: 32853672 
+120 Spinner CD, Gottlieb RL, Criner GJ, etalGS-US-540-5774 Investigators. Effect of Remdesivir vs Standard Care on Clinical Status at 11 Days in Patients With Moderate COVID-19: A Randomized Clinical Trial. JAMA 2020;324:1048-57. doi: 10.1001/jama.2020.16349 pmid: 32821939 
+121 Tomazini BM, Maia IS, Cavalcanti AB, etalCOALITION COVID-19 Brazil III Investigators. Effect of Dexamethasone on Days Alive and Ventilator-Free in Patients With Moderate or Severe Acute Respiratory Distress Syndrome and COVID-19: The CoDEX Randomized Clinical Trial. JAMA 2020;324:1307-16. doi: 10.1001/jama.2020.17021. pmid: 32876695 
+122 Sterne JAC, Murthy S, Diaz JV, etalWHO Rapid Evidence Appraisal for COVID-19 Therapies (REACT) Working Group. Association Between Administration of Systemic Corticosteroids and Mortality Among Critically Ill Patients With COVID-19: A Meta-analysis. JAMA 2020;324:1330-41. doi: 10.1001/jama.2020.17023. pmid: 32876694 
+123 Ulrich RJ, Troxel AB, Carmody E, etal. Treating COVID-19 With Hydroxychloroquine (TEACH): A Multicenter, Double-Blind Randomized Controlled Trial in Hospitalized Patients. Open Forum Infect Dis 2020;7:a446. doi: 10.1093/ofid/ofaa446. pmid: 33134417 
+124 Yethindra V, Tagaev T, Uulu MS, Parihar Y. Efficacy of umifenovir in the treatment of mild and moderate covid-19 patients. Int J Res Pharm Sci 2020;11:506-9 doi: 10.26452/ijrps.v11iSPL1.2839. 
+125 Abbaspour Kasgari H, Moradi S, Shabani AM, etal. Evaluation of the efficacy of sofosbuvir plus daclatasvir in combination with ribavirin for hospitalized COVID-19 patients with moderate disease compared with standard care: a single-centre, randomized controlled trial. J Antimicrob Chemother 2020;75:3373-8. doi: 10.1093/jac/dkaa332 pmid: 32812025 
+126 Altay O, Yang H, Aydin M, etal. Combined metabolic cofactor supplementation accelerates recovery in mild-to-moderate COVID-19.medRxiv . 2020: 2020.10.02.20202614. 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+127 Ansarin K, Tolouian R, Ardalan M, etal. Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial. Bioimpacts 2020;10:209-15. . doi: 10.34172/bi.2020.27 pmid: 32983936 
+128 Entrenas Castillo M, Entrenas Costa LM, Vaquero Barrios JMADJF, etal. “Effect of calcifediol treatment and best available therapy versus best available therapy on intensive care unit admission and mortality among patients hospitalized for COVID-19: A pilot randomized clinical study”. J Steroid Biochem Mol Biol 2020;203:105751. doi: 10.1016/j.jsbmb.2020.105751 pmid: 32871238 
+129 Cruz LR, Baladron I, Rittoles A, etal. Treatment with an Anti-CK2 Synthetic Peptide Improves Clinical Response in Covid-19 Patients with Pneumonia. A Randomized and Controlled Clinical Trial.medRxiv 2020; doi: 10.1101/2020.09.03.20187112. 
+130 Davoodi L, Abedi SM, Salehifar E, etal. Febuxostat therapy in outpatients with suspected COVID-19: A clinical trial. Int J Clin Pract 2020. doi: 10.1111/ijcp.13600 pmid: 32603531 
+131 de Alencar JCG, Moreira CL, Müller AD, etalCovid Register Group. Double-blind, randomized, placebo-controlled trial with N-acetylcysteine for treatment of severe acute respiratory syndrome caused by COVID-19. Clin Infect Dis 2020;ciaa1443. doi: 10.1093/cid/ciaa1443. pmid: 32964918 
+132 Delgado-Enciso I, Paz-Garcia J, Barajas-Saucedo CE, etal. Patient-Reported Health Outcomes After Treatment of COVID-19 with Nebulized and/or Intravenous Neutral Electrolyzed Saline Combined with Usual Medical Care Versus Usual Medical care alone: A Randomized, Open-Label, Controlled Trial.Research Square 2020; doi: 10.21203/rs.3.rs-68403/v1 . 
+133 Duarte M, Pelorosso FG, Nicolosi L, etal. Telmisartan for treatment of Covid-19 patients: an open randomized clinical trial. Preliminary report (preprint).medRxiv 2020: doi: 10.1101/2020.08.04.20167205 
+134 Guvenmez O, Keskin H, Ay B, Birinci S, Kanca MF. The comparison of the effectiveness of lincocin and azitro in the treatment of covid-19-associated pneumonia: a prospective study. J Popul Ther Clin Pharmacol 2020;27(S Pt 1):e5-10. doi: 10.15586/jptcp.v27iSP1.684. pmid: 32543164 
+135 Horby P, Mafham M, Linsell L, et al. Effect of hydroxychloroquine in hospitalized patients with COVID-19: preliminary results from a multi-centre, randomized, controlled trial. medRxiv 2020. doi: 10.1101/2020.07.15.20151852. 
+136 Hu K, Wang M, Zhao Y, etal. A small-scale medication of leflunomide as a treatment of COVID-19 in an open-label blank-controlled clinical trial. Virol Sin 2020:1-9. pmid: 32696396 
+137 Huang Y-Q, Tang S-Q, Xu X-L, etal. No statistically apparent difference in antiviral effectiveness observed among ribavirin plus interferon-alpha, lopinavir/ritonavir plus interferon-alpha, and ribavirin plus lopinavir/ritonavir plus interferon-alpha in patients with mild to moderate coronavirus disease 2019: results of a randomized, open-labeled prospective study. Front Pharmacol 2020;11:1071. doi: 10.3389/fphar.2020.01071 pmid: 32765274 
+138 Ivashchenko AA, Dmitriev KA, Vostokova NV, etal. Interim Results of a Phase II/III Multicenter Randomized Clinical Trial of AVIFAVIR in Hospitalized Patients with COVID-19 (preprint).medRxiv 2020:2020.07.26.20154724. doi: 10.1101/2020.07.26.20154724. 
+139 Ivashchenko AA, Dmitriev KA, Vostokova NV, etal. AVIFAVIR for Treatment of Patients with Moderate COVID-19: Interim Results of a Phase II/III Multicenter Randomized Clinical Trial (preprint).medRxiv 2020:2020.07.26.20154724. doi: 10.1101/2020.07.26.20154724 
+140 Kimura KS, Freeman MH, Wessinger BC, etal. Interim Analysis of an Open-label Randomized Controlled Trial Evaluating Nasal Irrigations in Non-hospitalized Patients with COVID-19. Int Forum Allergy Rhinol 2020doi: 10.1002/alr.22703 . 
+141 Lemos ACB, do Espírito Santo DA, Salvetti MC, etal. Therapeutic versus prophylactic anticoagulation for severe COVID-19: A randomized phase II clinical trial (HESACOVID). Thromb Res 2020;196:359-66. doi: 10.1016/j.thromres.2020.09.026 pmid: 32977137 
+142 Li T, Sun L, Zhang W, Zheng C, Jiang C, Chen M, etalBromhexine Hydrochloride Tablets for the Treatment of Moderate COVID-19: An Open-label Randomized Controlled Pilot Study. Clin Transl Sci 2020; doi: 10.1111/cts.12881. 
+143 Mansour E, Palma AC, Ulaf RG, etal. Pharmacological inhibition of the kinin-kallikrein system in severe COVID-19 A proof-of-concept study (preprint).medRxiv 2020:2020.08.11.20167353. doi: 10.1101/2020.08.11.20167353 
+144 Mehboob R, Ahmad F, Qayyum A, etal. Aprepitant as a combinant with Dexamethasone reduces the inflammation via Neurokinin 1 Receptor Antagonism in severe to critical Covid-19 patients and potentiates respiratory recovery: A novel therapeutic approach (preprint).medRxiv 2020:2020.08.01.20166678doi: 10.1101/2020.08.01.20166678. 
+145 Miller J, Bruen C, Schnaus M, etal. Auxora versus standard of care for the treatment of severe or critical COVID-19 pneumonia: results from a randomized controlled trial. Crit Care 2020;24:502. doi: 10.1186/s13054-020-03220-x pmid: 32795330 
+146 Pan H, Peto R, Karim QA, etal. Repurposed antiviral drugs for COVID-19 –interim WHO SOLIDARITY trial results.medRxiv . 2020: 2020.10.15.20209817. 
+147 Rahmani H, Davoudi-Monfared E, Nourian A, etal. Interferon ß-1b in treatment of severe COVID-19: A randomized clinical trial. Int Immunopharmacol 2020;88:106903. doi: 10.1016/j.intimp.2020.106903 pmid: 32862111 
+148 Ren Z, Luo H, Yu Z, etal. A Randomized, Open-label, Controlled Clinical Trial of Azvudine Tablets in the Treatment of Mild and Common COVID-19, A Pilot Study. Adv Sci (Weinh) 2020;2001435. . doi: 10.1002/advs.202001435 pmid: 32837847 
+149 Sadeghi A, Ali Asgari A, Norouzi A, etal. Sofosbuvir and daclatasvir compared with standard of care in the treatment of patients admitted to hospital with moderate or severe coronavirus infection (COVID-19): a randomized controlled trial. J Antimicrob Chemother 2020;75:3379-85. . doi: 10.1093/jac/dkaa334 pmid: 32812039 150 Borba MGS, Val FFA, Sampaio VS, et al. Chloroquine diphosphate in two different dosages as adjunctive therapy of hospitalized patients with severe respiratory syndrome in the context of coronavirus (SARS-CoV-2) infection: preliminary safety results of a randomized, double-blinded, phase IIb clinical trial (CloroCovid-19 Study). medRxiv 2020. doi: 10.1101/2020.04.07.20056424. 
+151 Tang W, Cao Z, Han M, et al. Hydroxychloroquine in patients with COVID-19: an open-label, randomized, controlled trial. medRxiv 2020. doi: 10.1101/2020.04.10.20060558. 
+152 Vlaar APJ, de Bruin S, Busch M, etal. Anti-C5a antibody IFX-1 (vilobelimab) treatment versus best supportive care for patients with severe COVID-19 (PANAMO): an exploratory, open-label, phase 2 randomised controlled trial. Lancet Rheumatol 2020;2:e764-73. doi: 10.1016/S2665-9913(20)30341-6 pmid: 33015643 
+153 Vlaar APJ, de Bruin S, Busch M, et al. Anti-C5a antibody (IFX-1) treatment of severe COVID-19: an exploratory phase 2 randomized controlled trial. SSRN 2020. https://papers.ssrn.com/sol3/pa­
+pers.cfm?abstract_id=3658226. 
+154 Wang D, Fu B, Peng Z, etal. Tocilizumab Ameliorates the Hypoxia in COVID-19 Moderate Patients with Bilateral Pulmonary Lesions: A Randomized, Controlled, Open-Label, Multicenter Trial (preprint).SSRN doi: 10.2139/ssrn.3667681 
+155 Wang M, Zhao Y, Hu W, etal. Treatment of COVID-19 Patients with Prolonged Post-Symptomatic Viral Shedding with Leflunomide --a Single-Center, Randomized, Controlled Clinical Trial. Clin Infect Dis 2020;ciaa1417. doi: 10.1093/cid/ciaa1417. pmid: 32955081 
+156 Wu X, Yu K, Wang Y, etal. Efficacy and safety of triazavirin therapy for coronavirus disease 2019: A pilot randomized controlled trial. Engineering (Beijing) 2020;6:1185-91. doi: 10.1016/j.eng.2020.08.011 pmid: 32923016 
+157 Zheng F, Zhou Y, Zhou Z, etal. SARS-CoV-2 clearance in COVID-19 patients with Novaferon treatment: A randomized, open-label, parallel-group trial. Int J Infect Dis 2020;99:84-91. doi: 10.1016/j.ijid.2020.07.053 pmid: 32758689 
+158 Zhong M, Sun A, Xiao T, et al. A randomized, single-blind, group sequential, active-controlled study to evaluate the clinical efficacy and safety of a-lipoic acid for critically ill patients with coronavirus disease 2019 (COVID-19). medRxiv 2020. doi: 10.1101/2020.04.15.20066266. 
+159 Zhou W, Zhao F, Li B, etal. Diamine glycyrrhizinate in common COVID-19 patients. Clinical value in treatment. Chin J Virol 2020;36:160-4. 
+160 Hermine O, Mariette X, Tharaux P-L, Resche-Rigon M, Porcher R, Ravaud PCORIMUNO-19 Collaborative Group. Effect of Tocilizumab vs Usual Care in Adults Hospitalized With COVID-19 and Moderate or Severe Pneumonia: A Randomized Clinical Trial. JAMA Intern Med 2020. doi: 10.1001/jamainternmed.2020.6820 pmid: 33080017 
+161 Salvarani C, Dolci G, Massari M, etalRCT-TCZ-COVID-19 Study Group. Effect of Tocilizumab vs Standard Care on Clinical Worsening in Patients Hospitalized With COVID-19 Pneumonia: A Randomized Clinical Trial. JAMA Intern Med 2020. doi: 10.1001/jamainternmed.2020.6615 pmid: 33080005 
+162 Stone JH, Frigault MJ, Serling-Boyd NJ, etalBACC Bay Tocilizumab Trial Investigators. Efficacy of Tocilizumab in Patients Hospitalized with Covid-19. N Engl J Med 2020;383:2333-44. doi: 10.1056/NEJMoa2028836 pmid: 33085857 
+163 Dubée V, Roy P-M, Vielle B, etal. A placebo-controlled double blind trial of hydroxychloroquine in mild-to-moderate COVID-19.medRxiv 2020: doi: 10.1101/2020.10.19.20214940. 
+164 Valizadeh H, Abdolmohammadi-Vahid S, Danshina S, etal. Nano-curcumin therapy, a promising method in modulating inflammatory cytokines in COVID-19 patients. Int Immunopharmacol 2020;89(Pt B):107088. doi: 10.1016/j.intimp.2020.107088. pmid: 33129099 
+165 Salama C, Han J, Yau L, etal. Tocilizumab in nonventilated patients hospitalized with Covid-19 pneumonia.medRxiv 2020: doi: 10.1101/2020.10.21.20210203 . 
+166 Rocco PRM, Silva PL, Cruz FF, etal. Early use of nitazoxanide in mild Covid-19 disease: randomized, placebo-controlled trial.medRxiv . 2020: doi: 10.1101/2020.10.21.20217208. 
+167 Ivashchenko AA, Dmitriev KA, Vostokova NV, etal. AVIFAVIR for treatment of patients with moderate COVID-19: interim results of a phase II/III multicenter randomized clinical trial. Clin Infect Dis 2020; .pmid: 32770240 
+168 Brignardello-Petersen R, Murad MH, Walter SD, etalGRADE Working Group. GRADE approach to rate the certainty from a network meta-analysis: avoiding spurious judgments of imprecision in sparse networks. J Clin Epidemiol 2019;105:60-7. doi: 10.1016/j.jclinepi.2018.08.022 pmid: 30253217 
+169 Guyatt GH, Oxman AD, Vist G, etal. GRADE guidelines: 4. Rating the quality of evidence--study limitations (risk of bias). J Clin Epidemiol 2011;64:407-15. doi: 10.1016/j.jclinepi.2010.07.017 pmid: 21247734 
+170 Schandelmaier S, Briel M, Varadhan R, etal. A new instrument to assess the credibility of effect modification analyses (ICEMAN) in randomized controlled trials and meta-analyses. CMAJ 2020; doi: 10.1503/cmaj.200077 . 
+171 Boutron I, Chaimani A, Devane D, et al. Interventions for preventing and treating COVID-19: protocol for a living mapping of research and a living systematic review. Zenodo 2020. https://zenodo.org/record/3744600#.X1igcnlKiN5. 
+172 Juul S, Nielsen N, Bentzer P, etal. Interventions for treatment of COVID-19: a protocol for a living systematic review with network meta-analysis including individual patient data (The LIVING Project). Syst Rev 2020;9:108. doi: 10.1186/s13643-020-01371-0 pmid: 32386514 
+This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original 
+
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+work is properly cited and the use is non-commercial. See: http://creativecommons.org/licenses/by­
+nc/4.0/. 
+BMJ: first published as 10.1136/bmj.m2980 on 30 July 2020. Downloaded from http://www.bmj.com/ on 22 March 2021 at Yale Uni NERL Consortia. Protected by copyright. 
+
+
