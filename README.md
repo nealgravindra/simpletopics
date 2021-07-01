@@ -6,3 +6,6 @@ composite scores for indexed descriptions to target document(s)
 
 ## experiments
 1. see if this can be done with a kind of hyperfoods heuristic, i.e., get simpletopics up and running
+
+## results
+1. wtf should this look like? at least have modules for parsing .xml description text and full literature, have a comparison of sensibility between topics by trying review -> description para and vice versa, and store these steps somewhere. Post distillation here
