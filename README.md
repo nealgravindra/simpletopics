@@ -9,11 +9,11 @@ Based on v2.0.0 of the ML Reproducibility Checklist ([here](https://www.cs.mcgil
    - data preprocessing in `data.py`
    - trainer in `train.py`
 3. evaluation scripts
-  - in `eval.py` or `utils.py`
+   - in `eval.py` or `utils.py`
 4. Pretrained models
-  - everything stored as pytorch state dicts, as `.pkl` files, with format `{bst epoch}_{exp}.pkl` where exp usually specifies model and task
+   - everything stored as pytorch state dicts, as `.pkl` files, with format `{bst epoch}_{exp}.pkl` where exp usually specifies model and task
 5. results
-  - stored in `notebooks/` since everyone prefers these for visualization nowadays
+   - stored in `notebooks/` since everyone prefers these for visualization nowadays
 
 ## ideas
 1. one question is how to construct good priors and the idea here is to evaluate the model based on scientific knowledge priors, which can get complicated, depending on the lang model used. This will allow one to at least satisfy hill's criterion of consistency w.r.t. causal knowledge, at least complementing hidden structure coherently
