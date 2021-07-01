@@ -4,15 +4,16 @@ composite scores for indexed descriptions to target document(s)
 ## code layout
 
 Based on v2.0.0 of the ML Reproducibility Checklist ([here](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf))
-1. Dependencies in `requirements.txt`
-2. Training scripts
+1. Dependencies 
+   - see `requirements.txt`
+3. Training scripts
    - data preprocessing in `data.py`
    - trainer in `train.py`
-3. evaluation scripts
+4. Evaluation scripts
    - in `eval.py` or `utils.py`
-4. Pretrained models
+5. Pretrained models
    - everything stored as pytorch state dicts, as `.pkl` files, with format `{bst epoch}_{exp}.pkl` where exp usually specifies model and task
-5. results
+6. Results
    - stored in `notebooks/` since everyone prefers these for visualization nowadays
 
 ## ideas
