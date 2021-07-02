@@ -22,6 +22,9 @@ Based on v2.0.0 of the ML Reproducibility Checklist ([here](https://www.cs.mcgil
 
 ## experiments
 1. see if this can be done with a kind of hyperfoods heuristic, i.e., get simpletopics up and running
+    - corpus for training is composed of paragraphs from 3 reviews (each paragraph is a document) and each drug's descriptions comprises a new document for a corpus, which may slightly differ in language
+    - swapping train/test corpi
+    - 
 
 ## results
 1. wtf should this look like? at least have modules for parsing .xml description text and full literature, have a comparison of sensibility between topics by trying review -> description para and vice versa, and store these steps somewhere. Post distillation here
